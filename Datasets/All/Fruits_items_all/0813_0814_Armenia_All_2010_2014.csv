@@ -1,0 +1,160 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081310,"Fruit, edible; apricots, dried",8,Weight in kilograms,37202,,,,37202,,103828,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,4,Afghanistan,AFG,,,,,,,,081310,"Fruit, edible; apricots, dried",8,Weight in kilograms,400,,,,400,,1200,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,081310,"Fruit, edible; apricots, dried",8,Weight in kilograms,42,,,,42,,430,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,081310,"Fruit, edible; apricots, dried",8,Weight in kilograms,26270,,,,26270,,71702,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,081310,"Fruit, edible; apricots, dried",8,Weight in kilograms,2080,,,,2080,,6240,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,784,United Arab Emirates,ARE,,,,,,,,081310,"Fruit, edible; apricots, dried",8,Weight in kilograms,2210,,,,2210,,6630,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,081310,"Fruit, edible; apricots, dried",8,Weight in kilograms,6200,,,,6200,,17625,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081320,"Fruit, edible; prunes, dried",8,Weight in kilograms,42584,,,,42584,,110391,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,32,Argentina,ARG,,,,,,,,081320,"Fruit, edible; prunes, dried",8,Weight in kilograms,11000,,,,11000,,28828,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,081320,"Fruit, edible; prunes, dried",8,Weight in kilograms,10900,,,,10900,,22313,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,081320,"Fruit, edible; prunes, dried",8,Weight in kilograms,81,,,,81,,734,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,081320,"Fruit, edible; prunes, dried",8,Weight in kilograms,280,,,,280,,952,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,784,United Arab Emirates,ARE,,,,,,,,081320,"Fruit, edible; prunes, dried",8,Weight in kilograms,375,,,,375,,1275,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,081320,"Fruit, edible; prunes, dried",8,Weight in kilograms,19948,,,,19948,,56290,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081330,"Fruit, edible; apples, dried",8,Weight in kilograms,8,,,,8,,150,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,081330,"Fruit, edible; apples, dried",8,Weight in kilograms,8,,,,8,,150,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081340,"Fruit, edible; fruit n.e.c. in heading no. 0812, dried",8,Weight in kilograms,25198,,,,25198,,63644,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,4,Afghanistan,AFG,,,,,,,,081340,"Fruit, edible; fruit n.e.c. in heading no. 0812, dried",8,Weight in kilograms,80,,,,80,,360,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,100,Bulgaria,BGR,,,,,,,,081340,"Fruit, edible; fruit n.e.c. in heading no. 0812, dried",8,Weight in kilograms,100,,,,100,,1019,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,203,Czechia,CZE,,,,,,,,081340,"Fruit, edible; fruit n.e.c. in heading no. 0812, dried",8,Weight in kilograms,8,,,,8,,199,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,081340,"Fruit, edible; fruit n.e.c. in heading no. 0812, dried",8,Weight in kilograms,820,,,,820,,2006,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,081340,"Fruit, edible; fruit n.e.c. in heading no. 0812, dried",8,Weight in kilograms,31,,,,31,,476,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,704,Viet Nam,VNM,,,,,,,,081340,"Fruit, edible; fruit n.e.c. in heading no. 0812, dried",8,Weight in kilograms,13970,,,,13970,,25110,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,081340,"Fruit, edible; fruit n.e.c. in heading no. 0812, dried",8,Weight in kilograms,4640,,,,4640,,12093,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,081340,"Fruit, edible; fruit n.e.c. in heading no. 0812, dried",8,Weight in kilograms,3300,,,,3300,,12930,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,081340,"Fruit, edible; fruit n.e.c. in heading no. 0812, dried",8,Weight in kilograms,2250,,,,2250,,9450,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081350,"Nuts, edible; mixtures of nuts or dried fruits of chapter 08",8,Weight in kilograms,90,,,,90,,1057,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,081350,"Nuts, edible; mixtures of nuts or dried fruits of chapter 08",8,Weight in kilograms,62,,,,62,,607,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,081350,"Nuts, edible; mixtures of nuts or dried fruits of chapter 08",8,Weight in kilograms,14,,,,14,,182,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,688,Serbia,SRB,,,,,,,,081350,"Nuts, edible; mixtures of nuts or dried fruits of chapter 08",8,Weight in kilograms,1,,,,1,,83,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,826,United Kingdom,GBR,,,,,,,,081350,"Nuts, edible; mixtures of nuts or dried fruits of chapter 08",8,Weight in kilograms,13,,,,13,,185,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081310,"Fruit, edible; apricots, dried",8,Weight in kilograms,62272,,,,62272,,321717,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,081310,"Fruit, edible; apricots, dried",8,Weight in kilograms,1,,,,1,,149,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,081310,"Fruit, edible; apricots, dried",8,Weight in kilograms,65,,,,65,,647,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,081310,"Fruit, edible; apricots, dried",8,Weight in kilograms,54606,,,,54606,,301541,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,422,Lebanon,LBN,,,,,,,,081310,"Fruit, edible; apricots, dried",8,Weight in kilograms,96,,,,96,,1131,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,081310,"Fruit, edible; apricots, dried",8,Weight in kilograms,650,,,,650,,1950,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,762,Tajikistan,TJK,,,,,,,,081310,"Fruit, edible; apricots, dried",8,Weight in kilograms,690,,,,690,,2106,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,081310,"Fruit, edible; apricots, dried",8,Weight in kilograms,5164,,,,5164,,12542,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,860,Uzbekistan,UZB,,,,,,,,081310,"Fruit, edible; apricots, dried",8,Weight in kilograms,1000,,,,1000,,1650,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081320,"Fruit, edible; prunes, dried",8,Weight in kilograms,35101,,,,35101,,118427,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,32,Argentina,ARG,,,,,,,,081320,"Fruit, edible; prunes, dried",8,Weight in kilograms,2700,,,,2700,,9652,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,100,Bulgaria,BGR,,,,,,,,081320,"Fruit, edible; prunes, dried",8,Weight in kilograms,0,,,,0,,43,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,081320,"Fruit, edible; prunes, dried",8,Weight in kilograms,25400,,,,25400,,83908,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,081320,"Fruit, edible; prunes, dried",8,Weight in kilograms,117,,,,117,,1267,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,081320,"Fruit, edible; prunes, dried",8,Weight in kilograms,50,,,,50,,100,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,422,Lebanon,LBN,,,,,,,,081320,"Fruit, edible; prunes, dried",8,Weight in kilograms,10,,,,10,,69,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,688,Serbia,SRB,,,,,,,,081320,"Fruit, edible; prunes, dried",8,Weight in kilograms,2,,,,2,,197,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,081320,"Fruit, edible; prunes, dried",8,Weight in kilograms,1,,,,1,,40,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,081320,"Fruit, edible; prunes, dried",8,Weight in kilograms,617,,,,617,,2240,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,860,Uzbekistan,UZB,,,,,,,,081320,"Fruit, edible; prunes, dried",8,Weight in kilograms,6205,,,,6205,,20912,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081330,"Fruit, edible; apples, dried",8,Weight in kilograms,14,,,,14,,287,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,081330,"Fruit, edible; apples, dried",8,Weight in kilograms,10,,,,10,,187,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,081330,"Fruit, edible; apples, dried",8,Weight in kilograms,5,,,,5,,100,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081340,"Fruit, edible; fruit n.e.c. in heading no. 0812, dried",8,Weight in kilograms,42560,,,,42560,,198352,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,40,Austria,AUT,,,,,,,,081340,"Fruit, edible; fruit n.e.c. in heading no. 0812, dried",8,Weight in kilograms,2,,,,2,,36,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,081340,"Fruit, edible; fruit n.e.c. in heading no. 0812, dried",8,Weight in kilograms,3617,,,,3617,,49616,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,203,Czechia,CZE,,,,,,,,081340,"Fruit, edible; fruit n.e.c. in heading no. 0812, dried",8,Weight in kilograms,3,,,,3,,115,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,081340,"Fruit, edible; fruit n.e.c. in heading no. 0812, dried",8,Weight in kilograms,1700,,,,1700,,3964,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,081340,"Fruit, edible; fruit n.e.c. in heading no. 0812, dried",8,Weight in kilograms,103,,,,103,,2162,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,422,Lebanon,LBN,,,,,,,,081340,"Fruit, edible; fruit n.e.c. in heading no. 0812, dried",8,Weight in kilograms,368,,,,368,,3151,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,498,Rep. of Moldova,MDA,,,,,,,,081340,"Fruit, edible; fruit n.e.c. in heading no. 0812, dried",8,Weight in kilograms,800,,,,800,,2882,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,704,Viet Nam,VNM,,,,,,,,081340,"Fruit, edible; fruit n.e.c. in heading no. 0812, dried",8,Weight in kilograms,17200,,,,17200,,27520,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,081340,"Fruit, edible; fruit n.e.c. in heading no. 0812, dried",8,Weight in kilograms,3000,,,,3000,,11587,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,081340,"Fruit, edible; fruit n.e.c. in heading no. 0812, dried",8,Weight in kilograms,2700,,,,2700,,11490,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,081340,"Fruit, edible; fruit n.e.c. in heading no. 0812, dried",8,Weight in kilograms,13067,,,,13067,,85829,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081350,"Nuts, edible; mixtures of nuts or dried fruits of chapter 08",8,Weight in kilograms,183,,,,183,,1292,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,081350,"Nuts, edible; mixtures of nuts or dried fruits of chapter 08",8,Weight in kilograms,24,,,,24,,293,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,422,Lebanon,LBN,,,,,,,,081350,"Nuts, edible; mixtures of nuts or dried fruits of chapter 08",8,Weight in kilograms,9,,,,9,,98,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,081350,"Nuts, edible; mixtures of nuts or dried fruits of chapter 08",8,Weight in kilograms,150,,,,150,,901,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081310,"Apricots, dried",8,Weight in kilograms,81471,,,,81471,,319895,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,081310,"Apricots, dried",8,Weight in kilograms,5300,,,,5300,,11925,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,081310,"Apricots, dried",8,Weight in kilograms,39,,,,39,,230,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,081310,"Apricots, dried",8,Weight in kilograms,20800,,,,20800,,46800,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,081310,"Apricots, dried",8,Weight in kilograms,51290,,,,51290,,249331,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,081310,"Apricots, dried",8,Weight in kilograms,4042,,,,4042,,11609,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081310,"Apricots, dried",8,Weight in kilograms,93832,,,,93832,,232077,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,32,Argentina,ARG,,,,,,,,081310,"Apricots, dried",8,Weight in kilograms,200,,,,200,,380,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,081310,"Apricots, dried",8,Weight in kilograms,86,,,,86,,485,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,081310,"Apricots, dried",8,Weight in kilograms,15640,,,,15640,,35173,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,081310,"Apricots, dried",8,Weight in kilograms,74095,,,,74095,,188401,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,081310,"Apricots, dried",8,Weight in kilograms,510,,,,510,,1169,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,784,United Arab Emirates,ARE,,,,,,,,081310,"Apricots, dried",8,Weight in kilograms,300,,,,300,,721,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,860,Uzbekistan,UZB,,,,,,,,081310,"Apricots, dried",8,Weight in kilograms,3001,,,,3001,,5749,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081310,"Apricots, dried",8,Weight in kilograms,104539,,,,104539,,268351,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,081310,"Apricots, dried",8,Weight in kilograms,114,,,,114,,1066,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,081310,"Apricots, dried",8,Weight in kilograms,9850,,,,9850,,20685,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,081310,"Apricots, dried",8,Weight in kilograms,94545,,,,94545,,246473,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,081310,"Apricots, dried",8,Weight in kilograms,30,,,,30,,127,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081320,"Prunes, dried",8,Weight in kilograms,72188,,,,72188,,167920,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,32,Argentina,ARG,,,,,,,,081320,"Prunes, dried",8,Weight in kilograms,45055,,,,45055,,93900,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,081320,"Prunes, dried",8,Weight in kilograms,6750,,,,6750,,18103,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,081320,"Prunes, dried",8,Weight in kilograms,166,,,,166,,976,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,081320,"Prunes, dried",8,Weight in kilograms,60,,,,60,,318,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,081320,"Prunes, dried",8,Weight in kilograms,157,,,,157,,652,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,081320,"Prunes, dried",8,Weight in kilograms,19000,,,,19000,,51971,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,860,Uzbekistan,UZB,,,,,,,,081320,"Prunes, dried",8,Weight in kilograms,1000,,,,1000,,2000,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081320,"Prunes, dried",8,Weight in kilograms,134846,,,,134846,,357515,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,32,Argentina,ARG,,,,,,,,081320,"Prunes, dried",8,Weight in kilograms,56200,,,,56200,,155635,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,081320,"Prunes, dried",8,Weight in kilograms,38400,,,,38400,,100402,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,081320,"Prunes, dried",8,Weight in kilograms,81,,,,81,,394,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,081320,"Prunes, dried",8,Weight in kilograms,153,,,,153,,616,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,081320,"Prunes, dried",8,Weight in kilograms,40012,,,,40012,,100469,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081320,"Prunes, dried",8,Weight in kilograms,73910,,,,73910,,210892,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,32,Argentina,ARG,,,,,,,,081320,"Prunes, dried",8,Weight in kilograms,32500,,,,32500,,86753,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,081320,"Prunes, dried",8,Weight in kilograms,1,,,,1,,94,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,081320,"Prunes, dried",8,Weight in kilograms,172,,,,172,,1384,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,081320,"Prunes, dried",8,Weight in kilograms,288,,,,288,,1833,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,081320,"Prunes, dried",8,Weight in kilograms,40949,,,,40949,,120828,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081330,"Apples, dried",8,Weight in kilograms,520,,,,520,,2089,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,081330,"Apples, dried",8,Weight in kilograms,500,,,,500,,1879,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,081330,"Apples, dried",8,Weight in kilograms,20,,,,20,,210,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081330,"Apples, dried",8,Weight in kilograms,1008,,,,1008,,4804,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,081330,"Apples, dried",8,Weight in kilograms,1000,,,,1000,,4724,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,081330,"Apples, dried",8,Weight in kilograms,8,,,,8,,80,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081330,"Apples, dried",8,Weight in kilograms,14,,,,14,,248,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,081330,"Apples, dried",8,Weight in kilograms,14,,,,14,,248,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081340,Dried fruit (excl. of 08.01-08.06 & 0813.10-0813.30),8,Weight in kilograms,32102,,,,32102,,93382,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,081340,Dried fruit (excl. of 08.01-08.06 & 0813.10-0813.30),8,Weight in kilograms,6580,,,,6580,,21654,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,081340,Dried fruit (excl. of 08.01-08.06 & 0813.10-0813.30),8,Weight in kilograms,17425,,,,17425,,40625,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,081340,Dried fruit (excl. of 08.01-08.06 & 0813.10-0813.30),8,Weight in kilograms,24,,,,24,,117,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,081340,Dried fruit (excl. of 08.01-08.06 & 0813.10-0813.30),8,Weight in kilograms,5293,,,,5293,,16859,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,081340,Dried fruit (excl. of 08.01-08.06 & 0813.10-0813.30),8,Weight in kilograms,30,,,,30,,265,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,081340,Dried fruit (excl. of 08.01-08.06 & 0813.10-0813.30),8,Weight in kilograms,2700,,,,2700,,12749,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,081340,Dried fruit (excl. of 08.01-08.06 & 0813.10-0813.30),8,Weight in kilograms,50,,,,50,,1113,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081340,Dried fruit (excl. of 08.01-08.06 & 0813.10-0813.30),8,Weight in kilograms,22712,,,,22712,,64204,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,081340,Dried fruit (excl. of 08.01-08.06 & 0813.10-0813.30),8,Weight in kilograms,1425,,,,1425,,5345,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,081340,Dried fruit (excl. of 08.01-08.06 & 0813.10-0813.30),8,Weight in kilograms,3708,,,,3708,,10273,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,081340,Dried fruit (excl. of 08.01-08.06 & 0813.10-0813.30),8,Weight in kilograms,55,,,,55,,634,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,081340,Dried fruit (excl. of 08.01-08.06 & 0813.10-0813.30),8,Weight in kilograms,1435,,,,1435,,4466,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,081340,Dried fruit (excl. of 08.01-08.06 & 0813.10-0813.30),8,Weight in kilograms,160,,,,160,,926,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,704,Viet Nam,VNM,,,,,,,,081340,Dried fruit (excl. of 08.01-08.06 & 0813.10-0813.30),8,Weight in kilograms,12003,,,,12003,,27496,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,081340,Dried fruit (excl. of 08.01-08.06 & 0813.10-0813.30),8,Weight in kilograms,3200,,,,3200,,12328,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,784,United Arab Emirates,ARE,,,,,,,,081340,Dried fruit (excl. of 08.01-08.06 & 0813.10-0813.30),8,Weight in kilograms,3,,,,3,,32,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,081340,Dried fruit (excl. of 08.01-08.06 & 0813.10-0813.30),8,Weight in kilograms,231,,,,231,,1171,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,081340,Dried fruit (excl. of 08.01-08.06 & 0813.10-0813.30),8,Weight in kilograms,492,,,,492,,1533,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081340,Dried fruit (excl. of 08.01-08.06 & 0813.10-0813.30),8,Weight in kilograms,24316,,,,24316,,65475,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,081340,Dried fruit (excl. of 08.01-08.06 & 0813.10-0813.30),8,Weight in kilograms,1040,,,,1040,,4033,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,203,Czechia,CZE,,,,,,,,081340,Dried fruit (excl. of 08.01-08.06 & 0813.10-0813.30),8,Weight in kilograms,36,,,,36,,1434,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,081340,Dried fruit (excl. of 08.01-08.06 & 0813.10-0813.30),8,Weight in kilograms,520,,,,520,,1799,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,081340,Dried fruit (excl. of 08.01-08.06 & 0813.10-0813.30),8,Weight in kilograms,40,,,,40,,783,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,081340,Dried fruit (excl. of 08.01-08.06 & 0813.10-0813.30),8,Weight in kilograms,4814,,,,4814,,18659,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,081340,Dried fruit (excl. of 08.01-08.06 & 0813.10-0813.30),8,Weight in kilograms,66,,,,66,,356,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,704,Viet Nam,VNM,,,,,,,,081340,Dried fruit (excl. of 08.01-08.06 & 0813.10-0813.30),8,Weight in kilograms,13500,,,,13500,,21601,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,081340,Dried fruit (excl. of 08.01-08.06 & 0813.10-0813.30),8,Weight in kilograms,4300,,,,4300,,16810,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081350,Mixtures of nuts/dried fruits of Ch.8,8,Weight in kilograms,2180,,,,2180,,14249,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,081350,Mixtures of nuts/dried fruits of Ch.8,8,Weight in kilograms,384,,,,384,,1259,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,081350,Mixtures of nuts/dried fruits of Ch.8,8,Weight in kilograms,991,,,,991,,7683,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,081350,Mixtures of nuts/dried fruits of Ch.8,8,Weight in kilograms,61,,,,61,,510,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,081350,Mixtures of nuts/dried fruits of Ch.8,8,Weight in kilograms,124,,,,124,,940,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,081350,Mixtures of nuts/dried fruits of Ch.8,8,Weight in kilograms,434,,,,434,,2655,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,826,United Kingdom,GBR,,,,,,,,081350,Mixtures of nuts/dried fruits of Ch.8,8,Weight in kilograms,188,,,,188,,1202,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081350,Mixtures of nuts/dried fruits of Ch.8,8,Weight in kilograms,1326,,,,1326,,8657,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,081350,Mixtures of nuts/dried fruits of Ch.8,8,Weight in kilograms,382,,,,382,,2972,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,081350,Mixtures of nuts/dried fruits of Ch.8,8,Weight in kilograms,10,,,,10,,148,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,081350,Mixtures of nuts/dried fruits of Ch.8,8,Weight in kilograms,935,,,,935,,5537,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081350,Mixtures of nuts/dried fruits of Ch.8,8,Weight in kilograms,54,,,,54,,442,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,081350,Mixtures of nuts/dried fruits of Ch.8,8,Weight in kilograms,2,,,,2,,41,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,081350,Mixtures of nuts/dried fruits of Ch.8,8,Weight in kilograms,52,,,,52,,401,,,0

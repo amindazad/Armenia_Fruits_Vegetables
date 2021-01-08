@@ -1,0 +1,240 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080211,"Nuts, edible; almonds, fresh or dried, in shell",8,Weight in kilograms,318,,,,318,,1200,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080211,"Nuts, edible; almonds, fresh or dried, in shell",8,Weight in kilograms,250,,,,250,,962,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080211,"Nuts, edible; almonds, fresh or dried, in shell",8,Weight in kilograms,68,,,,68,,238,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",1,No Quantity,0,,,,,,1844705,,,6
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,36,Australia,AUS,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,20797,,,,20797,,136291,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,40,,,,40,,460,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,175,,,,175,,1568,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,600,,,,600,,4738,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,14621,,,,14621,,14035,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,264768,,,,264768,,1687508,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",1,No Quantity,0,,,,,,103,,,6
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080221,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, in shell",8,Weight in kilograms,62765,,,,62765,,21592,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080221,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, in shell",8,Weight in kilograms,62765,,,,62765,,21592,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,749580,,,,749580,,455007,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,749580,,,,749580,,455007,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,153886,,,,153886,,683915,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,1200,,,,1200,,18689,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,498,Rep. of Moldova,MDA,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,12000,,,,12000,,123200,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,4830,,,,4830,,4910,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,127151,,,,127151,,481695,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,190,,,,190,,3154,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,860,Uzbekistan,UZB,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,8000,,,,8000,,52200,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,515,,,,515,,66,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080241,"Nuts, edible; chestnuts (Castanea spp.), fresh or dried, in shell",8,Weight in kilograms,2737,,,,2737,,3656,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080241,"Nuts, edible; chestnuts (Castanea spp.), fresh or dried, in shell",8,Weight in kilograms,2737,,,,2737,,3656,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080251,"Nuts, edible; pistachios, fresh or dried, in shell",8,Weight in kilograms,416494,,,,416494,,262641,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080251,"Nuts, edible; pistachios, fresh or dried, in shell",8,Weight in kilograms,405143,,,,405143,,224103,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080251,"Nuts, edible; pistachios, fresh or dried, in shell",8,Weight in kilograms,9593,,,,9593,,37121,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,080251,"Nuts, edible; pistachios, fresh or dried, in shell",8,Weight in kilograms,1757,,,,1757,,1416,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080252,"Nuts, edible; pistachios, fresh or dried, shelled",8,Weight in kilograms,18760,,,,18760,,59225,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080252,"Nuts, edible; pistachios, fresh or dried, shelled",8,Weight in kilograms,18760,,,,18760,,59225,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080262,"Nuts, edible; macadamia, fresh or dried, shelled",8,Weight in kilograms,1621,,,,1621,,7262,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,36,Australia,AUS,,,,,,,,080262,"Nuts, edible; macadamia, fresh or dried, shelled",8,Weight in kilograms,1224,,,,1224,,5536,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080262,"Nuts, edible; macadamia, fresh or dried, shelled",8,Weight in kilograms,226,,,,226,,986,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,404,Kenya,KEN,,,,,,,,080262,"Nuts, edible; macadamia, fresh or dried, shelled",8,Weight in kilograms,56,,,,56,,246,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080262,"Nuts, edible; macadamia, fresh or dried, shelled",8,Weight in kilograms,113,,,,113,,493,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,68633,,,,68633,,358118,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,7,,,,7,,309,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,32,,,,32,,1865,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,484,Mexico,MEX,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,30,,,,30,,130,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,3123,,,,3123,,6824,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,61700,,,,61700,,324735,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,704,Viet Nam,VNM,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,3300,,,,3300,,18590,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,784,United Arab Emirates,ARE,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,23,,,,23,,1421,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,416,,,,416,,4242,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080310,"Fruit, edible; plantains, fresh or dried",8,Weight in kilograms,323385,,,,323385,,232271,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,218,Ecuador,ECU,,,,,,,,080310,"Fruit, edible; plantains, fresh or dried",8,Weight in kilograms,283080,,,,283080,,201220,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,080310,"Fruit, edible; plantains, fresh or dried",8,Weight in kilograms,36600,,,,36600,,29993,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,080310,"Fruit, edible; plantains, fresh or dried",8,Weight in kilograms,3705,,,,3705,,1057,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080211,"Nuts, edible; almonds, fresh or dried, in shell",8,Weight in kilograms,151,,,,151,,933,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,080211,"Nuts, edible; almonds, fresh or dried, in shell",8,Weight in kilograms,17,,,,17,,451,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080211,"Nuts, edible; almonds, fresh or dried, in shell",8,Weight in kilograms,21,,,,21,,73,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080211,"Nuts, edible; almonds, fresh or dried, in shell",8,Weight in kilograms,113,,,,113,,408,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,233155,,,,233155,,1287672,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,36,Australia,AUS,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,2948,,,,2948,,29937,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,14,,,,14,,150,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,230,,,,230,,1685,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,750,,,,750,,7356,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,3800,,,,3800,,2757,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,44906,,,,44906,,20028,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,179006,,,,179006,,1216208,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,860,Uzbekistan,UZB,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,1500,,,,1500,,9549,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080221,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, in shell",8,Weight in kilograms,36820,,,,36820,,27860,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080221,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, in shell",8,Weight in kilograms,36820,,,,36820,,27860,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,1016184,,,,1016184,,973026,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,504324,,,,504324,,778061,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,511860,,,,511860,,194965,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080231,"Nuts, edible; walnuts, fresh or dried, in shell",8,Weight in kilograms,49987,,,,49987,,37944,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080231,"Nuts, edible; walnuts, fresh or dried, in shell",8,Weight in kilograms,39800,,,,39800,,10925,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,080231,"Nuts, edible; walnuts, fresh or dried, in shell",8,Weight in kilograms,10187,,,,10187,,27019,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,171740,,,,171740,,770919,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,1750,,,,1750,,18152,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,484,Mexico,MEX,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,50,,,,50,,218,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,16400,,,,16400,,16721,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,148500,,,,148500,,719503,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,860,Uzbekistan,UZB,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,4000,,,,4000,,15538,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,1040,,,,1040,,784,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080241,"Nuts, edible; chestnuts (Castanea spp.), fresh or dried, in shell",8,Weight in kilograms,23819,,,,23819,,17727,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080241,"Nuts, edible; chestnuts (Castanea spp.), fresh or dried, in shell",8,Weight in kilograms,23819,,,,23819,,17727,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080251,"Nuts, edible; pistachios, fresh or dried, in shell",8,Weight in kilograms,2654697,,,,2654697,,2299701,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080251,"Nuts, edible; pistachios, fresh or dried, in shell",8,Weight in kilograms,20000,,,,20000,,4000,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080251,"Nuts, edible; pistachios, fresh or dried, in shell",8,Weight in kilograms,2158498,,,,2158498,,2036990,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,080251,"Nuts, edible; pistachios, fresh or dried, in shell",8,Weight in kilograms,2700,,,,2700,,2439,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,784,United Arab Emirates,ARE,,,,,,,,080251,"Nuts, edible; pistachios, fresh or dried, in shell",8,Weight in kilograms,226,,,,226,,1750,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080251,"Nuts, edible; pistachios, fresh or dried, in shell",8,Weight in kilograms,416458,,,,416458,,179048,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080251,"Nuts, edible; pistachios, fresh or dried, in shell",8,Weight in kilograms,56814,,,,56814,,75471,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080252,"Nuts, edible; pistachios, fresh or dried, shelled",8,Weight in kilograms,109423,,,,109423,,84289,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080252,"Nuts, edible; pistachios, fresh or dried, shelled",8,Weight in kilograms,67423,,,,67423,,59637,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080252,"Nuts, edible; pistachios, fresh or dried, shelled",8,Weight in kilograms,42000,,,,42000,,24652,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080262,"Nuts, edible; macadamia, fresh or dried, shelled",8,Weight in kilograms,1429,,,,1429,,15783,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,36,Australia,AUS,,,,,,,,080262,"Nuts, edible; macadamia, fresh or dried, shelled",8,Weight in kilograms,476,,,,476,,3541,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,404,Kenya,KEN,,,,,,,,080262,"Nuts, edible; macadamia, fresh or dried, shelled",8,Weight in kilograms,340,,,,340,,1479,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,704,Viet Nam,VNM,,,,,,,,080262,"Nuts, edible; macadamia, fresh or dried, shelled",8,Weight in kilograms,113,,,,113,,567,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080262,"Nuts, edible; macadamia, fresh or dried, shelled",8,Weight in kilograms,498,,,,498,,10195,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,32242,,,,32242,,99951,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,17,,,,17,,1102,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,484,Mexico,MEX,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,225,,,,225,,1727,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,17300,,,,17300,,14456,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,14700,,,,14700,,82665,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080310,"Fruit, edible; plantains, fresh or dried",8,Weight in kilograms,1850,,,,1850,,808,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,218,Ecuador,ECU,,,,,,,,080310,"Fruit, edible; plantains, fresh or dried",8,Weight in kilograms,1760,,,,1760,,678,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,080310,"Fruit, edible; plantains, fresh or dried",8,Weight in kilograms,90,,,,90,,130,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080211,"Nuts, edible; almonds, fresh or dried, in shell",8,Weight in kilograms,3465,,,,3465,,19519,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080211,"Nuts, edible; almonds, fresh or dried, in shell",8,Weight in kilograms,63,,,,63,,557,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080211,"Nuts, edible; almonds, fresh or dried, in shell",8,Weight in kilograms,3402,,,,3402,,18961,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,393910,,,,393910,,3001493,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,36,Australia,AUS,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,20049,,,,20049,,151928,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,400,,,,400,,2661,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,44,,,,44,,465,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,245,,,,245,,2158,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,27049,,,,27049,,333716,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,2,,,,2,,25,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,784,United Arab Emirates,ARE,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,80,,,,80,,816,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,344540,,,,344540,,2499831,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,860,Uzbekistan,UZB,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,1500,,,,1500,,9887,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080221,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, in shell",8,Weight in kilograms,23110,,,,23110,,39520,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080221,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, in shell",8,Weight in kilograms,23110,,,,23110,,39520,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,19226,,,,19226,,122260,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,36,Australia,AUS,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,100,,,,100,,560,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,18500,,,,18500,,116604,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,36,,,,36,,204,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,588,,,,588,,4880,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,2,,,,2,,11,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080231,"Nuts, edible; walnuts, fresh or dried, in shell",8,Weight in kilograms,6300,,,,6300,,31798,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,080231,"Nuts, edible; walnuts, fresh or dried, in shell",8,Weight in kilograms,6300,,,,6300,,31798,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,283849,,,,283849,,1306721,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,200,,,,200,,1500,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,930,,,,930,,14817,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,1010,,,,1010,,5577,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,417,Kyrgyzstan,KGZ,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,19,,,,19,,12091,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,12681,,,,12681,,85758,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,784,United Arab Emirates,ARE,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,50,,,,50,,500,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,256838,,,,256838,,1127076,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,860,Uzbekistan,UZB,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,10000,,,,10000,,56500,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,2121,,,,2121,,2900,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080241,"Nuts, edible; chestnuts (Castanea spp.), fresh or dried, in shell",8,Weight in kilograms,39778,,,,39777,,46564,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080241,"Nuts, edible; chestnuts (Castanea spp.), fresh or dried, in shell",8,Weight in kilograms,39778,,,,39777,,46564,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080242,"Nuts, edible; chestnuts (Castanea spp.), fresh or dried, shelled",8,Weight in kilograms,229,,,,229,,432,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,080242,"Nuts, edible; chestnuts (Castanea spp.), fresh or dried, shelled",8,Weight in kilograms,9,,,,9,,113,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080242,"Nuts, edible; chestnuts (Castanea spp.), fresh or dried, shelled",8,Weight in kilograms,220,,,,220,,318,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080251,"Nuts, edible; pistachios, fresh or dried, in shell",8,Weight in kilograms,266984,,,,266984,,1889771,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080251,"Nuts, edible; pistachios, fresh or dried, in shell",8,Weight in kilograms,231588,,,,231588,,1696737,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,784,United Arab Emirates,ARE,,,,,,,,080251,"Nuts, edible; pistachios, fresh or dried, in shell",8,Weight in kilograms,27,,,,27,,505,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080251,"Nuts, edible; pistachios, fresh or dried, in shell",8,Weight in kilograms,35369,,,,35369,,192528,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080252,"Nuts, edible; pistachios, fresh or dried, shelled",8,Weight in kilograms,6877,,,,6877,,47544,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080252,"Nuts, edible; pistachios, fresh or dried, shelled",8,Weight in kilograms,50,,,,50,,360,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080252,"Nuts, edible; pistachios, fresh or dried, shelled",8,Weight in kilograms,5651,,,,5651,,40738,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080252,"Nuts, edible; pistachios, fresh or dried, shelled",8,Weight in kilograms,900,,,,900,,5040,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080252,"Nuts, edible; pistachios, fresh or dried, shelled",8,Weight in kilograms,276,,,,276,,1406,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080261,"Nuts, edible; macadamia, fresh or dried, in shell",8,Weight in kilograms,600,,,,600,,9328,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,080261,"Nuts, edible; macadamia, fresh or dried, in shell",8,Weight in kilograms,600,,,,600,,9328,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080262,"Nuts, edible; macadamia, fresh or dried, shelled",8,Weight in kilograms,951,,,,951,,5451,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,36,Australia,AUS,,,,,,,,080262,"Nuts, edible; macadamia, fresh or dried, shelled",8,Weight in kilograms,950,,,,950,,5425,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,080262,"Nuts, edible; macadamia, fresh or dried, shelled",8,Weight in kilograms,0,,,,0,,26,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,780,,,,780,,17924,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,18,,,,18,,1276,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,550,,,,550,,15101,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,784,United Arab Emirates,ARE,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,7,,,,7,,158,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,204,,,,204,,1387,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080310,"Fruit, edible; plantains, fresh or dried",8,Weight in kilograms,1303,,,,1303,,1754,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,188,Costa Rica,CRI,,,,,,,,080310,"Fruit, edible; plantains, fresh or dried",8,Weight in kilograms,100,,,,100,,115,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,218,Ecuador,ECU,,,,,,,,080310,"Fruit, edible; plantains, fresh or dried",8,Weight in kilograms,1203,,,,1203,,1639,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080211,"Nuts, edible; almonds, fresh or dried, in shell",8,Weight in kilograms,567,,,,567,,4678,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080211,"Nuts, edible; almonds, fresh or dried, in shell",8,Weight in kilograms,567,,,,567,,4678,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,76666,,,,76666,,782814,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,36,Australia,AUS,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,340,,,,340,,2807,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,48,,,,48,,564,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,6,,,,6,,114,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,20,,,,20,,165,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,400,,,,400,,4296,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,2112,,,,2112,,11183,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,73740,,,,73740,,763686,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,20200,,,,20200,,172311,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,20200,,,,20200,,172311,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080231,"Nuts, edible; walnuts, fresh or dried, in shell",8,Weight in kilograms,54195,,,,54195,,65831,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080231,"Nuts, edible; walnuts, fresh or dried, in shell",8,Weight in kilograms,16225,,,,16225,,31948,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,498,Rep. of Moldova,MDA,,,,,,,,080231,"Nuts, edible; walnuts, fresh or dried, in shell",8,Weight in kilograms,37970,,,,37970,,33883,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,2518,,,,2518,,39324,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,1400,,,,1400,,25313,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,120,,,,120,,1045,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,998,,,,998,,12965,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080251,"Nuts, edible; pistachios, fresh or dried, in shell",8,Weight in kilograms,15207,,,,15207,,74408,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080251,"Nuts, edible; pistachios, fresh or dried, in shell",8,Weight in kilograms,14980,,,,14980,,73093,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080251,"Nuts, edible; pistachios, fresh or dried, in shell",8,Weight in kilograms,227,,,,227,,1315,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080252,"Nuts, edible; pistachios, fresh or dried, shelled",8,Weight in kilograms,10,,,,10,,216,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,422,Lebanon,LBN,,,,,,,,080252,"Nuts, edible; pistachios, fresh or dried, shelled",8,Weight in kilograms,10,,,,10,,216,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,5799,,,,5799,,44127,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,14,,,,14,,962,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,170,,,,170,,1014,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,5000,,,,5000,,35750,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,110,,,,110,,2111,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,862,Venezuela,VEN,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,500,,,,500,,4126,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,4,,,,4,,165,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080310,"Fruit, edible; plantains, fresh or dried",8,Weight in kilograms,5655,,,,5655,,6222,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,218,Ecuador,ECU,,,,,,,,080310,"Fruit, edible; plantains, fresh or dried",8,Weight in kilograms,5655,,,,5655,,6222,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080211,"Nuts, edible; almonds, fresh or dried, in shell",8,Weight in kilograms,2000,,,,2000,,7000,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080211,"Nuts, edible; almonds, fresh or dried, in shell",8,Weight in kilograms,2000,,,,2000,,7000,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,196276,,,,196276,,1191713,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,36,Australia,AUS,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,3288,,,,3288,,19957,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,40,Austria,AUT,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,227,,,,227,,1247,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,440,,,,440,,2420,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,680,,,,680,,3744,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,14,,,,14,,211,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,500,,,,500,,5439,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080212,"Nuts, edible; almonds, fresh or dried, shelled",8,Weight in kilograms,191126,,,,191126,,1158694,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080221,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, in shell",8,Weight in kilograms,520,,,,520,,130,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080221,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, in shell",8,Weight in kilograms,520,,,,520,,130,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,177937,,,,177937,,94213,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,36,Australia,AUS,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,57,,,,57,,218,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",8,Weight in kilograms,177880,,,,177880,,93995,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,18204,,,,18204,,153583,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,68,Bolivia (Plurinational State of),BOL,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,200,,,,200,,1741,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,3000,,,,3000,,35003,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,4,,,,4,,49,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,498,Rep. of Moldova,MDA,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,12000,,,,12000,,97200,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,860,Uzbekistan,UZB,,,,,,,,080232,"Nuts, edible; walnuts, fresh or dried, shelled",8,Weight in kilograms,3000,,,,3000,,19590,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080241,"Nuts, edible; chestnuts (Castanea spp.), fresh or dried, in shell",8,Weight in kilograms,50,,,,50,,66,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080241,"Nuts, edible; chestnuts (Castanea spp.), fresh or dried, in shell",8,Weight in kilograms,50,,,,50,,66,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080251,"Nuts, edible; pistachios, fresh or dried, in shell",8,Weight in kilograms,24295,,,,24295,,109703,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080251,"Nuts, edible; pistachios, fresh or dried, in shell",8,Weight in kilograms,20,,,,20,,82,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080251,"Nuts, edible; pistachios, fresh or dried, in shell",8,Weight in kilograms,24275,,,,24275,,109621,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080252,"Nuts, edible; pistachios, fresh or dried, shelled",8,Weight in kilograms,2118,,,,2118,,28995,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,080252,"Nuts, edible; pistachios, fresh or dried, shelled",8,Weight in kilograms,18,,,,18,,157,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080252,"Nuts, edible; pistachios, fresh or dried, shelled",8,Weight in kilograms,2100,,,,2100,,28838,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080262,"Nuts, edible; macadamia, fresh or dried, shelled",8,Weight in kilograms,398,,,,398,,2120,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,36,Australia,AUS,,,,,,,,080262,"Nuts, edible; macadamia, fresh or dried, shelled",8,Weight in kilograms,168,,,,168,,1099,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080262,"Nuts, edible; macadamia, fresh or dried, shelled",8,Weight in kilograms,113,,,,113,,502,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,080262,"Nuts, edible; macadamia, fresh or dried, shelled",8,Weight in kilograms,3,,,,3,,26,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080262,"Nuts, edible; macadamia, fresh or dried, shelled",8,Weight in kilograms,113,,,,113,,493,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,56478,,,,56478,,315709,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,40,Austria,AUT,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,23,,,,23,,125,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,400,,,,400,,2406,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,400,,,,400,,2200,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,33,,,,33,,901,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,14,,,,14,,554,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,48920,,,,48920,,271265,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,704,Viet Nam,VNM,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,6570,,,,6570,,36135,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,116,,,,116,,2042,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,080290,"Nuts, edible; n.e.c. in heading no. 0801 and 0802, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,2,,,,2,,81,,,0

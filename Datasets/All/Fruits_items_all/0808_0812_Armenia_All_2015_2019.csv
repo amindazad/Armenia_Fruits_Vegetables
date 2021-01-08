@@ -1,0 +1,591 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,2938778,,,,2938778,,1730575,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,112,Belarus,BLR,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,18480,,,,18480,,6755,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,2500,,,,2500,,1186,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,682,,,,682,,1790,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,7660,,,,7660,,12877,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,21301,,,,21301,,31981,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,1297669,,,,1297669,,560941,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,139700,,,,139700,,209560,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,498,Rep. of Moldova,MDA,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,10300,,,,10300,,5755,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,2535,,,,2535,,3802,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,616,Poland,POL,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,187592,,,,187592,,272766,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,916434,,,,916434,,171180,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,68960,,,,68960,,103550,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,264963,,,,264963,,348426,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,911136,,,,911136,,495486,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,32,Argentina,ARG,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,570,,,,570,,326,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,22327,,,,22327,,33490,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,18971,,,,18971,,10914,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,120,,,,120,,180,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,709752,,,,709752,,251616,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,23900,,,,23900,,35853,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,616,Poland,POL,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,3120,,,,3120,,4680,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,32750,,,,32750,,12767,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,33608,,,,33608,,46284,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,60,,,,60,,90,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,65957,,,,65957,,99283,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080840,"Fruit, edible; quinces, fresh",8,Weight in kilograms,32471,,,,32471,,45896,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080840,"Fruit, edible; quinces, fresh",8,Weight in kilograms,1280,,,,1280,,1280,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,080840,"Fruit, edible; quinces, fresh",8,Weight in kilograms,1995,,,,1995,,814,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080840,"Fruit, edible; quinces, fresh",8,Weight in kilograms,29196,,,,29196,,43801,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080929,"Fruit, edible; cherries, other than sour cherries (Prunus cerasus), fresh",8,Weight in kilograms,52,,,,52,,76,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080929,"Fruit, edible; cherries, other than sour cherries (Prunus cerasus), fresh",8,Weight in kilograms,52,,,,52,,76,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,1230388,,,,1230388,,1063171,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,1815,,,,1815,,2660,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,1200,,,,1200,,623,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,1225810,,,,1225810,,1057258,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,1068,,,,1068,,1763,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,175,,,,175,,393,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,100,,,,100,,140,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,220,,,,220,,331,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080940,"Fruit, edible; plums and sloes, fresh",8,Weight in kilograms,2730,,,,2730,,6258,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080940,"Fruit, edible; plums and sloes, fresh",8,Weight in kilograms,1515,,,,1515,,1803,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080940,"Fruit, edible; plums and sloes, fresh",8,Weight in kilograms,1175,,,,1175,,4408,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,887,Yemen,YEM,,,,,,,,080940,"Fruit, edible; plums and sloes, fresh",8,Weight in kilograms,40,,,,40,,46,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081010,"Fruit, edible; strawberries, fresh",8,Weight in kilograms,1610,,,,1610,,11127,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,081010,"Fruit, edible; strawberries, fresh",8,Weight in kilograms,1610,,,,1610,,11127,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081020,"Fruit, edible; raspberries, blackberries, mulberries, and loganberries, fresh",8,Weight in kilograms,77,,,,77,,456,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,484,Mexico,MEX,,,,,,,,081020,"Fruit, edible; raspberries, blackberries, mulberries, and loganberries, fresh",8,Weight in kilograms,17,,,,17,,35,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,620,Portugal,PRT,,,,,,,,081020,"Fruit, edible; raspberries, blackberries, mulberries, and loganberries, fresh",8,Weight in kilograms,60,,,,60,,420,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081030,"Fruit, edible; black, white or red currants and gooseberries, fresh",8,Weight in kilograms,40,,,,40,,241,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,081030,"Fruit, edible; black, white or red currants and gooseberries, fresh",8,Weight in kilograms,31,,,,31,,220,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,887,Yemen,YEM,,,,,,,,081030,"Fruit, edible; black, white or red currants and gooseberries, fresh",8,Weight in kilograms,8,,,,8,,20,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,1938,,,,1938,,5393,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,32,Argentina,ARG,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,210,,,,210,,1050,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,45,,,,45,,225,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,484,Mexico,MEX,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,47,,,,47,,246,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,285,,,,285,,1426,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,616,Poland,POL,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,45,,,,45,,225,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,620,Portugal,PRT,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,67,,,,67,,335,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,1187,,,,1187,,1626,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,52,,,,52,,260,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,2360269,,,,2360269,,2340866,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,7200,,,,7200,,7105,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,22504,,,,22504,,25610,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,2265957,,,,2265957,,2268626,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,554,New Zealand,NZL,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,600,,,,600,,645,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,48936,,,,48936,,23734,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,2200,,,,2200,,1282,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,11770,,,,11770,,13269,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,887,Yemen,YEM,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,1102,,,,1102,,592,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081070,"Fruit, edible; persimmons, fresh",8,Weight in kilograms,967262,,,,967262,,763263,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,081070,"Fruit, edible; persimmons, fresh",8,Weight in kilograms,942597,,,,942597,,735502,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,081070,"Fruit, edible; persimmons, fresh",8,Weight in kilograms,50,,,,50,,107,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,081070,"Fruit, edible; persimmons, fresh",8,Weight in kilograms,24358,,,,24358,,27404,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,081070,"Fruit, edible; persimmons, fresh",8,Weight in kilograms,257,,,,257,,249,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,3040752,,,,3040752,,1619666,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,32,Argentina,ARG,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,760,,,,760,,1596,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,10,,,,10,,19,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,170,Colombia,COL,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,1249,,,,1249,,9106,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,191,Croatia,HRV,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,6,,,,6,,33,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,204,Benin,BEN,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,90,,,,90,,56,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,214,Dominican Rep.,DOM,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,8,,,,8,,44,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,218,Ecuador,ECU,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,625,,,,625,,2549,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,100,,,,100,,554,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,55554,,,,55554,,72373,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,320,Guatemala,GTM,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,42,,,,42,,126,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,360,Indonesia,IDN,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,20,,,,20,,60,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,2741786,,,,2741786,,1118695,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,376,Israel,ISR,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,28,,,,28,,84,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,458,Malaysia,MYS,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,584,,,,584,,1745,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,6719,,,,6719,,14113,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,10891,,,,10891,,6287,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,6,,,,6,,18,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,704,Viet Nam,VNM,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,405,,,,405,,1216,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,3367,,,,3367,,2260,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,532,,,,532,,1598,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,199969,,,,199969,,349326,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,18000,,,,18000,,37800,,,0
+H5,2017,2017,2017,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,16417,,,,16417,,47021,,,0
+H5,2017,2017,2017,4,0,1,Import,51,Armenia,ARM,56,Belgium,BEL,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,136,,,,136,,531,,,0
+H5,2017,2017,2017,4,0,1,Import,51,Armenia,ARM,112,Belarus,BLR,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,4986,,,,4986,,17591,,,0
+H5,2017,2017,2017,4,0,1,Import,51,Armenia,ARM,124,Canada,CAN,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,1,,,,1,,40,,,0
+H5,2017,2017,2017,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,322,,,,322,,634,,,0
+H5,2017,2017,2017,4,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,45,,,,45,,260,,,0
+H5,2017,2017,2017,4,0,1,Import,51,Armenia,ARM,498,Rep. of Moldova,MDA,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,40,,,,40,,53,,,0
+H5,2017,2017,2017,4,0,1,Import,51,Armenia,ARM,616,Poland,POL,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,5875,,,,5875,,15200,,,0
+H5,2017,2017,2017,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,4266,,,,4266,,11558,,,0
+H5,2017,2017,2017,4,0,1,Import,51,Armenia,ARM,688,Serbia,SRB,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,110,,,,110,,307,,,0
+H5,2017,2017,2017,4,0,1,Import,51,Armenia,ARM,807,North Macedonia,MKD,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,72,,,,72,,120,,,0
+H5,2017,2017,2017,4,0,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,63,,,,63,,93,,,0
+H5,2017,2017,2017,4,0,1,Import,51,Armenia,ARM,887,Yemen,YEM,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,500,,,,500,,629,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,2255245,,,,2255245,,1064793,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,3204,,,,3204,,4806,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,1400,,,,1400,,571,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,97898,,,,97898,,140286,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,1813967,,,,1813967,,635226,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,83974,,,,83974,,119014,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,420,,,,420,,631,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,554,New Zealand,NZL,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,504,,,,504,,756,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,616,Poland,POL,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,27960,,,,27960,,41940,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,13358,,,,13358,,8360,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,2296,,,,2296,,3446,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,202978,,,,202978,,98805,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,7286,,,,7286,,10947,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,4361382,,,,4361382,,1975827,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,56,Belgium,BEL,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,19200,,,,19200,,27549,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,18005,,,,18005,,19381,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,1040,,,,1040,,1560,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,2928600,,,,2928600,,1171596,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,1560,,,,1560,,2340,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,17762,,,,17762,,25643,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,8483,,,,8483,,5105,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,27830,,,,27830,,41812,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,1334945,,,,1334945,,679129,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,3957,,,,3957,,1708,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080840,"Fruit, edible; quinces, fresh",8,Weight in kilograms,62124,,,,62124,,64325,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080840,"Fruit, edible; quinces, fresh",8,Weight in kilograms,18002,,,,18002,,12445,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,080840,"Fruit, edible; quinces, fresh",8,Weight in kilograms,1720,,,,1720,,996,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080840,"Fruit, edible; quinces, fresh",8,Weight in kilograms,42402,,,,42402,,50883,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080910,"Fruit, edible; apricots, fresh",8,Weight in kilograms,448060,,,,448060,,179024,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080910,"Fruit, edible; apricots, fresh",8,Weight in kilograms,448060,,,,448060,,179024,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080921,"Fruit, edible; sour cherries (Prunus cerasus), fresh",8,Weight in kilograms,125,,,,125,,148,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080921,"Fruit, edible; sour cherries (Prunus cerasus), fresh",8,Weight in kilograms,125,,,,125,,148,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080929,"Fruit, edible; cherries, other than sour cherries (Prunus cerasus), fresh",8,Weight in kilograms,203,,,,203,,827,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,32,Argentina,ARG,,,,,,,,080929,"Fruit, edible; cherries, other than sour cherries (Prunus cerasus), fresh",8,Weight in kilograms,50,,,,50,,750,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080929,"Fruit, edible; cherries, other than sour cherries (Prunus cerasus), fresh",8,Weight in kilograms,153,,,,153,,77,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,3974773,,,,3974773,,1873569,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,965,,,,965,,1900,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,2622393,,,,2622393,,1314920,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,10880,,,,10880,,5084,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,562,,,,562,,1369,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,938851,,,,938851,,387516,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,807,North Macedonia,MKD,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,400672,,,,400672,,162588,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,450,,,,450,,190,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080940,"Fruit, edible; plums and sloes, fresh",8,Weight in kilograms,112204,,,,112204,,57338,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080940,"Fruit, edible; plums and sloes, fresh",8,Weight in kilograms,1462,,,,1462,,5394,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080940,"Fruit, edible; plums and sloes, fresh",8,Weight in kilograms,68186,,,,68186,,34495,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,807,North Macedonia,MKD,,,,,,,,080940,"Fruit, edible; plums and sloes, fresh",8,Weight in kilograms,40037,,,,40037,,16397,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,080940,"Fruit, edible; plums and sloes, fresh",8,Weight in kilograms,2519,,,,2519,,1050,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081010,"Fruit, edible; strawberries, fresh",8,Weight in kilograms,250,,,,250,,2106,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,081010,"Fruit, edible; strawberries, fresh",8,Weight in kilograms,250,,,,250,,2106,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081020,"Fruit, edible; raspberries, blackberries, mulberries, and loganberries, fresh",8,Weight in kilograms,74,,,,74,,965,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,458,Malaysia,MYS,,,,,,,,081020,"Fruit, edible; raspberries, blackberries, mulberries, and loganberries, fresh",8,Weight in kilograms,25,,,,25,,196,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,484,Mexico,MEX,,,,,,,,081020,"Fruit, edible; raspberries, blackberries, mulberries, and loganberries, fresh",8,Weight in kilograms,12,,,,12,,175,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,504,Morocco,MAR,,,,,,,,081020,"Fruit, edible; raspberries, blackberries, mulberries, and loganberries, fresh",8,Weight in kilograms,37,,,,37,,593,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081030,"Fruit, edible; black, white or red currants and gooseberries, fresh",8,Weight in kilograms,63,,,,63,,825,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,081030,"Fruit, edible; black, white or red currants and gooseberries, fresh",8,Weight in kilograms,63,,,,63,,825,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,1849,,,,1849,,15570,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,32,Argentina,ARG,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,303,,,,303,,3658,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,135,,,,135,,1143,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,105,,,,105,,277,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,504,Morocco,MAR,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,133,,,,133,,799,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,60,,,,60,,400,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,217,,,,217,,2223,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,620,Portugal,PRT,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,30,,,,30,,150,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,757,,,,757,,6339,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,75,,,,75,,559,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,33,,,,33,,20,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,3165926,,,,3165926,,2709208,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,12540,,,,12540,,16122,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,296,,,,296,,236,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,3117112,,,,3117112,,2652871,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,554,New Zealand,NZL,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,112,,,,112,,518,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,14745,,,,14745,,12189,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,20358,,,,20358,,26523,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,887,Yemen,YEM,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,620,,,,620,,566,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,143,,,,143,,179,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081070,"Fruit, edible; persimmons, fresh",8,Weight in kilograms,2659622,,,,2659622,,936375,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,081070,"Fruit, edible; persimmons, fresh",8,Weight in kilograms,2623912,,,,2623912,,898174,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,081070,"Fruit, edible; persimmons, fresh",8,Weight in kilograms,70,,,,70,,89,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,081070,"Fruit, edible; persimmons, fresh",8,Weight in kilograms,35640,,,,35640,,38111,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,6105879,,,,6105879,,3143094,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,76,,,,76,,614,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,60,,,,60,,33,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,170,Colombia,COL,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,1078,,,,1078,,9499,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,191,Croatia,HRV,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,5,,,,5,,27,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,218,Ecuador,ECU,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,704,,,,704,,4472,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,517103,,,,517103,,245928,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,316,Guam,GUM,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,24,,,,24,,223,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,320,Guatemala,GTM,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,22,,,,22,,168,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,360,Indonesia,IDN,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,16,,,,16,,74,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,2901134,,,,2901134,,1245310,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,376,Israel,ISR,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,6,,,,6,,34,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,450,Madagascar,MDG,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,24,,,,24,,72,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,458,Malaysia,MYS,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,537,,,,537,,3122,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,480,Mauritius,MUS,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,10,,,,10,,85,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,484,Mexico,MEX,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,10,,,,10,,65,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,508,Mozambique,MOZ,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,60,,,,60,,336,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,10655,,,,10655,,23891,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,12771,,,,12771,,8169,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,670,Saint Vincent and the Grenadines,VCT,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,4,,,,4,,50,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,704,Viet Nam,VNM,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,1050,,,,1050,,6618,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,748,,,,748,,1596,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,430,,,,430,,952,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,504,,,,504,,2466,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,2658299,,,,2658299,,1588807,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,547,,,,547,,473,,,0
+H5,2018,2018,2018,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,12340,,,,12340,,37319,,,0
+H5,2018,2018,2018,4,0,1,Import,51,Armenia,ARM,56,Belgium,BEL,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,45,,,,45,,218,,,0
+H5,2018,2018,2018,4,0,1,Import,51,Armenia,ARM,112,Belarus,BLR,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,3304,,,,3304,,11396,,,0
+H5,2018,2018,2018,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,336,,,,336,,944,,,0
+H5,2018,2018,2018,4,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,7,,,,7,,73,,,0
+H5,2018,2018,2018,4,0,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,2,,,,2,,66,,,0
+H5,2018,2018,2018,4,0,1,Import,51,Armenia,ARM,484,Mexico,MEX,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,30,,,,30,,644,,,0
+H5,2018,2018,2018,4,0,1,Import,51,Armenia,ARM,616,Poland,POL,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,4147,,,,4147,,10606,,,0
+H5,2018,2018,2018,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,4250,,,,4250,,12950,,,0
+H5,2018,2018,2018,4,0,1,Import,51,Armenia,ARM,688,Serbia,SRB,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,60,,,,60,,180,,,0
+H5,2018,2018,2018,4,0,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,157,,,,157,,239,,,0
+H5,2018,2018,2018,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0812,"Fruit and nuts provisionally preserved; e.g. by sulphur dioxide gas, brine, in sulphur water or in other preservative solutions, but unsuitable in that state for immediate consumption",8,Weight in kilograms,73,,,,73,,881,,,0
+H5,2018,2018,2018,4,0,1,Import,51,Armenia,ARM,32,Argentina,ARG,,,,,,,,0812,"Fruit and nuts provisionally preserved; e.g. by sulphur dioxide gas, brine, in sulphur water or in other preservative solutions, but unsuitable in that state for immediate consumption",8,Weight in kilograms,50,,,,50,,633,,,0
+H5,2018,2018,2018,4,0,1,Import,51,Armenia,ARM,170,Colombia,COL,,,,,,,,0812,"Fruit and nuts provisionally preserved; e.g. by sulphur dioxide gas, brine, in sulphur water or in other preservative solutions, but unsuitable in that state for immediate consumption",8,Weight in kilograms,13,,,,13,,126,,,0
+H5,2018,2018,2018,4,0,1,Import,51,Armenia,ARM,458,Malaysia,MYS,,,,,,,,0812,"Fruit and nuts provisionally preserved; e.g. by sulphur dioxide gas, brine, in sulphur water or in other preservative solutions, but unsuitable in that state for immediate consumption",8,Weight in kilograms,10,,,,10,,121,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,367731,,,,367731,,418367,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,7812,,,,7812,,12648,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,2550,,,,2550,,2448,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,168340,,,,168340,,203011,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,11838,,,,11838,,14200,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,11004,,,,11004,,13209,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,47078,,,,47078,,45227,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,13203,,,,13203,,20195,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,616,Poland,POL,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,54600,,,,54600,,50401,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,5262,,,,5262,,3798,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,882,,,,882,,1367,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,38627,,,,38627,,44015,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,6535,,,,6535,,7843,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,2595452,,,,2595452,,1478030,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,19342,,,,19342,,28834,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,8215,,,,8215,,10055,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,9158,,,,9158,,9329,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,484,Mexico,MEX,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,1130,,,,1130,,1362,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,3720,,,,3720,,6379,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,9297,,,,9297,,7845,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,41987,,,,41987,,63848,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,2502603,,,,2502603,,1350375,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080840,"Fruit, edible; quinces, fresh",8,Weight in kilograms,74496,,,,74496,,77166,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080840,"Fruit, edible; quinces, fresh",8,Weight in kilograms,24,,,,24,,300,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080840,"Fruit, edible; quinces, fresh",8,Weight in kilograms,11397,,,,11397,,11538,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080840,"Fruit, edible; quinces, fresh",8,Weight in kilograms,595,,,,595,,487,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080840,"Fruit, edible; quinces, fresh",8,Weight in kilograms,62480,,,,62480,,64839,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080910,"Fruit, edible; apricots, fresh",8,Weight in kilograms,3741,,,,3741,,8348,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080910,"Fruit, edible; apricots, fresh",8,Weight in kilograms,1729,,,,1729,,3933,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080910,"Fruit, edible; apricots, fresh",8,Weight in kilograms,1992,,,,1992,,4199,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,080910,"Fruit, edible; apricots, fresh",8,Weight in kilograms,20,,,,20,,215,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080929,"Fruit, edible; cherries, other than sour cherries (Prunus cerasus), fresh",8,Weight in kilograms,588119,,,,588119,,328814,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,32,Argentina,ARG,,,,,,,,080929,"Fruit, edible; cherries, other than sour cherries (Prunus cerasus), fresh",8,Weight in kilograms,175,,,,175,,3449,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080929,"Fruit, edible; cherries, other than sour cherries (Prunus cerasus), fresh",8,Weight in kilograms,254,,,,254,,636,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080929,"Fruit, edible; cherries, other than sour cherries (Prunus cerasus), fresh",8,Weight in kilograms,587690,,,,587690,,324729,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,2709370,,,,2709370,,1785177,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,135,,,,135,,297,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,2081743,,,,2081743,,1507389,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,21047,,,,21047,,18804,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,2,,,,2,,46,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,40,,,,40,,440,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,606403,,,,606403,,258199,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080940,"Fruit, edible; plums and sloes, fresh",8,Weight in kilograms,56290,,,,56290,,56491,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080940,"Fruit, edible; plums and sloes, fresh",8,Weight in kilograms,1131,,,,1131,,2760,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080940,"Fruit, edible; plums and sloes, fresh",8,Weight in kilograms,3908,,,,3908,,5597,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080940,"Fruit, edible; plums and sloes, fresh",8,Weight in kilograms,7585,,,,7585,,12501,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080940,"Fruit, edible; plums and sloes, fresh",8,Weight in kilograms,1235,,,,1235,,3063,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,080940,"Fruit, edible; plums and sloes, fresh",8,Weight in kilograms,5,,,,5,,33,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080940,"Fruit, edible; plums and sloes, fresh",8,Weight in kilograms,42426,,,,42426,,32535,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081010,"Fruit, edible; strawberries, fresh",8,Weight in kilograms,19675,,,,19675,,51835,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,081010,"Fruit, edible; strawberries, fresh",8,Weight in kilograms,619,,,,619,,1550,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,081010,"Fruit, edible; strawberries, fresh",8,Weight in kilograms,16397,,,,16397,,40499,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,081010,"Fruit, edible; strawberries, fresh",8,Weight in kilograms,284,,,,284,,710,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,081010,"Fruit, edible; strawberries, fresh",8,Weight in kilograms,2375,,,,2375,,9074,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081020,"Fruit, edible; raspberries, blackberries, mulberries, and loganberries, fresh",8,Weight in kilograms,869,,,,869,,2437,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,081020,"Fruit, edible; raspberries, blackberries, mulberries, and loganberries, fresh",8,Weight in kilograms,588,,,,588,,582,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,081020,"Fruit, edible; raspberries, blackberries, mulberries, and loganberries, fresh",8,Weight in kilograms,250,,,,250,,510,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,081020,"Fruit, edible; raspberries, blackberries, mulberries, and loganberries, fresh",8,Weight in kilograms,31,,,,31,,1345,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081030,"Fruit, edible; black, white or red currants and gooseberries, fresh",8,Weight in kilograms,34,,,,34,,1368,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,081030,"Fruit, edible; black, white or red currants and gooseberries, fresh",8,Weight in kilograms,34,,,,34,,1368,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,4309,,,,4309,,48709,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,32,Argentina,ARG,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,30,,,,30,,267,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,112,Belarus,BLR,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,500,,,,500,,1492,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,688,,,,688,,6275,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,504,Morocco,MAR,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,36,,,,36,,549,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,760,,,,760,,10456,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,1465,,,,1465,,19059,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,616,Poland,POL,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,150,,,,150,,2074,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,12,,,,12,,18,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,180,,,,180,,1965,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,457,,,,457,,5992,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,29,,,,29,,557,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,3464082,,,,3464082,,2119665,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,13250,,,,13250,,28802,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,130,,,,130,,91,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,1002,,,,1002,,1262,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,3393058,,,,3393058,,2044013,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,19,,,,19,,556,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,554,New Zealand,NZL,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,70,,,,70,,754,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,3360,,,,3360,,4356,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,4840,,,,4840,,4056,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,48352,,,,48352,,35772,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081070,"Fruit, edible; persimmons, fresh",8,Weight in kilograms,5870128,,,,5870128,,3526005,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,081070,"Fruit, edible; persimmons, fresh",8,Weight in kilograms,5830000,,,,5830000,,3484729,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,081070,"Fruit, edible; persimmons, fresh",8,Weight in kilograms,638,,,,638,,757,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,081070,"Fruit, edible; persimmons, fresh",8,Weight in kilograms,21230,,,,21230,,26821,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,860,Uzbekistan,UZB,,,,,,,,081070,"Fruit, edible; persimmons, fresh",8,Weight in kilograms,18260,,,,18260,,13697,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,5404246,,,,5404246,,3314528,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,170,Colombia,COL,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,1613,,,,1613,,17445,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,218,Ecuador,ECU,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,689,,,,689,,7605,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,145,,,,145,,1044,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,653646,,,,653646,,559836,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,316,Guam,GUM,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,10,,,,10,,192,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,320,Guatemala,GTM,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,42,,,,42,,610,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,360,Indonesia,IDN,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,4,,,,4,,84,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,2868896,,,,2868896,,1149515,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,450,Madagascar,MDG,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,30,,,,30,,344,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,458,Malaysia,MYS,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,765,,,,765,,7145,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,484,Mexico,MEX,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,14,,,,14,,274,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,9194,,,,9194,,19774,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,6271,,,,6271,,7466,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,704,Viet Nam,VNM,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,1087,,,,1087,,14472,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,8857,,,,8857,,19450,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,14187,,,,14187,,33408,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,1970,,,,1970,,22612,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,1799472,,,,1799472,,1417757,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,37350,,,,37350,,35486,,,0
+H5,2019,2019,2019,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,52487,,,,52487,,87897,,,0
+H5,2019,2019,2019,4,0,1,Import,51,Armenia,ARM,56,Belgium,BEL,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,22,,,,22,,89,,,0
+H5,2019,2019,2019,4,0,1,Import,51,Armenia,ARM,112,Belarus,BLR,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,5194,,,,5194,,21990,,,0
+H5,2019,2019,2019,4,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,136,,,,136,,564,,,0
+H5,2019,2019,2019,4,0,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,1,,,,1,,38,,,0
+H5,2019,2019,2019,4,0,1,Import,51,Armenia,ARM,616,Poland,POL,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,4532,,,,4532,,8864,,,0
+H5,2019,2019,2019,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,7536,,,,7536,,21080,,,0
+H5,2019,2019,2019,4,0,1,Import,51,Armenia,ARM,688,Serbia,SRB,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,20064,,,,20064,,18819,,,0
+H5,2019,2019,2019,4,0,1,Import,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,15000,,,,15000,,16450,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,199199,,,,199199,,276341,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,1864,,,,1864,,2423,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,196,Cyprus,CYP,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,2125,,,,2125,,2975,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,31649,,,,31649,,34790,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,96970,,,,96970,,145993,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,3092,,,,3092,,4223,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,38271,,,,38271,,49618,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,1537,,,,1537,,1416,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,616,Poland,POL,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,800,,,,800,,1604,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,72,,,,72,,62,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,17059,,,,17059,,22579,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,5760,,,,5760,,10657,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,67248,,,,67248,,132390,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,507,,,,507,,710,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,14263,,,,14263,,14026,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,218,Ecuador,ECU,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,2961,,,,2961,,1495,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,940,,,,940,,1561,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,35,,,,35,,40,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,1949,,,,1949,,2797,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,3528,,,,3528,,1150,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,220,,,,220,,267,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,17395,,,,17395,,25244,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,24580,,,,24580,,83881,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,870,,,,870,,1218,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080840,"Fruit, edible; quinces, fresh",8,Weight in kilograms,28512,,,,28512,,16525,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080840,"Fruit, edible; quinces, fresh",8,Weight in kilograms,40,,,,40,,441,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080840,"Fruit, edible; quinces, fresh",8,Weight in kilograms,21681,,,,21681,,6505,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080840,"Fruit, edible; quinces, fresh",8,Weight in kilograms,5091,,,,5091,,7368,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,080840,"Fruit, edible; quinces, fresh",8,Weight in kilograms,1700,,,,1700,,2210,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080910,"Fruit, edible; apricots, fresh",8,Weight in kilograms,2992,,,,2992,,858,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,080910,"Fruit, edible; apricots, fresh",8,Weight in kilograms,2992,,,,2992,,858,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080921,"Fruit, edible; sour cherries (Prunus cerasus), fresh",8,Weight in kilograms,25,,,,25,,462,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080921,"Fruit, edible; sour cherries (Prunus cerasus), fresh",8,Weight in kilograms,25,,,,25,,462,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080929,"Fruit, edible; cherries, other than sour cherries (Prunus cerasus), fresh",8,Weight in kilograms,2992,,,,2992,,3283,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080929,"Fruit, edible; cherries, other than sour cherries (Prunus cerasus), fresh",8,Weight in kilograms,9,,,,9,,188,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080929,"Fruit, edible; cherries, other than sour cherries (Prunus cerasus), fresh",8,Weight in kilograms,2979,,,,2979,,2979,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,554,New Zealand,NZL,,,,,,,,080929,"Fruit, edible; cherries, other than sour cherries (Prunus cerasus), fresh",8,Weight in kilograms,4,,,,4,,117,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,1896,,,,1896,,10561,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,36,Australia,AUS,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,180,,,,180,,1250,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,359,,,,359,,2207,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,550,,,,550,,1505,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,63,,,,63,,835,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,554,,,,554,,4384,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,190,,,,190,,380,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080940,"Fruit, edible; plums and sloes, fresh",8,Weight in kilograms,461,,,,461,,1821,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,36,Australia,AUS,,,,,,,,080940,"Fruit, edible; plums and sloes, fresh",8,Weight in kilograms,91,,,,91,,444,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080940,"Fruit, edible; plums and sloes, fresh",8,Weight in kilograms,105,,,,105,,344,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080940,"Fruit, edible; plums and sloes, fresh",8,Weight in kilograms,210,,,,210,,643,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,080940,"Fruit, edible; plums and sloes, fresh",8,Weight in kilograms,55,,,,55,,391,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081010,"Fruit, edible; strawberries, fresh",8,Weight in kilograms,2180,,,,2180,,8476,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,56,Belgium,BEL,,,,,,,,081010,"Fruit, edible; strawberries, fresh",8,Weight in kilograms,4,,,,4,,188,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,081010,"Fruit, edible; strawberries, fresh",8,Weight in kilograms,150,,,,150,,338,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,422,Lebanon,LBN,,,,,,,,081010,"Fruit, edible; strawberries, fresh",8,Weight in kilograms,10,,,,10,,124,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,081010,"Fruit, edible; strawberries, fresh",8,Weight in kilograms,50,,,,50,,844,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,081010,"Fruit, edible; strawberries, fresh",8,Weight in kilograms,46,,,,46,,556,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,081010,"Fruit, edible; strawberries, fresh",8,Weight in kilograms,1920,,,,1920,,6426,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081020,"Fruit, edible; raspberries, blackberries, mulberries, and loganberries, fresh",8,Weight in kilograms,520,,,,520,,11898,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,484,Mexico,MEX,,,,,,,,081020,"Fruit, edible; raspberries, blackberries, mulberries, and loganberries, fresh",8,Weight in kilograms,296,,,,296,,6701,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,504,Morocco,MAR,,,,,,,,081020,"Fruit, edible; raspberries, blackberries, mulberries, and loganberries, fresh",8,Weight in kilograms,15,,,,15,,318,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,081020,"Fruit, edible; raspberries, blackberries, mulberries, and loganberries, fresh",8,Weight in kilograms,105,,,,105,,2620,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,620,Portugal,PRT,,,,,,,,081020,"Fruit, edible; raspberries, blackberries, mulberries, and loganberries, fresh",8,Weight in kilograms,23,,,,23,,525,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,081020,"Fruit, edible; raspberries, blackberries, mulberries, and loganberries, fresh",8,Weight in kilograms,78,,,,78,,1610,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,788,Tunisia,TUN,,,,,,,,081020,"Fruit, edible; raspberries, blackberries, mulberries, and loganberries, fresh",8,Weight in kilograms,4,,,,4,,123,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081030,"Fruit, edible; black, white or red currants and gooseberries, fresh",8,Weight in kilograms,186,,,,186,,4260,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,081030,"Fruit, edible; black, white or red currants and gooseberries, fresh",8,Weight in kilograms,15,,,,15,,462,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,081030,"Fruit, edible; black, white or red currants and gooseberries, fresh",8,Weight in kilograms,159,,,,159,,3359,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,620,Portugal,PRT,,,,,,,,081030,"Fruit, edible; black, white or red currants and gooseberries, fresh",8,Weight in kilograms,12,,,,12,,439,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,892,,,,892,,13568,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,124,Canada,CAN,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,139,,,,139,,1485,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,205,,,,205,,3059,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,504,Morocco,MAR,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,62,,,,62,,1367,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,27,,,,27,,506,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,98,,,,98,,2118,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,620,Portugal,PRT,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,45,,,,45,,754,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,63,,,,63,,1126,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,788,Tunisia,TUN,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,4,,,,4,,124,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,225,,,,225,,2367,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,858,Uruguay,URY,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,26,,,,26,,663,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,1059750,,,,1059750,,1617710,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,63,,,,63,,624,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,760,,,,760,,1957,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,42768,,,,42768,,60057,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,980847,,,,980847,,1522948,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,1305,,,,1305,,2700,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,2240,,,,2240,,4707,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,554,New Zealand,NZL,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,146,,,,146,,1325,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,24880,,,,24880,,11987,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,6742,,,,6742,,11405,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081070,"Fruit, edible; persimmons, fresh",8,Weight in kilograms,644706,,,,644706,,535031,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,081070,"Fruit, edible; persimmons, fresh",8,Weight in kilograms,2880,,,,2880,,721,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,081070,"Fruit, edible; persimmons, fresh",8,Weight in kilograms,641720,,,,641720,,532957,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,422,Lebanon,LBN,,,,,,,,081070,"Fruit, edible; persimmons, fresh",8,Weight in kilograms,63,,,,63,,958,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,081070,"Fruit, edible; persimmons, fresh",8,Weight in kilograms,43,,,,43,,395,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,317498,,,,317498,,247221,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,170,Colombia,COL,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,772,,,,772,,12064,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,214,Dominican Rep.,DOM,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,6,,,,6,,87,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,218,Ecuador,ECU,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,179,,,,179,,3036,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,16,,,,16,,189,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,10150,,,,10150,,10706,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,340,Honduras,HND,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,6,,,,6,,94,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,360,Indonesia,IDN,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,26,,,,26,,375,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,247010,,,,247010,,99301,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,376,Israel,ISR,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,8,,,,8,,92,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,404,Kenya,KEN,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,10,,,,10,,76,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,458,Malaysia,MYS,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,83,,,,83,,945,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,484,Mexico,MEX,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,14,,,,14,,237,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,59,,,,59,,321,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,761,,,,761,,1716,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,522,,,,522,,298,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,704,Viet Nam,VNM,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,222,,,,222,,2686,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,51,,,,51,,509,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,25,,,,25,,210,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,155,,,,155,,1506,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,49885,,,,49885,,98448,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,7539,,,,7539,,14324,,,0
+H4,2015,2015,2015,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,8532,,,,8532,,20750,,,0
+H4,2015,2015,2015,4,0,1,Import,51,Armenia,ARM,56,Belgium,BEL,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,576,,,,576,,2440,,,0
+H4,2015,2015,2015,4,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,22,,,,22,,124,,,0
+H4,2015,2015,2015,4,0,1,Import,51,Armenia,ARM,616,Poland,POL,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,5998,,,,5998,,9622,,,0
+H4,2015,2015,2015,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,1937,,,,1937,,8564,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,1168088,,,,1168088,,855354,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,3810,,,,3810,,4953,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,24301,,,,24301,,47288,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,22480,,,,22480,,14428,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,10413,,,,10413,,13537,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,613,,,,613,,920,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,101006,,,,101006,,152058,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,498,Rep. of Moldova,MDA,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,18104,,,,18104,,6260,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,608,Philippines,PHL,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,360,,,,360,,468,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,616,Poland,POL,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,58032,,,,58032,,73450,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,580692,,,,580692,,78553,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,931,,,,931,,185,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,70195,,,,70195,,100605,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,223186,,,,223186,,285228,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,080810,"Fruit, edible; apples, fresh",8,Weight in kilograms,53965,,,,53965,,77421,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,358577,,,,358577,,254100,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,32,Argentina,ARG,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,1230,,,,1230,,583,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,9744,,,,9744,,12803,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,35668,,,,35668,,38035,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,600,,,,600,,1202,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,192000,,,,192000,,44160,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,960,,,,960,,1440,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,490,"Other Asia, nes",,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,3220,,,,3220,,4831,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,8234,,,,8234,,11603,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,8594,,,,8594,,2638,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,36786,,,,36786,,46151,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,12744,,,,12744,,19116,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,26949,,,,26949,,41074,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,080830,"Fruit, edible; pears, fresh",8,Weight in kilograms,21848,,,,21848,,30463,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080840,"Fruit, edible; quinces, fresh",8,Weight in kilograms,57873,,,,57873,,70923,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080840,"Fruit, edible; quinces, fresh",8,Weight in kilograms,30779,,,,30779,,31652,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080840,"Fruit, edible; quinces, fresh",8,Weight in kilograms,19238,,,,19238,,28861,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,080840,"Fruit, edible; quinces, fresh",8,Weight in kilograms,7856,,,,7856,,10409,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080910,"Fruit, edible; apricots, fresh",8,Weight in kilograms,1048,,,,1048,,3708,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,554,New Zealand,NZL,,,,,,,,080910,"Fruit, edible; apricots, fresh",8,Weight in kilograms,3,,,,3,,81,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080910,"Fruit, edible; apricots, fresh",8,Weight in kilograms,100,,,,100,,225,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,080910,"Fruit, edible; apricots, fresh",8,Weight in kilograms,945,,,,945,,3402,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080929,"Fruit, edible; cherries, other than sour cherries (Prunus cerasus), fresh",8,Weight in kilograms,484,,,,484,,3008,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080929,"Fruit, edible; cherries, other than sour cherries (Prunus cerasus), fresh",8,Weight in kilograms,70,,,,70,,1970,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,080929,"Fruit, edible; cherries, other than sour cherries (Prunus cerasus), fresh",8,Weight in kilograms,14,,,,14,,237,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080929,"Fruit, edible; cherries, other than sour cherries (Prunus cerasus), fresh",8,Weight in kilograms,400,,,,400,,801,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,7704,,,,7704,,17530,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,1689,,,,1689,,3026,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,188,Costa Rica,CRI,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,48,,,,48,,108,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,3700,,,,3700,,8783,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,100,,,,100,,326,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,275,,,,275,,619,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,218,,,,218,,1048,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,150,,,,150,,338,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,080930,"Fruit, edible; peaches, including nectarines, fresh",8,Weight in kilograms,1524,,,,1524,,3282,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080940,"Fruit, edible; plums and sloes, fresh",8,Weight in kilograms,8145,,,,8145,,19580,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080940,"Fruit, edible; plums and sloes, fresh",8,Weight in kilograms,2400,,,,2400,,1875,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080940,"Fruit, edible; plums and sloes, fresh",8,Weight in kilograms,475,,,,475,,2141,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,080940,"Fruit, edible; plums and sloes, fresh",8,Weight in kilograms,90,,,,90,,24,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,080940,"Fruit, edible; plums and sloes, fresh",8,Weight in kilograms,5180,,,,5180,,15540,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081010,"Fruit, edible; strawberries, fresh",8,Weight in kilograms,1520,,,,1520,,9552,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,081010,"Fruit, edible; strawberries, fresh",8,Weight in kilograms,1520,,,,1520,,9552,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081020,"Fruit, edible; raspberries, blackberries, mulberries, and loganberries, fresh",8,Weight in kilograms,216,,,,216,,5486,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,484,Mexico,MEX,,,,,,,,081020,"Fruit, edible; raspberries, blackberries, mulberries, and loganberries, fresh",8,Weight in kilograms,42,,,,42,,1225,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,504,Morocco,MAR,,,,,,,,081020,"Fruit, edible; raspberries, blackberries, mulberries, and loganberries, fresh",8,Weight in kilograms,8,,,,8,,188,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,081020,"Fruit, edible; raspberries, blackberries, mulberries, and loganberries, fresh",8,Weight in kilograms,62,,,,62,,1866,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,620,Portugal,PRT,,,,,,,,081020,"Fruit, edible; raspberries, blackberries, mulberries, and loganberries, fresh",8,Weight in kilograms,92,,,,92,,1828,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,081020,"Fruit, edible; raspberries, blackberries, mulberries, and loganberries, fresh",8,Weight in kilograms,13,,,,13,,379,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081030,"Fruit, edible; black, white or red currants and gooseberries, fresh",8,Weight in kilograms,65,,,,65,,2076,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,081030,"Fruit, edible; black, white or red currants and gooseberries, fresh",8,Weight in kilograms,14,,,,14,,658,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,081030,"Fruit, edible; black, white or red currants and gooseberries, fresh",8,Weight in kilograms,51,,,,51,,1418,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,326,,,,326,,3223,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,38,,,,38,,578,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,30,,,,30,,150,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,484,Mexico,MEX,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,37,,,,37,,185,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,23,,,,23,,115,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,53,,,,53,,566,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,97,,,,97,,1098,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,081040,"Fruit, edible; cranberries, bilberries and other fruits of the genus vaccinium, fresh",8,Weight in kilograms,49,,,,49,,531,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,1826280,,,,1826280,,2050915,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,28206,,,,28206,,19376,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,400,,,,400,,680,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,20789,,,,20789,,22348,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,1754940,,,,1754940,,1987767,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,2953,,,,2953,,3472,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,554,New Zealand,NZL,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,125,,,,125,,1022,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,4066,,,,4066,,3822,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,081050,"Fruit, edible; kiwifruit, fresh",8,Weight in kilograms,14801,,,,14801,,12427,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081070,"Fruit, edible; persimmons, fresh",8,Weight in kilograms,849079,,,,849079,,705239,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,188,Costa Rica,CRI,,,,,,,,081070,"Fruit, edible; persimmons, fresh",8,Weight in kilograms,2312,,,,2312,,1908,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,081070,"Fruit, edible; persimmons, fresh",8,Weight in kilograms,833775,,,,833775,,692986,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,081070,"Fruit, edible; persimmons, fresh",8,Weight in kilograms,2200,,,,2200,,1833,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,081070,"Fruit, edible; persimmons, fresh",8,Weight in kilograms,760,,,,760,,235,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,081070,"Fruit, edible; persimmons, fresh",8,Weight in kilograms,6804,,,,6804,,5614,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,081070,"Fruit, edible; persimmons, fresh",8,Weight in kilograms,3228,,,,3228,,2663,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,531204,,,,531204,,490742,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,326,,,,326,,1268,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,6204,,,,6204,,12221,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,170,Colombia,COL,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,641,,,,641,,7554,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,188,Costa Rica,CRI,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,137,,,,137,,380,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,204,Benin,BEN,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,90,,,,90,,56,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,214,Dominican Rep.,DOM,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,6,,,,6,,106,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,218,Ecuador,ECU,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,227,,,,227,,1334,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,47517,,,,47517,,45693,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,320,Guatemala,GTM,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,20,,,,20,,60,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,360,Indonesia,IDN,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,12,,,,12,,229,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,362331,,,,362331,,189764,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,376,Israel,ISR,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,1158,,,,1158,,2222,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,16,,,,16,,56,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,450,Madagascar,MDG,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,2,,,,2,,34,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,458,Malaysia,MYS,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,387,,,,387,,1679,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,484,Mexico,MEX,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,6,,,,6,,126,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,3182,,,,3182,,6375,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,608,Philippines,PHL,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,22,,,,22,,127,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,1920,,,,1920,,714,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,704,Viet Nam,VNM,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,536,,,,536,,2640,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,5425,,,,5425,,10524,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,303,,,,303,,1737,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,41625,,,,41625,,87915,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,081090,"Fruit, edible; fruits n.e.c. in heading no. 0801 to 0810, fresh",8,Weight in kilograms,59111,,,,59111,,117929,,,0
+H4,2016,2016,2016,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,12026,,,,12026,,28867,,,0
+H4,2016,2016,2016,4,0,1,Import,51,Armenia,ARM,56,Belgium,BEL,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,18,,,,18,,70,,,0
+H4,2016,2016,2016,4,0,1,Import,51,Armenia,ARM,112,Belarus,BLR,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,3304,,,,3304,,9329,,,0
+H4,2016,2016,2016,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,454,,,,454,,718,,,0
+H4,2016,2016,2016,4,0,1,Import,51,Armenia,ARM,616,Poland,POL,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,3402,,,,3402,,5431,,,0
+H4,2016,2016,2016,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,4705,,,,4705,,13109,,,0
+H4,2016,2016,2016,4,0,1,Import,51,Armenia,ARM,807,North Macedonia,MKD,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,143,,,,143,,209,,,0

@@ -1,0 +1,265 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0801,"Nuts, edible; coconuts, Brazil nuts and cashew nuts, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,246886,,,,246886,,1410668,,,0
+H5,2018,2018,2018,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0801,"Nuts, edible; coconuts, Brazil nuts and cashew nuts, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,186751,,,,186751,,744341,,,0
+H5,2019,2019,2019,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0801,"Nuts, edible; coconuts, Brazil nuts and cashew nuts, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,330327,,,,330327,,1908212,,,0
+H5,2017,2017,2017,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0802,"Nuts (excluding coconuts, Brazils and cashew nuts); fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,1775815,,,,1775815,,3697325,,,6
+H5,2018,2018,2018,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0802,"Nuts (excluding coconuts, Brazils and cashew nuts); fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,4329649,,,,4329649,,5615809,,,0
+H5,2019,2019,2019,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0802,"Nuts (excluding coconuts, Brazils and cashew nuts); fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,1046061,,,,1046061,,6538330,,,0
+H5,2017,2017,2017,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0803,"Bananas, including plantains; fresh or dried",8,Weight in kilograms,12419470,,,,12419469,,8692656,,,0
+H5,2018,2018,2018,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0803,"Bananas, including plantains; fresh or dried",8,Weight in kilograms,22475577,,,,22475577,,15270548,,,0
+H5,2019,2019,2019,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0803,"Bananas, including plantains; fresh or dried",8,Weight in kilograms,21212984,,,,21212984,,15261698,,,0
+H5,2017,2017,2017,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0804,"Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens; fresh or dried",8,Weight in kilograms,1962837,,,,1962837,,2089957,,,0
+H5,2018,2018,2018,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0804,"Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens; fresh or dried",8,Weight in kilograms,2727325,,,,2727325,,2816570,,,0
+H5,2019,2019,2019,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0804,"Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens; fresh or dried",8,Weight in kilograms,2629785,,,,2629785,,3122211,,,0
+H5,2017,2017,2017,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0805,Citrus fruit; fresh or dried,8,Weight in kilograms,18223087,,,,18223087,,11301596,,,0
+H5,2018,2018,2018,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0805,Citrus fruit; fresh or dried,8,Weight in kilograms,23805946,,,,23805946,,15038543,,,0
+H5,2019,2019,2019,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0805,Citrus fruit; fresh or dried,8,Weight in kilograms,31302293,,,,31302293,,18039045,,,0
+H5,2017,2017,2017,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0806,Grapes; fresh or dried,8,Weight in kilograms,5103293,,,,5103293,,2859107,,,0
+H5,2018,2018,2018,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0806,Grapes; fresh or dried,8,Weight in kilograms,4235213,,,,4235213,,2572616,,,0
+H5,2019,2019,2019,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0806,Grapes; fresh or dried,8,Weight in kilograms,3890715,,,,3890715,,3511516,,,0
+H5,2017,2017,2017,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0807,Melons (including watermelons) and papaws (papayas); fresh,8,Weight in kilograms,876675,,,,876675,,548900,,,0
+H5,2018,2018,2018,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0807,Melons (including watermelons) and papaws (papayas); fresh,8,Weight in kilograms,1965705,,,,1965705,,723604,,,0
+H5,2019,2019,2019,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0807,Melons (including watermelons) and papaws (papayas); fresh,8,Weight in kilograms,2189731,,,,2189731,,1611520,,,0
+H5,2017,2017,2017,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0808,"Apples, pears and quinces; fresh",8,Weight in kilograms,3882385,,,,3882385,,2271958,,,0
+H5,2018,2018,2018,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0808,"Apples, pears and quinces; fresh",8,Weight in kilograms,6678751,,,,6678751,,3104947,,,0
+H5,2019,2019,2019,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0808,"Apples, pears and quinces; fresh",8,Weight in kilograms,3037679,,,,3037679,,1973564,,,0
+H5,2017,2017,2017,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0809,"Apricots, cherries, peaches (including nectarines), plums and sloes, fresh",8,Weight in kilograms,1233170,,,,1233170,,1069507,,,0
+H5,2018,2018,2018,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0809,"Apricots, cherries, peaches (including nectarines), plums and sloes, fresh",8,Weight in kilograms,4535365,,,,4535365,,2110909,,,0
+H5,2019,2019,2019,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0809,"Apricots, cherries, peaches (including nectarines), plums and sloes, fresh",8,Weight in kilograms,3357520,,,,3357520,,2178832,,,0
+H5,2017,2017,2017,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0810,"Fruit, fresh; n.e.c. in chapter 08",8,Weight in kilograms,6371950,,,,6371950,,4741015,,,0
+H5,2018,2018,2018,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0810,"Fruit, fresh; n.e.c. in chapter 08",8,Weight in kilograms,11933664,,,,11933664,,6808146,,,0
+H5,2019,2019,2019,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0810,"Fruit, fresh; n.e.c. in chapter 08",8,Weight in kilograms,14763345,,,,14763345,,9064549,,,0
+H5,2017,2017,2017,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,16417,,,,16417,,47021,,,0
+H5,2018,2018,2018,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,12340,,,,12340,,37319,,,0
+H5,2019,2019,2019,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,52487,,,,52487,,87897,,,0
+H5,2018,2018,2018,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0812,"Fruit and nuts provisionally preserved; e.g. by sulphur dioxide gas, brine, in sulphur water or in other preservative solutions, but unsuitable in that state for immediate consumption",8,Weight in kilograms,73,,,,73,,881,,,0
+H5,2017,2017,2017,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0813,"Fruit, dried, other than that of heading no. 0801 to 0806; mixtures of nuts or dried fruits of this chapter",8,Weight in kilograms,128121,,,,128121,,326408,,,0
+H5,2018,2018,2018,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0813,"Fruit, dried, other than that of heading no. 0801 to 0806; mixtures of nuts or dried fruits of this chapter",8,Weight in kilograms,148599,,,,148599,,402789,,,0
+H5,2019,2019,2019,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0813,"Fruit, dried, other than that of heading no. 0801 to 0806; mixtures of nuts or dried fruits of this chapter",8,Weight in kilograms,156293,,,,156293,,398217,,,0
+H5,2017,2017,2017,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0814,"Peel of citrus fruit or melons (including watermelons); fresh, frozen dried or provisionally preserved in brine, in sulphur water or in other preservative solutions",8,Weight in kilograms,100,,,,100,,978,,,0
+H5,2018,2018,2018,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0814,"Peel of citrus fruit or melons (including watermelons); fresh, frozen dried or provisionally preserved in brine, in sulphur water or in other preservative solutions",8,Weight in kilograms,1,,,,1,,40,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0801,"Nuts, edible; coconuts, Brazil nuts and cashew nuts, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,72074,,,,72074,,264429,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0802,"Nuts (excluding coconuts, Brazils and cashew nuts); fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,296476,,,,296476,,1637827,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0803,"Bananas, including plantains; fresh or dried",8,Weight in kilograms,9875279,,,,9875279,,11075460,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0804,"Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens; fresh or dried",8,Weight in kilograms,717812,,,,717812,,1092464,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0805,Citrus fruit; fresh or dried,8,Weight in kilograms,15019114,,,,15019114,,15883640,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0806,Grapes; fresh or dried,8,Weight in kilograms,723330,,,,723330,,1158286,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0807,Melons (including watermelons) and papaws (papayas); fresh,8,Weight in kilograms,336905,,,,336905,,408851,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0808,"Apples, pears and quinces; fresh",8,Weight in kilograms,237642,,,,237642,,403086,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0809,"Apricots, cherries, peaches (including nectarines), plums and sloes, fresh",8,Weight in kilograms,221210,,,,221210,,219420,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0810,"Fruit, fresh; n.e.c. in chapter 08",8,Weight in kilograms,1932132,,,,1932132,,2851621,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,946,,,,946,,3404,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0813,"Fruit, dried, other than that of heading no. 0801 to 0806; mixtures of nuts or dried fruits of this chapter",8,Weight in kilograms,105081,,,,105081,,279070,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0801,"Nuts, edible; coconuts, Brazil nuts and cashew nuts, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,113344,,,,113344,,422339,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0802,"Nuts (excluding coconuts, Brazils and cashew nuts); fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,407930,,,,407930,,2412447,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0803,"Bananas, including plantains; fresh or dried",8,Weight in kilograms,12019149,,,,12019149,,9056550,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0804,"Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens; fresh or dried",8,Weight in kilograms,1204896,,,,1204896,,1698609,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0805,Citrus fruit; fresh or dried,8,Weight in kilograms,17660475,,,,17660475,,16417603,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0806,Grapes; fresh or dried,8,Weight in kilograms,753733,,,,753733,,1208563,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0807,Melons (including watermelons) and papaws (papayas); fresh,8,Weight in kilograms,368759,,,,368759,,434617,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0808,"Apples, pears and quinces; fresh",8,Weight in kilograms,480217,,,,480217,,743790,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0809,"Apricots, cherries, peaches (including nectarines), plums and sloes, fresh",8,Weight in kilograms,246440,,,,246440,,4544125,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0810,"Fruit, fresh; n.e.c. in chapter 08",8,Weight in kilograms,1857129,,,,1857129,,2726452,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,2739,,,,2739,,12674,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0813,"Fruit, dried, other than that of heading no. 0801 to 0806; mixtures of nuts or dried fruits of this chapter",8,Weight in kilograms,140131,,,,140131,,640074,,,0
+H4,2015,2015,2015,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0801,"Nuts, edible; coconuts, Brazil nuts and cashew nuts, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,122299,,,,122299,,535285,,,0
+H4,2015,2015,2015,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0802,"Nuts (excluding coconuts, Brazils and cashew nuts); fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,175161,,,,175161,,1183709,,,0
+H4,2015,2015,2015,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0803,"Bananas, including plantains; fresh or dried",8,Weight in kilograms,10723316,,,,10723316,,7466454,,,0
+H4,2015,2015,2015,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0804,"Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens; fresh or dried",8,Weight in kilograms,2351668,,,,2351668,,1715463,,,0
+H4,2015,2015,2015,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0805,Citrus fruit; fresh or dried,8,Weight in kilograms,14283400,,,,14283400,,11639402,,,0
+H4,2015,2015,2015,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0806,Grapes; fresh or dried,8,Weight in kilograms,699451,,,,699451,,1116522,,,0
+H4,2015,2015,2015,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0807,Melons (including watermelons) and papaws (papayas); fresh,8,Weight in kilograms,117077,,,,117077,,129438,,,0
+H4,2015,2015,2015,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0808,"Apples, pears and quinces; fresh",8,Weight in kilograms,294959,,,,294959,,425256,,,0
+H4,2015,2015,2015,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0809,"Apricots, cherries, peaches (including nectarines), plums and sloes, fresh",8,Weight in kilograms,8365,,,,8365,,16985,,,0
+H4,2015,2015,2015,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0810,"Fruit, fresh; n.e.c. in chapter 08",8,Weight in kilograms,2025731,,,,2025731,,2438163,,,0
+H4,2015,2015,2015,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,8532,,,,8532,,20750,,,0
+H4,2015,2015,2015,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0813,"Fruit, dried, other than that of heading no. 0801 to 0806; mixtures of nuts or dried fruits of this chapter",8,Weight in kilograms,110433,,,,110433,,518613,,,0
+H4,2016,2016,2016,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0801,"Nuts, edible; coconuts, Brazil nuts and cashew nuts, fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,71635,,,,71635,,190321,,,0
+H4,2016,2016,2016,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0802,"Nuts (excluding coconuts, Brazils and cashew nuts); fresh or dried, whether or not shelled or peeled",8,Weight in kilograms,478276,,,,478276,,1903232,,,0
+H4,2016,2016,2016,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0803,"Bananas, including plantains; fresh or dried",8,Weight in kilograms,11772503,,,,11772503,,8111166,,,0
+H4,2016,2016,2016,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0804,"Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens; fresh or dried",8,Weight in kilograms,1483939,,,,1483939,,1488443,,,0
+H4,2016,2016,2016,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0805,Citrus fruit; fresh or dried,8,Weight in kilograms,19724066,,,,19724066,,11603075,,,0
+H4,2016,2016,2016,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0806,Grapes; fresh or dried,8,Weight in kilograms,1047482,,,,1047482,,1318055,,,0
+H4,2016,2016,2016,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0807,Melons (including watermelons) and papaws (papayas); fresh,8,Weight in kilograms,351952,,,,351952,,231835,,,0
+H4,2016,2016,2016,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0808,"Apples, pears and quinces; fresh",8,Weight in kilograms,1584537,,,,1584537,,1180376,,,0
+H4,2016,2016,2016,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0809,"Apricots, cherries, peaches (including nectarines), plums and sloes, fresh",8,Weight in kilograms,17381,,,,17381,,43826,,,0
+H4,2016,2016,2016,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0810,"Fruit, fresh; n.e.c. in chapter 08",8,Weight in kilograms,3208690,,,,3208690,,3267232,,,0
+H4,2016,2016,2016,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0811,"Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",8,Weight in kilograms,12026,,,,12026,,28867,,,0
+H4,2016,2016,2016,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0813,"Fruit, dried, other than that of heading no. 0801 to 0806; mixtures of nuts or dried fruits of this chapter",8,Weight in kilograms,33748,,,,33748,,145334,,,0
+H3,2007,2007,2007,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0801,"Coconuts, Brazil nuts and cashew nuts, fresh or dried, whether or not shelled or peeled.",8,Weight in kilograms,29170,,,,29170,,149648,,,0
+H3,2008,2008,2008,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0801,"Coconuts, Brazil nuts and cashew nuts, fresh or dried, whether or not shelled or peeled.",8,Weight in kilograms,41423,,,,41423,,213430,,,0
+H3,2009,2009,2009,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0801,"Coconuts, Brazil nuts and cashew nuts, fresh or dried, whether or not shelled or peeled.",8,Weight in kilograms,94222,,,,94222,,311955,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0801,"Coconuts, Brazil nuts and cashew nuts, fresh or dried, whether or not shelled or peeled.",8,Weight in kilograms,132367,,,,132367,,568234,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0801,"Coconuts, Brazil nuts and cashew nuts, fresh or dried, whether or not shelled or peeled.",8,Weight in kilograms,200021,,,,200021,,888279,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0801,"Coconuts, Brazil nuts and cashew nuts, fresh or dried, whether or not shelled or peeled.",8,Weight in kilograms,133348,,,,133348,,465984,,,0
+H3,2007,2007,2007,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0802,"Other nuts, fresh or dried, whether or not shelled or peeled.",8,Weight in kilograms,794023,,,,794023,,2151361,,,0
+H3,2008,2008,2008,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0802,"Other nuts, fresh or dried, whether or not shelled or peeled.",8,Weight in kilograms,743753,,,,743753,,3086484,,,0
+H3,2009,2009,2009,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0802,"Other nuts, fresh or dried, whether or not shelled or peeled.",8,Weight in kilograms,361782,,,,361782,,2153715,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0802,"Other nuts, fresh or dried, whether or not shelled or peeled.",8,Weight in kilograms,360833,,,,360833,,1888947,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0802,"Other nuts, fresh or dried, whether or not shelled or peeled.",8,Weight in kilograms,244978,,,,244978,,1429403,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0802,"Other nuts, fresh or dried, whether or not shelled or peeled.",8,Weight in kilograms,223041,,,,223041,,1108439,,,0
+H3,2007,2007,2007,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0803,"Bananas, including plantains, fresh or dried.",8,Weight in kilograms,17172462,,,,17172462,,12221724,,,0
+H3,2008,2008,2008,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0803,"Bananas, including plantains, fresh or dried.",8,Weight in kilograms,8258450,,,,8258450,,11155604,,,0
+H3,2009,2009,2009,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0803,"Bananas, including plantains, fresh or dried.",8,Weight in kilograms,8396694,,,,8396694,,11764274,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0803,"Bananas, including plantains, fresh or dried.",8,Weight in kilograms,8458224,,,,8458224,,11840420,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0803,"Bananas, including plantains, fresh or dried.",8,Weight in kilograms,11025713,,,,11025713,,15441397,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0803,"Bananas, including plantains, fresh or dried.",8,Weight in kilograms,12502931,,,,12502931,,17513823,,,0
+H3,2007,2007,2007,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0804,"Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens, fresh or dried.",8,Weight in kilograms,746211,,,,746211,,743377,,,0
+H3,2008,2008,2008,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0804,"Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens, fresh or dried.",8,Weight in kilograms,617266,,,,617266,,1290118,,,0
+H3,2009,2009,2009,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0804,"Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens, fresh or dried.",8,Weight in kilograms,655862,,,,655862,,1211018,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0804,"Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens, fresh or dried.",8,Weight in kilograms,869637,,,,869637,,1998209,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0804,"Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens, fresh or dried.",8,Weight in kilograms,918236,,,,918236,,1781298,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0804,"Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens, fresh or dried.",8,Weight in kilograms,655801,,,,655801,,1251844,,,0
+H3,2007,2007,2007,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0805,"Citrus fruit, fresh or dried.",8,Weight in kilograms,5516027,,,,5516027,,6061208,,,0
+H3,2008,2008,2008,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0805,"Citrus fruit, fresh or dried.",8,Weight in kilograms,8256074,,,,8256074,,12165051,,,0
+H3,2009,2009,2009,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0805,"Citrus fruit, fresh or dried.",8,Weight in kilograms,11052726,,,,11052726,,12487829,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0805,"Citrus fruit, fresh or dried.",8,Weight in kilograms,17107917,,,,17107917,,19112073,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0805,"Citrus fruit, fresh or dried.",8,Weight in kilograms,16188970,,,,16188970,,19122880,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0805,"Citrus fruit, fresh or dried.",8,Weight in kilograms,12298801,,,,12298801,,13448326,,,0
+H3,2007,2007,2007,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0806,"Grapes, fresh or dried.",8,Weight in kilograms,447609,,,,447609,,847559,,,0
+H3,2008,2008,2008,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0806,"Grapes, fresh or dried.",8,Weight in kilograms,434918,,,,434918,,773993,,,0
+H3,2009,2009,2009,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0806,"Grapes, fresh or dried.",8,Weight in kilograms,956089,,,,956089,,1169314,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0806,"Grapes, fresh or dried.",8,Weight in kilograms,957779,,,,957779,,1332462,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0806,"Grapes, fresh or dried.",8,Weight in kilograms,856264,,,,856264,,1254867,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0806,"Grapes, fresh or dried.",8,Weight in kilograms,1107960,,,,1107960,,1763163,,,0
+H3,2007,2007,2007,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0807,"Melons (including watermelons) and papaws (papayas), fresh.",8,Weight in kilograms,448668,,,,448668,,348870,,,0
+H3,2008,2008,2008,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0807,"Melons (including watermelons) and papaws (papayas), fresh.",8,Weight in kilograms,553760,,,,553760,,935726,,,0
+H3,2009,2009,2009,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0807,"Melons (including watermelons) and papaws (papayas), fresh.",8,Weight in kilograms,142077,,,,142077,,187499,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0807,"Melons (including watermelons) and papaws (papayas), fresh.",8,Weight in kilograms,447270,,,,447270,,543787,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0807,"Melons (including watermelons) and papaws (papayas), fresh.",8,Weight in kilograms,434117,,,,434117,,599973,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0807,"Melons (including watermelons) and papaws (papayas), fresh.",8,Weight in kilograms,346877,,,,346877,,417856,,,0
+H3,2007,2007,2007,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0808,"Apples, pears and quinces, fresh.",8,Weight in kilograms,274999,,,,274999,,196577,,,0
+H3,2008,2008,2008,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0808,"Apples, pears and quinces, fresh.",8,Weight in kilograms,133336,,,,133336,,247465,,,0
+H3,2009,2009,2009,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0808,"Apples, pears and quinces, fresh.",8,Weight in kilograms,271159,,,,271159,,383937,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0808,"Apples, pears and quinces, fresh.",8,Weight in kilograms,598680,,,,598680,,853773,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0808,"Apples, pears and quinces, fresh.",8,Weight in kilograms,1816546,,,,1816546,,2804596,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0808,"Apples, pears and quinces, fresh.",8,Weight in kilograms,261479,,,,261479,,389866,,,0
+H3,2007,2007,2007,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0809,"Apricots, cherries, peaches (including nectarines), plums and sloes, fresh.",8,Weight in kilograms,15686,,,,15686,,9883,,,0
+H3,2008,2008,2008,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0809,"Apricots, cherries, peaches (including nectarines), plums and sloes, fresh.",8,Weight in kilograms,22448,,,,22448,,23952,,,0
+H3,2009,2009,2009,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0809,"Apricots, cherries, peaches (including nectarines), plums and sloes, fresh.",8,Weight in kilograms,1314,,,,1314,,4604,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0809,"Apricots, cherries, peaches (including nectarines), plums and sloes, fresh.",8,Weight in kilograms,216601,,,,216601,,425730,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0809,"Apricots, cherries, peaches (including nectarines), plums and sloes, fresh.",8,Weight in kilograms,97129,,,,97129,,212114,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0809,"Apricots, cherries, peaches (including nectarines), plums and sloes, fresh.",8,Weight in kilograms,3300,,,,3300,,7769,,,0
+H3,2007,2007,2007,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0810,"Other fruit, fresh.",8,Weight in kilograms,1053223,,,,1053223,,1923202,,,0
+H3,2008,2008,2008,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0810,"Other fruit, fresh.",8,Weight in kilograms,580395,,,,580395,,1271445,,,0
+H3,2009,2009,2009,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0810,"Other fruit, fresh.",8,Weight in kilograms,989903,,,,989903,,2032056,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0810,"Other fruit, fresh.",8,Weight in kilograms,1448067,,,,1448067,,2782967,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0810,"Other fruit, fresh.",8,Weight in kilograms,1323542,,,,1323542,,2744267,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0810,"Other fruit, fresh.",8,Weight in kilograms,1328358,,,,1328358,,2019452,,,0
+H3,2008,2008,2008,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0811,"Fruit and nuts, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter.",8,Weight in kilograms,1581,,,,1581,,6022,,,0
+H3,2009,2009,2009,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0811,"Fruit and nuts, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter.",8,Weight in kilograms,1295,,,,1295,,4378,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0811,"Fruit and nuts, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter.",8,Weight in kilograms,15334,,,,15334,,13502,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0811,"Fruit and nuts, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter.",8,Weight in kilograms,2677,,,,2677,,9955,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0811,"Fruit and nuts, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter.",8,Weight in kilograms,27934,,,,27934,,58968,,,0
+H3,2007,2007,2007,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0812,"Fruit and nuts, provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption.",8,Weight in kilograms,34118,,,,34118,,30715,,,0
+H3,2008,2008,2008,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0812,"Fruit and nuts, provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption.",8,Weight in kilograms,31923,,,,31923,,54271,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0812,"Fruit and nuts, provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption.",8,Weight in kilograms,18,,,,18,,20,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0812,"Fruit and nuts, provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption.",8,Weight in kilograms,3499,,,,3499,,3919,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0812,"Fruit and nuts, provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption.",8,Weight in kilograms,20,,,,20,,56,,,0
+H3,2007,2007,2007,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0813,"Fruit, dried, other than that of headings 08.01 to 08.06; mixtures of nuts or dried fruits of this Chapter.",8,Weight in kilograms,132854,,,,132854,,562122,,,0
+H3,2008,2008,2008,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0813,"Fruit, dried, other than that of headings 08.01 to 08.06; mixtures of nuts or dried fruits of this Chapter.",8,Weight in kilograms,149745,,,,149745,,536677,,,0
+H3,2009,2009,2009,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0813,"Fruit, dried, other than that of headings 08.01 to 08.06; mixtures of nuts or dried fruits of this Chapter.",8,Weight in kilograms,135249,,,,135249,,377256,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0813,"Fruit, dried, other than that of headings 08.01 to 08.06; mixtures of nuts or dried fruits of this Chapter.",8,Weight in kilograms,188461,,,,188461,,597535,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0813,"Fruit, dried, other than that of headings 08.01 to 08.06; mixtures of nuts or dried fruits of this Chapter.",8,Weight in kilograms,253723,,,,253723,,667258,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0813,"Fruit, dried, other than that of headings 08.01 to 08.06; mixtures of nuts or dried fruits of this Chapter.",8,Weight in kilograms,202834,,,,202834,,545408,,,0
+H2,2003,2003,2003,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0801,"Coconuts, Brazil nuts and cashew nuts, fresh or dried",8,Weight in kilograms,31680,,,,31680,,17453,,,0
+H2,2003,2003,2003,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0802,"Other nuts, fresh or dried",8,Weight in kilograms,1167053,,,,1167053,,974528,,,0
+H2,2003,2003,2003,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0803,"Bananas, including plantains",8,Weight in kilograms,2762708,,,,2762708,,1105089,,,0
+H2,2003,2003,2003,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0804,"Dates, figs, pineapples, avocados and mangosteens, fresh or dried.",8,Weight in kilograms,339163,,,,339163,,119223,,,0
+H2,2003,2003,2003,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0805,"Citrus fruit, fresh or dried.",8,Weight in kilograms,269673,,,,269673,,97429,,,0
+H2,2003,2003,2003,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0806,"Grapes, fresh or dried.",8,Weight in kilograms,814107,,,,814107,,526240,,,0
+H2,2003,2003,2003,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0807,"Melons (including watermelons) and papaws (papayas), fresh.",8,Weight in kilograms,40672,,,,40672,,16270,,,0
+H2,2003,2003,2003,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0808,"Apples, pears and quinces, fresh.",8,Weight in kilograms,22979,,,,22979,,8043,,,0
+H2,2003,2003,2003,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0810,"Other fruit, fresh",8,Weight in kilograms,31190,,,,31190,,9460,,,0
+H2,2003,2003,2003,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0811,Fruit and nuts,8,Weight in kilograms,9600,,,,9600,,4916,,,0
+H2,2003,2003,2003,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0813,"Fruit, dried",8,Weight in kilograms,93059,,,,93059,,151201,,,0
+H2,2004,2004,2004,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0801,"Coconuts, Brazil nuts and cashew nuts, fresh or dried",8,Weight in kilograms,22850,,,,22850,,18463,,,0
+H2,2004,2004,2004,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0802,"Other nuts, fresh or dried",8,Weight in kilograms,1307077,,,,1307077,,2212304,,,0
+H2,2004,2004,2004,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0803,"Bananas, including plantains",8,Weight in kilograms,4033715,,,,4033715,,1836699,,,0
+H2,2004,2004,2004,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0804,"Dates, figs, pineapples, avocados and mangosteens, fresh or dried.",8,Weight in kilograms,491608,,,,491608,,194694,,,0
+H2,2004,2004,2004,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0805,"Citrus fruit, fresh or dried.",8,Weight in kilograms,3552810,,,,3552810,,1221171,,,0
+H2,2004,2004,2004,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0806,"Grapes, fresh or dried.",8,Weight in kilograms,844482,,,,844482,,741673,,,0
+H2,2004,2004,2004,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0807,"Melons (including watermelons) and papaws (papayas), fresh.",8,Weight in kilograms,313614,,,,313614,,91547,,,0
+H2,2004,2004,2004,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0808,"Apples, pears and quinces, fresh.",8,Weight in kilograms,13450,,,,13450,,1458,,,0
+H2,2004,2004,2004,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0810,"Other fruit, fresh",8,Weight in kilograms,887034,,,,887034,,477653,,,0
+H2,2004,2004,2004,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0811,Fruit and nuts,8,Weight in kilograms,1000,,,,1000,,500,,,0
+H2,2004,2004,2004,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0813,"Fruit, dried",8,Weight in kilograms,105568,,,,105568,,201180,,,0
+H2,2005,2005,2005,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0801,"Coconuts, Brazil nuts and cashew nuts, fresh or dried",8,Weight in kilograms,18654,,,,18654,,18943,,,0
+H2,2005,2005,2005,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0802,"Other nuts, fresh or dried",8,Weight in kilograms,1110440,,,,1110440,,1663479,,,0
+H2,2005,2005,2005,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0803,"Bananas, including plantains",8,Weight in kilograms,8190217,,,,8190217,,4058036,,,0
+H2,2005,2005,2005,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0804,"Dates, figs, pineapples, avocados and mangosteens, fresh or dried.",8,Weight in kilograms,593535,,,,593535,,282153,,,0
+H2,2005,2005,2005,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0805,"Citrus fruit, fresh or dried.",8,Weight in kilograms,4220517,,,,4220517,,1550901,,,0
+H2,2005,2005,2005,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0806,"Grapes, fresh or dried.",8,Weight in kilograms,849187,,,,849187,,604704,,,0
+H2,2005,2005,2005,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0807,"Melons (including watermelons) and papaws (papayas), fresh.",8,Weight in kilograms,7870,,,,7870,,2395,,,0
+H2,2005,2005,2005,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0808,"Apples, pears and quinces, fresh.",8,Weight in kilograms,10885,,,,10885,,5146,,,0
+H2,2005,2005,2005,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0809,"Apricots, cherries, peaches (including nectarines), plums and sloes, fresh. ...",8,Weight in kilograms,823,,,,823,,583,,,0
+H2,2005,2005,2005,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0810,"Other fruit, fresh",8,Weight in kilograms,1418500,,,,1418500,,790609,,,0
+H2,2005,2005,2005,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0811,Fruit and nuts,8,Weight in kilograms,8690,,,,8690,,8666,,,0
+H2,2005,2005,2005,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0812,"Fruit and nuts, provisionally preserved",8,Weight in kilograms,28515,,,,28515,,14240,,,0
+H2,2005,2005,2005,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0813,"Fruit, dried",8,Weight in kilograms,98876,,,,98876,,257574,,,0
+H2,2006,2006,2006,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0801,"Coconuts, Brazil nuts and cashew nuts, fresh or dried",8,Weight in kilograms,13099,,,,13099,,15646,,,0
+H2,2006,2006,2006,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0802,"Other nuts, fresh or dried",8,Weight in kilograms,662194,,,,662194,,1807857,,,0
+H2,2006,2006,2006,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0803,"Bananas, including plantains",8,Weight in kilograms,8613826,,,,8613826,,4562077,,,0
+H2,2006,2006,2006,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0804,"Dates, figs, pineapples, avocados and mangosteens, fresh or dried.",8,Weight in kilograms,761771,,,,761771,,599660,,,6
+H2,2006,2006,2006,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0805,"Citrus fruit, fresh or dried.",8,Weight in kilograms,6845639,,,,6845639,,4919806,,,0
+H2,2006,2006,2006,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0806,"Grapes, fresh or dried.",8,Weight in kilograms,1138125,,,,1138125,,996501,,,0
+H2,2006,2006,2006,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0807,"Melons (including watermelons) and papaws (papayas), fresh.",8,Weight in kilograms,545091,,,,545091,,247395,,,0
+H2,2006,2006,2006,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0808,"Apples, pears and quinces, fresh.",8,Weight in kilograms,40826,,,,40826,,22102,,,0
+H2,2006,2006,2006,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0810,"Other fruit, fresh",8,Weight in kilograms,1102851,,,,1102851,,1138470,,,0
+H2,2006,2006,2006,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0812,"Fruit and nuts, provisionally preserved",8,Weight in kilograms,23542,,,,23542,,16480,,,0
+H2,2006,2006,2006,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0813,"Fruit, dried",8,Weight in kilograms,63413,,,,63413,,199395,,,0
+H1,1997,1997,1997,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0801,"Coconuts, Brazil nuts and cashew nuts, fresh or dried",8,Weight in kilograms,1398,,,,1398,,2265,,,0
+H1,1997,1997,1997,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0802,"Nuts except coconut, brazil & cashew, fresh or dried",8,Weight in kilograms,52831,,,,52831,,63314,,,0
+H1,1997,1997,1997,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0803,"Bananas, including plantains, fresh or dried",8,Weight in kilograms,1219937,,,,1219937,,1023531,,,0
+H1,1997,1997,1997,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0804,"Dates, figs, pineapple, avocado, guava, fresh or dried",8,Weight in kilograms,168675,,,,168675,,84061,,,0
+H1,1997,1997,1997,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0805,"Citrus fruit, fresh or dried",8,Weight in kilograms,1240620,,,,1240620,,313790,,,0
+H1,1997,1997,1997,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0806,"Grapes, fresh or dried",8,Weight in kilograms,167547,,,,167547,,91758,,,0
+H1,1997,1997,1997,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0807,"Melons, watermelons and papaws (papayas), fresh",8,Weight in kilograms,385687,,,,385687,,97515,,,0
+H1,1997,1997,1997,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0808,"Apples, pears and quinces, fresh",8,Weight in kilograms,18101,,,,18101,,2354,,,0
+H1,1997,1997,1997,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0810,"Fruits nes, fresh",8,Weight in kilograms,144499,,,,144499,,60642,,,0
+H1,1997,1997,1997,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0811,"Fruits and nuts, uncooked boiled or steamed, frozen",8,Weight in kilograms,3187,,,,3187,,12469,,,0
+H1,1997,1997,1997,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0812,"Fruits, nuts provisionally preserved, not ready to eat",8,Weight in kilograms,253000,,,,253000,,56643,,,0
+H1,1997,1997,1997,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0813,"Fruit, dried, nes, dried fruit and nut mixtures",8,Weight in kilograms,4928,,,,4928,,4621,,,0
+H1,1999,1999,1999,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0801,"Coconuts, Brazil nuts and cashew nuts, fresh or dried",8,Weight in kilograms,139,,,,139,,258,,,0
+H1,1999,1999,1999,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0802,"Nuts except coconut, brazil & cashew, fresh or dried",8,Weight in kilograms,289965,,,,289965,,354951,,,0
+H1,1999,1999,1999,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0803,"Bananas, including plantains, fresh or dried",8,Weight in kilograms,1626521,,,,1626521,,1443402,,,0
+H1,1999,1999,1999,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0804,"Dates, figs, pineapple, avocado, guava, fresh or dried",8,Weight in kilograms,385748,,,,385748,,201558,,,0
+H1,1999,1999,1999,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0805,"Citrus fruit, fresh or dried",8,Weight in kilograms,7753250,,,,7753250,,2470344,,,0
+H1,1999,1999,1999,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0806,"Grapes, fresh or dried",8,Weight in kilograms,909500,,,,909500,,585290,,,0
+H1,1999,1999,1999,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0807,"Melons, watermelons and papaws (papayas), fresh",8,Weight in kilograms,643565,,,,643565,,190183,,,0
+H1,1999,1999,1999,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0808,"Apples, pears and quinces, fresh",8,Weight in kilograms,486234,,,,486234,,99622,,,0
+H1,1999,1999,1999,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0810,"Fruits nes, fresh",8,Weight in kilograms,976607,,,,976607,,388788,,,0
+H1,1999,1999,1999,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0811,"Fruits and nuts, uncooked boiled or steamed, frozen",8,Weight in kilograms,1,,,,1,,23,,,0
+H1,1999,1999,1999,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0812,"Fruits, nuts provisionally preserved, not ready to eat",8,Weight in kilograms,2500,,,,2500,,1000,,,0
+H1,1999,1999,1999,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0813,"Fruit, dried, nes, dried fruit and nut mixtures",8,Weight in kilograms,136646,,,,136646,,89346,,,0
+H1,2000,2000,2000,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0801,"Coconuts, Brazil nuts and cashew nuts, fresh or dried",8,Weight in kilograms,1012,,,,1012,,2097,,,0
+H1,2000,2000,2000,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0802,"Nuts except coconut, brazil & cashew, fresh or dried",8,Weight in kilograms,511177,,,,511177,,917211,,,0
+H1,2000,2000,2000,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0803,"Bananas, including plantains, fresh or dried",8,Weight in kilograms,857768,,,,857768,,582868,,,0
+H1,2000,2000,2000,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0804,"Dates, figs, pineapple, avocado, guava, fresh or dried",8,Weight in kilograms,254346,,,,254346,,149517,,,0
+H1,2000,2000,2000,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0805,"Citrus fruit, fresh or dried",8,Weight in kilograms,570196,,,,570196,,271748,,,0
+H1,2000,2000,2000,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0806,"Grapes, fresh or dried",8,Weight in kilograms,720593,,,,720593,,502816,,,0
+H1,2000,2000,2000,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0808,"Apples, pears and quinces, fresh",8,Weight in kilograms,4264,,,,4264,,2985,,,0
+H1,2000,2000,2000,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0809,"Stone fruit, fresh (apricot, cherry, plum, peach, etc)",8,Weight in kilograms,5,,,,5,,13,,,0
+H1,2000,2000,2000,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0810,"Fruits nes, fresh",8,Weight in kilograms,189972,,,,189972,,81174,,,0
+H1,2000,2000,2000,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0813,"Fruit, dried, nes, dried fruit and nut mixtures",8,Weight in kilograms,28140,,,,28140,,42051,,,0
+H1,2001,2001,2001,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0801,"Coconuts, Brazil nuts and cashew nuts, fresh or dried",8,Weight in kilograms,4008,,,,4008,,5088,,,0
+H1,2001,2001,2001,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0802,"Nuts except coconut, brazil & cashew, fresh or dried",8,Weight in kilograms,985678,,,,985678,,1113930,,,0
+H1,2001,2001,2001,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0803,"Bananas, including plantains, fresh or dried",8,Weight in kilograms,1018868,,,,1018868,,597127,,,0
+H1,2001,2001,2001,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0804,"Dates, figs, pineapple, avocado, guava, fresh or dried",8,Weight in kilograms,321247,,,,321247,,173628,,,0
+H1,2001,2001,2001,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0805,"Citrus fruit, fresh or dried",8,Weight in kilograms,802562,,,,802562,,320202,,,0
+H1,2001,2001,2001,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0806,"Grapes, fresh or dried",8,Weight in kilograms,876166,,,,876166,,762606,,,0
+H1,2001,2001,2001,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0807,"Melons, watermelons and papaws (papayas), fresh",8,Weight in kilograms,19969,,,,19969,,13979,,,0
+H1,2001,2001,2001,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0810,"Fruits nes, fresh",8,Weight in kilograms,95613,,,,95613,,35732,,,0
+H1,2001,2001,2001,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0811,"Fruits and nuts, uncooked boiled or steamed, frozen",8,Weight in kilograms,298,,,,298,,671,,,0
+H1,2001,2001,2001,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0813,"Fruit, dried, nes, dried fruit and nut mixtures",8,Weight in kilograms,41893,,,,41893,,73329,,,0
+H1,2002,2002,2002,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0801,"Coconuts, Brazil nuts and cashew nuts, fresh or dried",8,Weight in kilograms,10912,,,,10912,,6454,,,0
+H1,2002,2002,2002,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0802,"Nuts except coconut, brazil & cashew, fresh or dried",8,Weight in kilograms,238896,,,,238896,,579299,,,6
+H1,2002,2002,2002,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0803,"Bananas, including plantains, fresh or dried",8,Weight in kilograms,1837840,,,,1837840,,771828,,,0
+H1,2002,2002,2002,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0804,"Dates, figs, pineapple, avocado, guava, fresh or dried",8,Weight in kilograms,280685,,,,280685,,111405,,,0
+H1,2002,2002,2002,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0805,"Citrus fruit, fresh or dried",8,Weight in kilograms,173830,,,,173830,,58683,,,0
+H1,2002,2002,2002,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0806,"Grapes, fresh or dried",8,Weight in kilograms,651474,,,,651474,,426349,,,0
+H1,2002,2002,2002,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0807,"Melons, watermelons and papaws (papayas), fresh",8,Weight in kilograms,34950,,,,34950,,15075,,,0
+H1,2002,2002,2002,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0808,"Apples, pears and quinces, fresh",8,Weight in kilograms,26942,,,,26942,,9939,,,0
+H1,2002,2002,2002,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0809,"Stone fruit, fresh (apricot, cherry, plum, peach, etc)",8,Weight in kilograms,2400,,,,2400,,1440,,,0
+H1,2002,2002,2002,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0810,"Fruits nes, fresh",8,Weight in kilograms,62619,,,,62619,,20667,,,0
+H1,2002,2002,2002,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0813,"Fruit, dried, nes, dried fruit and nut mixtures",8,Weight in kilograms,24891,,,,24891,,32195,,,0

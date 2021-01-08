@@ -1,0 +1,116 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080111,"Nuts, edible; coconuts, desiccated",8,Weight in kilograms,42790,,,,42790,,84106,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,360,Indonesia,IDN,,,,,,,,080111,"Nuts, edible; coconuts, desiccated",8,Weight in kilograms,22500,,,,22500,,41906,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,458,Malaysia,MYS,,,,,,,,080111,"Nuts, edible; coconuts, desiccated",8,Weight in kilograms,500,,,,500,,700,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,608,Philippines,PHL,,,,,,,,080111,"Nuts, edible; coconuts, desiccated",8,Weight in kilograms,4990,,,,4990,,11656,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,080111,"Nuts, edible; coconuts, desiccated",8,Weight in kilograms,40,,,,40,,131,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,704,Viet Nam,VNM,,,,,,,,080111,"Nuts, edible; coconuts, desiccated",8,Weight in kilograms,12000,,,,12000,,20600,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,080111,"Nuts, edible; coconuts, desiccated",8,Weight in kilograms,1500,,,,1500,,7728,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,784,United Arab Emirates,ARE,,,,,,,,080111,"Nuts, edible; coconuts, desiccated",8,Weight in kilograms,1260,,,,1260,,1386,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080112,"Nuts, edible; coconuts, in the inner shell (endocarp)",8,Weight in kilograms,150,,,,150,,442,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080112,"Nuts, edible; coconuts, in the inner shell (endocarp)",8,Weight in kilograms,150,,,,150,,442,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080119,"Nuts, edible; coconuts, fresh or dried, other than desiccated or in the inner shell (endocarp)",8,Weight in kilograms,10042,,,,10042,,20815,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,144,Sri Lanka,LKA,,,,,,,,080119,"Nuts, edible; coconuts, fresh or dried, other than desiccated or in the inner shell (endocarp)",8,Weight in kilograms,5148,,,,5148,,8816,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,218,Ecuador,ECU,,,,,,,,080119,"Nuts, edible; coconuts, fresh or dried, other than desiccated or in the inner shell (endocarp)",8,Weight in kilograms,400,,,,400,,1173,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,360,Indonesia,IDN,,,,,,,,080119,"Nuts, edible; coconuts, fresh or dried, other than desiccated or in the inner shell (endocarp)",8,Weight in kilograms,500,,,,500,,550,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,080119,"Nuts, edible; coconuts, fresh or dried, other than desiccated or in the inner shell (endocarp)",8,Weight in kilograms,200,,,,200,,783,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,384,Côte d'Ivoire,CIV,,,,,,,,080119,"Nuts, edible; coconuts, fresh or dried, other than desiccated or in the inner shell (endocarp)",8,Weight in kilograms,244,,,,244,,1254,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,080119,"Nuts, edible; coconuts, fresh or dried, other than desiccated or in the inner shell (endocarp)",8,Weight in kilograms,2550,,,,2550,,7140,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,704,Viet Nam,VNM,,,,,,,,080119,"Nuts, edible; coconuts, fresh or dried, other than desiccated or in the inner shell (endocarp)",8,Weight in kilograms,1000,,,,1000,,1100,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080122,"Nuts, edible; brazil nuts, fresh or dried, shelled",8,Weight in kilograms,2424,,,,2424,,23777,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,68,Bolivia (Plurinational State of),BOL,,,,,,,,080122,"Nuts, edible; brazil nuts, fresh or dried, shelled",8,Weight in kilograms,1280,,,,1280,,11336,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,080122,"Nuts, edible; brazil nuts, fresh or dried, shelled",8,Weight in kilograms,71,,,,71,,1294,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080122,"Nuts, edible; brazil nuts, fresh or dried, shelled",8,Weight in kilograms,57,,,,57,,369,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,080122,"Nuts, edible; brazil nuts, fresh or dried, shelled",8,Weight in kilograms,960,,,,960,,10409,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080122,"Nuts, edible; brazil nuts, fresh or dried, shelled",8,Weight in kilograms,57,,,,57,,370,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080132,"Nuts, edible; cashew nuts, fresh or dried, shelled",8,Weight in kilograms,16669,,,,16669,,135288,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,080132,"Nuts, edible; cashew nuts, fresh or dried, shelled",8,Weight in kilograms,16669,,,,16669,,135288,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080111,"Nuts, edible; coconuts, desiccated",8,Weight in kilograms,62840,,,,62840,,168659,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,360,Indonesia,IDN,,,,,,,,080111,"Nuts, edible; coconuts, desiccated",8,Weight in kilograms,25000,,,,25000,,68515,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,080111,"Nuts, edible; coconuts, desiccated",8,Weight in kilograms,240,,,,240,,838,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,704,Viet Nam,VNM,,,,,,,,080111,"Nuts, edible; coconuts, desiccated",8,Weight in kilograms,36400,,,,36400,,92716,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,080111,"Nuts, edible; coconuts, desiccated",8,Weight in kilograms,1200,,,,1200,,6590,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080112,"Nuts, edible; coconuts, in the inner shell (endocarp)",8,Weight in kilograms,46,,,,46,,231,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,384,Côte d'Ivoire,CIV,,,,,,,,080112,"Nuts, edible; coconuts, in the inner shell (endocarp)",8,Weight in kilograms,46,,,,46,,231,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080119,"Nuts, edible; coconuts, fresh or dried, other than desiccated or in the inner shell (endocarp)",8,Weight in kilograms,23619,,,,23619,,36712,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,144,Sri Lanka,LKA,,,,,,,,080119,"Nuts, edible; coconuts, fresh or dried, other than desiccated or in the inner shell (endocarp)",8,Weight in kilograms,1841,,,,1841,,4603,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,188,Costa Rica,CRI,,,,,,,,080119,"Nuts, edible; coconuts, fresh or dried, other than desiccated or in the inner shell (endocarp)",8,Weight in kilograms,34,,,,34,,196,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,360,Indonesia,IDN,,,,,,,,080119,"Nuts, edible; coconuts, fresh or dried, other than desiccated or in the inner shell (endocarp)",8,Weight in kilograms,500,,,,500,,550,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,591,Panama,PAN,,,,,,,,080119,"Nuts, edible; coconuts, fresh or dried, other than desiccated or in the inner shell (endocarp)",8,Weight in kilograms,460,,,,460,,1288,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,080119,"Nuts, edible; coconuts, fresh or dried, other than desiccated or in the inner shell (endocarp)",8,Weight in kilograms,5450,,,,5450,,11900,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,704,Viet Nam,VNM,,,,,,,,080119,"Nuts, edible; coconuts, fresh or dried, other than desiccated or in the inner shell (endocarp)",8,Weight in kilograms,500,,,,500,,550,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080119,"Nuts, edible; coconuts, fresh or dried, other than desiccated or in the inner shell (endocarp)",8,Weight in kilograms,725,,,,725,,1878,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,080119,"Nuts, edible; coconuts, fresh or dried, other than desiccated or in the inner shell (endocarp)",8,Weight in kilograms,14009,,,,14009,,15453,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080119,"Nuts, edible; coconuts, fresh or dried, other than desiccated or in the inner shell (endocarp)",8,Weight in kilograms,100,,,,100,,293,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080122,"Nuts, edible; brazil nuts, fresh or dried, shelled",8,Weight in kilograms,1030,,,,1030,,8771,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,080122,"Nuts, edible; brazil nuts, fresh or dried, shelled",8,Weight in kilograms,26,,,,26,,442,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,080122,"Nuts, edible; brazil nuts, fresh or dried, shelled",8,Weight in kilograms,690,,,,690,,6285,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,834,United Rep. of Tanzania,TZA,,,,,,,,080122,"Nuts, edible; brazil nuts, fresh or dried, shelled",8,Weight in kilograms,200,,,,200,,1305,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080122,"Nuts, edible; brazil nuts, fresh or dried, shelled",8,Weight in kilograms,113,,,,113,,740,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080131,"Nuts, edible; cashew nuts, fresh or dried, in shell",8,Weight in kilograms,9,,,,9,,97,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,422,Lebanon,LBN,,,,,,,,080131,"Nuts, edible; cashew nuts, fresh or dried, in shell",8,Weight in kilograms,9,,,,9,,97,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080132,"Nuts, edible; cashew nuts, fresh or dried, shelled",8,Weight in kilograms,25800,,,,25800,,207869,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,080132,"Nuts, edible; cashew nuts, fresh or dried, shelled",8,Weight in kilograms,25800,,,,25800,,207869,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080111,"Coconuts, desiccated",8,Weight in kilograms,47445,,,,47445,,70640,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,360,Indonesia,IDN,,,,,,,,080111,"Coconuts, desiccated",8,Weight in kilograms,20992,,,,20992,,29825,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080111,"Coconuts, desiccated",8,Weight in kilograms,392,,,,392,,867,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,458,Malaysia,MYS,,,,,,,,080111,"Coconuts, desiccated",8,Weight in kilograms,180,,,,180,,297,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,080111,"Coconuts, desiccated",8,Weight in kilograms,195,,,,195,,549,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,704,Viet Nam,VNM,,,,,,,,080111,"Coconuts, desiccated",8,Weight in kilograms,25030,,,,25030,,36612,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,080111,"Coconuts, desiccated",8,Weight in kilograms,600,,,,600,,2310,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,080111,"Coconuts, desiccated",8,Weight in kilograms,50,,,,50,,160,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,826,United Kingdom,GBR,,,,,,,,080111,"Coconuts, desiccated",8,Weight in kilograms,6,,,,6,,20,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080111,"Coconuts, desiccated",8,Weight in kilograms,102486,,,,102486,,225702,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080111,"Coconuts, desiccated",8,Weight in kilograms,495,,,,495,,817,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,360,Indonesia,IDN,,,,,,,,080111,"Coconuts, desiccated",8,Weight in kilograms,47350,,,,47350,,98722,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,080111,"Coconuts, desiccated",8,Weight in kilograms,17,,,,17,,239,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,080111,"Coconuts, desiccated",8,Weight in kilograms,2250,,,,2250,,2613,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,704,Viet Nam,VNM,,,,,,,,080111,"Coconuts, desiccated",8,Weight in kilograms,51340,,,,51340,,119331,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,080111,"Coconuts, desiccated",8,Weight in kilograms,1000,,,,1000,,3751,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080111,"Coconuts, desiccated",8,Weight in kilograms,34,,,,34,,228,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080111,"Coconuts, desiccated",8,Weight in kilograms,70984,,,,70984,,125149,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,144,Sri Lanka,LKA,,,,,,,,080111,"Coconuts, desiccated",8,Weight in kilograms,1000,,,,1000,,1136,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080111,"Coconuts, desiccated",8,Weight in kilograms,4150,,,,4150,,6851,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,360,Indonesia,IDN,,,,,,,,080111,"Coconuts, desiccated",8,Weight in kilograms,13000,,,,13000,,16400,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,608,Philippines,PHL,,,,,,,,080111,"Coconuts, desiccated",8,Weight in kilograms,34,,,,34,,231,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,704,Viet Nam,VNM,,,,,,,,080111,"Coconuts, desiccated",8,Weight in kilograms,51800,,,,51800,,96730,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,080111,"Coconuts, desiccated",8,Weight in kilograms,1000,,,,1000,,3800,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080119,"Cocunuts, other than desiccated",8,Weight in kilograms,22274,,,,22274,,56307,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,144,Sri Lanka,LKA,,,,,,,,080119,"Cocunuts, other than desiccated",8,Weight in kilograms,18384,,,,18384,,46523,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,360,Indonesia,IDN,,,,,,,,080119,"Cocunuts, other than desiccated",8,Weight in kilograms,50,,,,50,,95,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,080119,"Cocunuts, other than desiccated",8,Weight in kilograms,3500,,,,3500,,8750,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,704,Viet Nam,VNM,,,,,,,,080119,"Cocunuts, other than desiccated",8,Weight in kilograms,140,,,,140,,156,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,080119,"Cocunuts, other than desiccated",8,Weight in kilograms,200,,,,200,,782,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080119,"Cocunuts, other than desiccated",8,Weight in kilograms,25776,,,,25776,,75716,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,144,Sri Lanka,LKA,,,,,,,,080119,"Cocunuts, other than desiccated",8,Weight in kilograms,6018,,,,6018,,15047,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,080119,"Cocunuts, other than desiccated",8,Weight in kilograms,11,,,,11,,38,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,360,Indonesia,IDN,,,,,,,,080119,"Cocunuts, other than desiccated",8,Weight in kilograms,12600,,,,12600,,38975,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,080119,"Cocunuts, other than desiccated",8,Weight in kilograms,120,,,,120,,984,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,080119,"Cocunuts, other than desiccated",8,Weight in kilograms,6900,,,,6900,,20183,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,826,United Kingdom,GBR,,,,,,,,080119,"Cocunuts, other than desiccated",8,Weight in kilograms,12,,,,12,,39,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,080119,"Cocunuts, other than desiccated",8,Weight in kilograms,115,,,,115,,451,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080119,"Cocunuts, other than desiccated",8,Weight in kilograms,27038,,,,27038,,58394,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,144,Sri Lanka,LKA,,,,,,,,080119,"Cocunuts, other than desiccated",8,Weight in kilograms,6092,,,,6092,,16025,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,360,Indonesia,IDN,,,,,,,,080119,"Cocunuts, other than desiccated",8,Weight in kilograms,12500,,,,12500,,27500,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,384,Côte d'Ivoire,CIV,,,,,,,,080119,"Cocunuts, other than desiccated",8,Weight in kilograms,4446,,,,4446,,6818,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,080119,"Cocunuts, other than desiccated",8,Weight in kilograms,2000,,,,2000,,5851,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,704,Viet Nam,VNM,,,,,,,,080119,"Cocunuts, other than desiccated",8,Weight in kilograms,2000,,,,2000,,2200,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080122,"Brazil nuts, shelled",8,Weight in kilograms,1031,,,,1031,,9502,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,68,Bolivia (Plurinational State of),BOL,,,,,,,,080122,"Brazil nuts, shelled",8,Weight in kilograms,700,,,,700,,6772,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,080122,"Brazil nuts, shelled",8,Weight in kilograms,300,,,,300,,2475,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,080122,"Brazil nuts, shelled",8,Weight in kilograms,31,,,,31,,255,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080122,"Brazil nuts, shelled",8,Weight in kilograms,1424,,,,1424,,12328,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,68,Bolivia (Plurinational State of),BOL,,,,,,,,080122,"Brazil nuts, shelled",8,Weight in kilograms,400,,,,400,,3300,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,080122,"Brazil nuts, shelled",8,Weight in kilograms,24,,,,24,,359,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,080122,"Brazil nuts, shelled",8,Weight in kilograms,1000,,,,1000,,8669,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080132,"Cashew nuts, shelled",8,Weight in kilograms,62648,,,,62648,,441286,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,080132,"Cashew nuts, shelled",8,Weight in kilograms,62648,,,,62648,,441286,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080132,"Cashew nuts, shelled",8,Weight in kilograms,70728,,,,70728,,577360,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,080132,"Cashew nuts, shelled",8,Weight in kilograms,22,,,,22,,199,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,080132,"Cashew nuts, shelled",8,Weight in kilograms,24,,,,24,,202,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,080132,"Cashew nuts, shelled",8,Weight in kilograms,70452,,,,70452,,575004,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080132,"Cashew nuts, shelled",8,Weight in kilograms,230,,,,230,,1955,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080132,"Cashew nuts, shelled",8,Weight in kilograms,33902,,,,33902,,270114,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,080132,"Cashew nuts, shelled",8,Weight in kilograms,24,,,,24,,352,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,080132,"Cashew nuts, shelled",8,Weight in kilograms,33876,,,,33876,,269720,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,704,Viet Nam,VNM,,,,,,,,080132,"Cashew nuts, shelled",8,Weight in kilograms,2,,,,2,,41,,,0

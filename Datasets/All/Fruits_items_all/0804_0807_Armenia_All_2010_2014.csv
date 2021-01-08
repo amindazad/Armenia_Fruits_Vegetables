@@ -1,0 +1,568 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080410,"Fruit, edible; dates, fresh or dried",8,Weight in kilograms,455171,,,,455171,,515824,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,275,State of Palestine,PSE,,,,,,,,080410,"Fruit, edible; dates, fresh or dried",8,Weight in kilograms,300,,,,300,,333,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,080410,"Fruit, edible; dates, fresh or dried",8,Weight in kilograms,130,,,,130,,1252,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080410,"Fruit, edible; dates, fresh or dried",8,Weight in kilograms,453536,,,,453536,,512860,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,788,Tunisia,TUN,,,,,,,,080410,"Fruit, edible; dates, fresh or dried",8,Weight in kilograms,1205,,,,1205,,1379,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080420,"Fruit, edible; figs, fresh or dried",8,Weight in kilograms,33069,,,,33069,,115494,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,080420,"Fruit, edible; figs, fresh or dried",8,Weight in kilograms,69,,,,69,,925,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080420,"Fruit, edible; figs, fresh or dried",8,Weight in kilograms,33000,,,,33000,,114570,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080430,"Fruit, edible; pineapples, fresh or dried",8,Weight in kilograms,222289,,,,222289,,422804,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080430,"Fruit, edible; pineapples, fresh or dried",8,Weight in kilograms,276,,,,276,,2209,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,188,Costa Rica,CRI,,,,,,,,080430,"Fruit, edible; pineapples, fresh or dried",8,Weight in kilograms,121522,,,,121522,,229133,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,218,Ecuador,ECU,,,,,,,,080430,"Fruit, edible; pineapples, fresh or dried",8,Weight in kilograms,1805,,,,1805,,4492,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,480,Mauritius,MUS,,,,,,,,080430,"Fruit, edible; pineapples, fresh or dried",8,Weight in kilograms,68,,,,68,,573,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,608,Philippines,PHL,,,,,,,,080430,"Fruit, edible; pineapples, fresh or dried",8,Weight in kilograms,89465,,,,89465,,148347,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,704,Viet Nam,VNM,,,,,,,,080430,"Fruit, edible; pineapples, fresh or dried",8,Weight in kilograms,665,,,,665,,2793,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080430,"Fruit, edible; pineapples, fresh or dried",8,Weight in kilograms,90,,,,90,,848,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,080430,"Fruit, edible; pineapples, fresh or dried",8,Weight in kilograms,8400,,,,8400,,34408,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080440,"Fruit, edible; avocados, fresh or dried",8,Weight in kilograms,633,,,,633,,3917,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,080440,"Fruit, edible; avocados, fresh or dried",8,Weight in kilograms,280,,,,280,,1605,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080440,"Fruit, edible; avocados, fresh or dried",8,Weight in kilograms,40,,,,40,,365,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,376,Israel,ISR,,,,,,,,080440,"Fruit, edible; avocados, fresh or dried",8,Weight in kilograms,249,,,,249,,1405,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080440,"Fruit, edible; avocados, fresh or dried",8,Weight in kilograms,4,,,,4,,47,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,080440,"Fruit, edible; avocados, fresh or dried",8,Weight in kilograms,60,,,,60,,495,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080450,"Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",8,Weight in kilograms,6649,,,,6649,,34425,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,080450,"Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",8,Weight in kilograms,363,,,,363,,3084,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,080450,"Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",8,Weight in kilograms,26,,,,26,,591,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,360,Indonesia,IDN,,,,,,,,080450,"Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",8,Weight in kilograms,6,,,,6,,98,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,080450,"Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",8,Weight in kilograms,2,,,,2,,52,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,458,Malaysia,MYS,,,,,,,,080450,"Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",8,Weight in kilograms,26,,,,26,,426,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,080450,"Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",8,Weight in kilograms,911,,,,911,,7097,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,080450,"Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",8,Weight in kilograms,5316,,,,5316,,23076,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080510,"Fruit, edible; oranges, fresh or dried",8,Weight in kilograms,7252716,,,,7252716,,8401967,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080510,"Fruit, edible; oranges, fresh or dried",8,Weight in kilograms,11460,,,,11460,,15110,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080510,"Fruit, edible; oranges, fresh or dried",8,Weight in kilograms,3324721,,,,3324721,,3850857,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080510,"Fruit, edible; oranges, fresh or dried",8,Weight in kilograms,662128,,,,662128,,779659,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,376,Israel,ISR,,,,,,,,080510,"Fruit, edible; oranges, fresh or dried",8,Weight in kilograms,96,,,,96,,564,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,080510,"Fruit, edible; oranges, fresh or dried",8,Weight in kilograms,30,,,,30,,178,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080510,"Fruit, edible; oranges, fresh or dried",8,Weight in kilograms,160030,,,,160030,,181711,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,716,Zimbabwe,ZWE,,,,,,,,080510,"Fruit, edible; oranges, fresh or dried",8,Weight in kilograms,24000,,,,24000,,26881,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080510,"Fruit, edible; oranges, fresh or dried",8,Weight in kilograms,1947931,,,,1947931,,2243330,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,080510,"Fruit, edible; oranges, fresh or dried",8,Weight in kilograms,1122320,,,,1122320,,1303678,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080520,"Fruit, edible; mandarins (including tangerines and satsumas), clementines, wilkings and similar citrus hybrids, fresh or dried",8,Weight in kilograms,4776230,,,,4776230,,3444380,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,32,Argentina,ARG,,,,,,,,080520,"Fruit, edible; mandarins (including tangerines and satsumas), clementines, wilkings and similar citrus hybrids, fresh or dried",8,Weight in kilograms,36520,,,,36520,,51902,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080520,"Fruit, edible; mandarins (including tangerines and satsumas), clementines, wilkings and similar citrus hybrids, fresh or dried",8,Weight in kilograms,3764260,,,,3764260,,2260899,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080520,"Fruit, edible; mandarins (including tangerines and satsumas), clementines, wilkings and similar citrus hybrids, fresh or dried",8,Weight in kilograms,316699,,,,316699,,367963,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080520,"Fruit, edible; mandarins (including tangerines and satsumas), clementines, wilkings and similar citrus hybrids, fresh or dried",8,Weight in kilograms,2910,,,,2910,,3492,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,376,Israel,ISR,,,,,,,,080520,"Fruit, edible; mandarins (including tangerines and satsumas), clementines, wilkings and similar citrus hybrids, fresh or dried",8,Weight in kilograms,2248,,,,2248,,2518,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,586,Pakistan,PAK,,,,,,,,080520,"Fruit, edible; mandarins (including tangerines and satsumas), clementines, wilkings and similar citrus hybrids, fresh or dried",8,Weight in kilograms,458680,,,,458680,,535362,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080520,"Fruit, edible; mandarins (including tangerines and satsumas), clementines, wilkings and similar citrus hybrids, fresh or dried",8,Weight in kilograms,600,,,,600,,769,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080520,"Fruit, edible; mandarins (including tangerines and satsumas), clementines, wilkings and similar citrus hybrids, fresh or dried",8,Weight in kilograms,72113,,,,72113,,83395,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,080520,"Fruit, edible; mandarins (including tangerines and satsumas), clementines, wilkings and similar citrus hybrids, fresh or dried",8,Weight in kilograms,122200,,,,122200,,138080,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080540,"Fruit, edible; grapefruit, including pomelos, fresh or dried",8,Weight in kilograms,1153053,,,,1153053,,1487205,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080540,"Fruit, edible; grapefruit, including pomelos, fresh or dried",8,Weight in kilograms,151642,,,,151642,,351939,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,218,Ecuador,ECU,,,,,,,,080540,"Fruit, edible; grapefruit, including pomelos, fresh or dried",8,Weight in kilograms,2500,,,,2500,,6446,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080540,"Fruit, edible; grapefruit, including pomelos, fresh or dried",8,Weight in kilograms,50,,,,50,,76,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080540,"Fruit, edible; grapefruit, including pomelos, fresh or dried",8,Weight in kilograms,482542,,,,482542,,543952,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,376,Israel,ISR,,,,,,,,080540,"Fruit, edible; grapefruit, including pomelos, fresh or dried",8,Weight in kilograms,83449,,,,83449,,93551,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,080540,"Fruit, edible; grapefruit, including pomelos, fresh or dried",8,Weight in kilograms,63,,,,63,,356,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080540,"Fruit, edible; grapefruit, including pomelos, fresh or dried",8,Weight in kilograms,85088,,,,85088,,95944,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,080540,"Fruit, edible; grapefruit, including pomelos, fresh or dried",8,Weight in kilograms,400,,,,400,,1801,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080540,"Fruit, edible; grapefruit, including pomelos, fresh or dried",8,Weight in kilograms,345220,,,,345220,,390451,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,080540,"Fruit, edible; grapefruit, including pomelos, fresh or dried",8,Weight in kilograms,2100,,,,2100,,2689,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080550,"Fruit, edible; lemons (Citrus limon, Citrus limonum), limes (Citrus aurantifolia , Citrus latifolia), fresh or dried",8,Weight in kilograms,927103,,,,927103,,1790714,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,32,Argentina,ARG,,,,,,,,080550,"Fruit, edible; lemons (Citrus limon, Citrus limonum), limes (Citrus aurantifolia , Citrus latifolia), fresh or dried",8,Weight in kilograms,14010,,,,14010,,26831,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,080550,"Fruit, edible; lemons (Citrus limon, Citrus limonum), limes (Citrus aurantifolia , Citrus latifolia), fresh or dried",8,Weight in kilograms,806,,,,806,,2993,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080550,"Fruit, edible; lemons (Citrus limon, Citrus limonum), limes (Citrus aurantifolia , Citrus latifolia), fresh or dried",8,Weight in kilograms,47,,,,47,,132,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080550,"Fruit, edible; lemons (Citrus limon, Citrus limonum), limes (Citrus aurantifolia , Citrus latifolia), fresh or dried",8,Weight in kilograms,8480,,,,8480,,18273,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080550,"Fruit, edible; lemons (Citrus limon, Citrus limonum), limes (Citrus aurantifolia , Citrus latifolia), fresh or dried",8,Weight in kilograms,373067,,,,373067,,718212,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,376,Israel,ISR,,,,,,,,080550,"Fruit, edible; lemons (Citrus limon, Citrus limonum), limes (Citrus aurantifolia , Citrus latifolia), fresh or dried",8,Weight in kilograms,6,,,,6,,107,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,458,Malaysia,MYS,,,,,,,,080550,"Fruit, edible; lemons (Citrus limon, Citrus limonum), limes (Citrus aurantifolia , Citrus latifolia), fresh or dried",8,Weight in kilograms,2,,,,2,,61,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,484,Mexico,MEX,,,,,,,,080550,"Fruit, edible; lemons (Citrus limon, Citrus limonum), limes (Citrus aurantifolia , Citrus latifolia), fresh or dried",8,Weight in kilograms,811,,,,811,,2054,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080550,"Fruit, edible; lemons (Citrus limon, Citrus limonum), limes (Citrus aurantifolia , Citrus latifolia), fresh or dried",8,Weight in kilograms,130080,,,,130080,,254122,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,080550,"Fruit, edible; lemons (Citrus limon, Citrus limonum), limes (Citrus aurantifolia , Citrus latifolia), fresh or dried",8,Weight in kilograms,135,,,,135,,784,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080550,"Fruit, edible; lemons (Citrus limon, Citrus limonum), limes (Citrus aurantifolia , Citrus latifolia), fresh or dried",8,Weight in kilograms,399659,,,,399659,,767143,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080590,"Fruit, edible; citrus fruit n.e.c. in heading no. 0805, fresh or dried",8,Weight in kilograms,910012,,,,910012,,759374,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080590,"Fruit, edible; citrus fruit n.e.c. in heading no. 0805, fresh or dried",8,Weight in kilograms,450,,,,450,,1185,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080590,"Fruit, edible; citrus fruit n.e.c. in heading no. 0805, fresh or dried",8,Weight in kilograms,909440,,,,909440,,756770,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,376,Israel,ISR,,,,,,,,080590,"Fruit, edible; citrus fruit n.e.c. in heading no. 0805, fresh or dried",8,Weight in kilograms,74,,,,74,,811,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080590,"Fruit, edible; citrus fruit n.e.c. in heading no. 0805, fresh or dried",8,Weight in kilograms,4,,,,4,,61,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,080590,"Fruit, edible; citrus fruit n.e.c. in heading no. 0805, fresh or dried",8,Weight in kilograms,44,,,,44,,548,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080610,"Fruit, edible; grapes, fresh",8,Weight in kilograms,87,,,,87,,655,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,080610,"Fruit, edible; grapes, fresh",8,Weight in kilograms,5,,,,5,,30,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,080610,"Fruit, edible; grapes, fresh",8,Weight in kilograms,82,,,,82,,585,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,080610,"Fruit, edible; grapes, fresh",8,Weight in kilograms,1,,,,1,,41,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080620,"Fruit, edible; grapes, dried",8,Weight in kilograms,723243,,,,723243,,1157631,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,4,Afghanistan,AFG,,,,,,,,080620,"Fruit, edible; grapes, dried",8,Weight in kilograms,850,,,,850,,1645,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080620,"Fruit, edible; grapes, dried",8,Weight in kilograms,77670,,,,77670,,115515,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,080620,"Fruit, edible; grapes, dried",8,Weight in kilograms,60,,,,60,,465,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080620,"Fruit, edible; grapes, dried",8,Weight in kilograms,624322,,,,624322,,1003807,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,080620,"Fruit, edible; grapes, dried",8,Weight in kilograms,1720,,,,1720,,2968,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,080620,"Fruit, edible; grapes, dried",8,Weight in kilograms,5650,,,,5650,,9746,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,784,United Arab Emirates,ARE,,,,,,,,080620,"Fruit, edible; grapes, dried",8,Weight in kilograms,2350,,,,2350,,4054,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080620,"Fruit, edible; grapes, dried",8,Weight in kilograms,901,,,,901,,5337,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,860,Uzbekistan,UZB,,,,,,,,080620,"Fruit, edible; grapes, dried",8,Weight in kilograms,9720,,,,9720,,14094,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080711,"Fruit, edible; watermelons, fresh",8,Weight in kilograms,274970,,,,274970,,323086,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,080711,"Fruit, edible; watermelons, fresh",8,Weight in kilograms,488,,,,488,,1991,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080711,"Fruit, edible; watermelons, fresh",8,Weight in kilograms,12750,,,,12750,,16339,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080711,"Fruit, edible; watermelons, fresh",8,Weight in kilograms,261732,,,,261732,,304756,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080719,"Fruit, edible; melons, other than watermelons, fresh",8,Weight in kilograms,61569,,,,61569,,82484,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,080719,"Fruit, edible; melons, other than watermelons, fresh",8,Weight in kilograms,254,,,,254,,1015,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080719,"Fruit, edible; melons, other than watermelons, fresh",8,Weight in kilograms,695,,,,695,,886,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080719,"Fruit, edible; melons, other than watermelons, fresh",8,Weight in kilograms,58620,,,,58620,,70479,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,080719,"Fruit, edible; melons, other than watermelons, fresh",8,Weight in kilograms,2000,,,,2000,,10104,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080720,"Fruit, edible; papaws (papayas), fresh",8,Weight in kilograms,366,,,,366,,3281,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,080720,"Fruit, edible; papaws (papayas), fresh",8,Weight in kilograms,279,,,,279,,2569,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,218,Ecuador,ECU,,,,,,,,080720,"Fruit, edible; papaws (papayas), fresh",8,Weight in kilograms,83,,,,83,,671,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,800,Uganda,UGA,,,,,,,,080720,"Fruit, edible; papaws (papayas), fresh",8,Weight in kilograms,5,,,,5,,41,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080410,"Fruit, edible; dates, fresh or dried",8,Weight in kilograms,532126,,,,532126,,614261,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,12,Algeria,DZA,,,,,,,,080410,"Fruit, edible; dates, fresh or dried",8,Weight in kilograms,600,,,,600,,662,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,080410,"Fruit, edible; dates, fresh or dried",8,Weight in kilograms,109,,,,109,,882,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080410,"Fruit, edible; dates, fresh or dried",8,Weight in kilograms,520970,,,,520970,,598979,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,422,Lebanon,LBN,,,,,,,,080410,"Fruit, edible; dates, fresh or dried",8,Weight in kilograms,9,,,,9,,106,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080410,"Fruit, edible; dates, fresh or dried",8,Weight in kilograms,350,,,,350,,455,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,080410,"Fruit, edible; dates, fresh or dried",8,Weight in kilograms,10080,,,,10080,,13112,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,788,Tunisia,TUN,,,,,,,,080410,"Fruit, edible; dates, fresh or dried",8,Weight in kilograms,8,,,,8,,66,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080420,"Fruit, edible; figs, fresh or dried",8,Weight in kilograms,25774,,,,25774,,112419,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,080420,"Fruit, edible; figs, fresh or dried",8,Weight in kilograms,13,,,,13,,295,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080420,"Fruit, edible; figs, fresh or dried",8,Weight in kilograms,15750,,,,15750,,51821,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,422,Lebanon,LBN,,,,,,,,080420,"Fruit, edible; figs, fresh or dried",8,Weight in kilograms,9,,,,9,,80,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,080420,"Fruit, edible; figs, fresh or dried",8,Weight in kilograms,1,,,,1,,106,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080420,"Fruit, edible; figs, fresh or dried",8,Weight in kilograms,10001,,,,10001,,60117,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080430,"Fruit, edible; pineapples, fresh or dried",8,Weight in kilograms,639244,,,,639244,,925441,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,080430,"Fruit, edible; pineapples, fresh or dried",8,Weight in kilograms,650,,,,650,,1432,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,144,Sri Lanka,LKA,,,,,,,,080430,"Fruit, edible; pineapples, fresh or dried",8,Weight in kilograms,20,,,,20,,266,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080430,"Fruit, edible; pineapples, fresh or dried",8,Weight in kilograms,500,,,,500,,2100,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,188,Costa Rica,CRI,,,,,,,,080430,"Fruit, edible; pineapples, fresh or dried",8,Weight in kilograms,450437,,,,450437,,618576,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,218,Ecuador,ECU,,,,,,,,080430,"Fruit, edible; pineapples, fresh or dried",8,Weight in kilograms,2390,,,,2390,,4275,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080430,"Fruit, edible; pineapples, fresh or dried",8,Weight in kilograms,12000,,,,12000,,18000,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,080430,"Fruit, edible; pineapples, fresh or dried",8,Weight in kilograms,10,,,,10,,114,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,422,Lebanon,LBN,,,,,,,,080430,"Fruit, edible; pineapples, fresh or dried",8,Weight in kilograms,8,,,,8,,67,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,480,Mauritius,MUS,,,,,,,,080430,"Fruit, edible; pineapples, fresh or dried",8,Weight in kilograms,181,,,,181,,1502,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,591,Panama,PAN,,,,,,,,080430,"Fruit, edible; pineapples, fresh or dried",8,Weight in kilograms,57829,,,,57829,,85500,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,080430,"Fruit, edible; pineapples, fresh or dried",8,Weight in kilograms,2880,,,,2880,,4320,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,608,Philippines,PHL,,,,,,,,080430,"Fruit, edible; pineapples, fresh or dried",8,Weight in kilograms,102382,,,,102382,,157059,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080430,"Fruit, edible; pineapples, fresh or dried",8,Weight in kilograms,1958,,,,1958,,3345,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,080430,"Fruit, edible; pineapples, fresh or dried",8,Weight in kilograms,8000,,,,8000,,28885,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080440,"Fruit, edible; avocados, fresh or dried",8,Weight in kilograms,2989,,,,2989,,13360,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,080440,"Fruit, edible; avocados, fresh or dried",8,Weight in kilograms,372,,,,372,,2083,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080440,"Fruit, edible; avocados, fresh or dried",8,Weight in kilograms,80,,,,80,,642,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,376,Israel,ISR,,,,,,,,080440,"Fruit, edible; avocados, fresh or dried",8,Weight in kilograms,170,,,,170,,980,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,080440,"Fruit, edible; avocados, fresh or dried",8,Weight in kilograms,278,,,,278,,1194,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080440,"Fruit, edible; avocados, fresh or dried",8,Weight in kilograms,1983,,,,1983,,7869,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,080440,"Fruit, edible; avocados, fresh or dried",8,Weight in kilograms,106,,,,106,,592,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080450,"Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",8,Weight in kilograms,4764,,,,4764,,33128,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,36,Australia,AUS,,,,,,,,080450,"Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",8,Weight in kilograms,12,,,,12,,147,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,080450,"Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",8,Weight in kilograms,920,,,,920,,7146,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080450,"Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",8,Weight in kilograms,80,,,,80,,601,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,188,Costa Rica,CRI,,,,,,,,080450,"Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",8,Weight in kilograms,62,,,,62,,624,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,080450,"Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",8,Weight in kilograms,35,,,,35,,778,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,360,Indonesia,IDN,,,,,,,,080450,"Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",8,Weight in kilograms,114,,,,114,,1880,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,376,Israel,ISR,,,,,,,,080450,"Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",8,Weight in kilograms,49,,,,49,,537,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,384,Côte d'Ivoire,CIV,,,,,,,,080450,"Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",8,Weight in kilograms,90,,,,90,,1074,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,404,Kenya,KEN,,,,,,,,080450,"Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",8,Weight in kilograms,4,,,,4,,127,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,422,Lebanon,LBN,,,,,,,,080450,"Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",8,Weight in kilograms,16,,,,16,,158,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,458,Malaysia,MYS,,,,,,,,080450,"Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",8,Weight in kilograms,25,,,,25,,434,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,484,Mexico,MEX,,,,,,,,080450,"Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",8,Weight in kilograms,54,,,,54,,631,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,080450,"Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",8,Weight in kilograms,305,,,,305,,3608,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,686,Senegal,SEN,,,,,,,,080450,"Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",8,Weight in kilograms,10,,,,10,,131,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080450,"Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",8,Weight in kilograms,222,,,,222,,2219,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,080450,"Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",8,Weight in kilograms,16,,,,16,,182,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,080450,"Fruit, edible; guavas, mangoes and mangosteens, fresh or dried",8,Weight in kilograms,2750,,,,2750,,12851,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080510,"Fruit, edible; oranges, fresh or dried",8,Weight in kilograms,8699488,,,,8699488,,8378769,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080510,"Fruit, edible; oranges, fresh or dried",8,Weight in kilograms,2000,,,,2000,,2149,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080510,"Fruit, edible; oranges, fresh or dried",8,Weight in kilograms,193597,,,,193597,,153168,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080510,"Fruit, edible; oranges, fresh or dried",8,Weight in kilograms,109550,,,,109550,,120053,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,376,Israel,ISR,,,,,,,,080510,"Fruit, edible; oranges, fresh or dried",8,Weight in kilograms,36,,,,36,,214,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080510,"Fruit, edible; oranges, fresh or dried",8,Weight in kilograms,540838,,,,540838,,458116,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,716,Zimbabwe,ZWE,,,,,,,,080510,"Fruit, edible; oranges, fresh or dried",8,Weight in kilograms,23680,,,,23680,,16724,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,080510,"Fruit, edible; oranges, fresh or dried",8,Weight in kilograms,9000,,,,9000,,9003,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080510,"Fruit, edible; oranges, fresh or dried",8,Weight in kilograms,6874557,,,,6874557,,6782609,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,080510,"Fruit, edible; oranges, fresh or dried",8,Weight in kilograms,946230,,,,946230,,836733,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080520,"Fruit, edible; mandarins (including tangerines and satsumas), clementines, wilkings and similar citrus hybrids, fresh or dried",8,Weight in kilograms,4544744,,,,4544744,,3331032,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080520,"Fruit, edible; mandarins (including tangerines and satsumas), clementines, wilkings and similar citrus hybrids, fresh or dried",8,Weight in kilograms,3440451,,,,3440451,,2064629,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080520,"Fruit, edible; mandarins (including tangerines and satsumas), clementines, wilkings and similar citrus hybrids, fresh or dried",8,Weight in kilograms,8434,,,,8434,,6217,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080520,"Fruit, edible; mandarins (including tangerines and satsumas), clementines, wilkings and similar citrus hybrids, fresh or dried",8,Weight in kilograms,6181,,,,6181,,7235,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,376,Israel,ISR,,,,,,,,080520,"Fruit, edible; mandarins (including tangerines and satsumas), clementines, wilkings and similar citrus hybrids, fresh or dried",8,Weight in kilograms,71573,,,,71573,,87250,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,422,Lebanon,LBN,,,,,,,,080520,"Fruit, edible; mandarins (including tangerines and satsumas), clementines, wilkings and similar citrus hybrids, fresh or dried",8,Weight in kilograms,12,,,,12,,132,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,586,Pakistan,PAK,,,,,,,,080520,"Fruit, edible; mandarins (including tangerines and satsumas), clementines, wilkings and similar citrus hybrids, fresh or dried",8,Weight in kilograms,337352,,,,337352,,389794,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,080520,"Fruit, edible; mandarins (including tangerines and satsumas), clementines, wilkings and similar citrus hybrids, fresh or dried",8,Weight in kilograms,800,,,,800,,937,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080520,"Fruit, edible; mandarins (including tangerines and satsumas), clementines, wilkings and similar citrus hybrids, fresh or dried",8,Weight in kilograms,8576,,,,8576,,10029,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,080520,"Fruit, edible; mandarins (including tangerines and satsumas), clementines, wilkings and similar citrus hybrids, fresh or dried",8,Weight in kilograms,10,,,,10,,358,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080520,"Fruit, edible; mandarins (including tangerines and satsumas), clementines, wilkings and similar citrus hybrids, fresh or dried",8,Weight in kilograms,648507,,,,648507,,746140,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,080520,"Fruit, edible; mandarins (including tangerines and satsumas), clementines, wilkings and similar citrus hybrids, fresh or dried",8,Weight in kilograms,22848,,,,22848,,18313,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080540,"Fruit, edible; grapefruit, including pomelos, fresh or dried",8,Weight in kilograms,1306408,,,,1306408,,1550571,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080540,"Fruit, edible; grapefruit, including pomelos, fresh or dried",8,Weight in kilograms,140670,,,,140670,,239001,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080540,"Fruit, edible; grapefruit, including pomelos, fresh or dried",8,Weight in kilograms,13200,,,,13200,,8753,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,376,Israel,ISR,,,,,,,,080540,"Fruit, edible; grapefruit, including pomelos, fresh or dried",8,Weight in kilograms,40857,,,,40857,,43782,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080540,"Fruit, edible; grapefruit, including pomelos, fresh or dried",8,Weight in kilograms,53326,,,,53326,,63965,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,080540,"Fruit, edible; grapefruit, including pomelos, fresh or dried",8,Weight in kilograms,482,,,,482,,2405,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,748,Eswatini,SWZ,,,,,,,,080540,"Fruit, edible; grapefruit, including pomelos, fresh or dried",8,Weight in kilograms,15,,,,15,,93,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,080540,"Fruit, edible; grapefruit, including pomelos, fresh or dried",8,Weight in kilograms,344,,,,344,,1484,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080540,"Fruit, edible; grapefruit, including pomelos, fresh or dried",8,Weight in kilograms,1057514,,,,1057514,,1191089,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080550,"Fruit, edible; lemons (Citrus limon, Citrus limonum), limes (Citrus aurantifolia , Citrus latifolia), fresh or dried",8,Weight in kilograms,1492472,,,,1492472,,1814583,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,32,Argentina,ARG,,,,,,,,080550,"Fruit, edible; lemons (Citrus limon, Citrus limonum), limes (Citrus aurantifolia , Citrus latifolia), fresh or dried",8,Weight in kilograms,19080,,,,19080,,29970,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,080550,"Fruit, edible; lemons (Citrus limon, Citrus limonum), limes (Citrus aurantifolia , Citrus latifolia), fresh or dried",8,Weight in kilograms,3169,,,,3169,,11824,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080550,"Fruit, edible; lemons (Citrus limon, Citrus limonum), limes (Citrus aurantifolia , Citrus latifolia), fresh or dried",8,Weight in kilograms,100,,,,100,,129,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080550,"Fruit, edible; lemons (Citrus limon, Citrus limonum), limes (Citrus aurantifolia , Citrus latifolia), fresh or dried",8,Weight in kilograms,1670,,,,1670,,3422,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080550,"Fruit, edible; lemons (Citrus limon, Citrus limonum), limes (Citrus aurantifolia , Citrus latifolia), fresh or dried",8,Weight in kilograms,87182,,,,87182,,79687,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,484,Mexico,MEX,,,,,,,,080550,"Fruit, edible; lemons (Citrus limon, Citrus limonum), limes (Citrus aurantifolia , Citrus latifolia), fresh or dried",8,Weight in kilograms,4592,,,,4592,,13520,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080550,"Fruit, edible; lemons (Citrus limon, Citrus limonum), limes (Citrus aurantifolia , Citrus latifolia), fresh or dried",8,Weight in kilograms,186955,,,,186955,,205285,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080550,"Fruit, edible; lemons (Citrus limon, Citrus limonum), limes (Citrus aurantifolia , Citrus latifolia), fresh or dried",8,Weight in kilograms,1189724,,,,1189724,,1470747,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080590,"Fruit, edible; citrus fruit n.e.c. in heading no. 0805, fresh or dried",8,Weight in kilograms,1617363,,,,1617363,,1342647,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080590,"Fruit, edible; citrus fruit n.e.c. in heading no. 0805, fresh or dried",8,Weight in kilograms,1617059,,,,1617059,,1340141,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,376,Israel,ISR,,,,,,,,080590,"Fruit, edible; citrus fruit n.e.c. in heading no. 0805, fresh or dried",8,Weight in kilograms,197,,,,197,,1424,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,080590,"Fruit, edible; citrus fruit n.e.c. in heading no. 0805, fresh or dried",8,Weight in kilograms,23,,,,23,,402,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080590,"Fruit, edible; citrus fruit n.e.c. in heading no. 0805, fresh or dried",8,Weight in kilograms,58,,,,58,,367,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,080590,"Fruit, edible; citrus fruit n.e.c. in heading no. 0805, fresh or dried",8,Weight in kilograms,26,,,,26,,313,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080610,"Fruit, edible; grapes, fresh",8,Weight in kilograms,2299,,,,2299,,3405,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,080610,"Fruit, edible; grapes, fresh",8,Weight in kilograms,200,,,,200,,221,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080610,"Fruit, edible; grapes, fresh",8,Weight in kilograms,1148,,,,1148,,1486,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,080610,"Fruit, edible; grapes, fresh",8,Weight in kilograms,50,,,,50,,56,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,080610,"Fruit, edible; grapes, fresh",8,Weight in kilograms,901,,,,901,,1642,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080620,"Fruit, edible; grapes, dried",8,Weight in kilograms,751433,,,,751433,,1205158,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080620,"Fruit, edible; grapes, dried",8,Weight in kilograms,75300,,,,75300,,113316,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080620,"Fruit, edible; grapes, dried",8,Weight in kilograms,4840,,,,4840,,8349,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080620,"Fruit, edible; grapes, dried",8,Weight in kilograms,588350,,,,588350,,916176,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,422,Lebanon,LBN,,,,,,,,080620,"Fruit, edible; grapes, dried",8,Weight in kilograms,64,,,,64,,468,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,080620,"Fruit, edible; grapes, dried",8,Weight in kilograms,26050,,,,26050,,38626,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080620,"Fruit, edible; grapes, dried",8,Weight in kilograms,600,,,,600,,1380,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080620,"Fruit, edible; grapes, dried",8,Weight in kilograms,3225,,,,3225,,18693,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,860,Uzbekistan,UZB,,,,,,,,080620,"Fruit, edible; grapes, dried",8,Weight in kilograms,53004,,,,53004,,108149,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080711,"Fruit, edible; watermelons, fresh",8,Weight in kilograms,361927,,,,361927,,414182,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,080711,"Fruit, edible; watermelons, fresh",8,Weight in kilograms,1746,,,,1746,,3048,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,188,Costa Rica,CRI,,,,,,,,080711,"Fruit, edible; watermelons, fresh",8,Weight in kilograms,80,,,,80,,552,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080711,"Fruit, edible; watermelons, fresh",8,Weight in kilograms,45200,,,,45200,,57902,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080711,"Fruit, edible; watermelons, fresh",8,Weight in kilograms,314190,,,,314190,,350974,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,080711,"Fruit, edible; watermelons, fresh",8,Weight in kilograms,111,,,,111,,936,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080711,"Fruit, edible; watermelons, fresh",8,Weight in kilograms,600,,,,600,,769,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080719,"Fruit, edible; melons, other than watermelons, fresh",8,Weight in kilograms,6231,,,,6231,,14882,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,080719,"Fruit, edible; melons, other than watermelons, fresh",8,Weight in kilograms,2092,,,,2092,,3159,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,340,Honduras,HND,,,,,,,,080719,"Fruit, edible; melons, other than watermelons, fresh",8,Weight in kilograms,25,,,,25,,32,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080719,"Fruit, edible; melons, other than watermelons, fresh",8,Weight in kilograms,1880,,,,1880,,2397,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,080719,"Fruit, edible; melons, other than watermelons, fresh",8,Weight in kilograms,34,,,,34,,264,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,080719,"Fruit, edible; melons, other than watermelons, fresh",8,Weight in kilograms,1500,,,,1500,,7712,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,080719,"Fruit, edible; melons, other than watermelons, fresh",8,Weight in kilograms,700,,,,700,,1318,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080720,"Fruit, edible; papaws (papayas), fresh",8,Weight in kilograms,601,,,,601,,5553,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,080720,"Fruit, edible; papaws (papayas), fresh",8,Weight in kilograms,484,,,,484,,4571,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,144,Sri Lanka,LKA,,,,,,,,080720,"Fruit, edible; papaws (papayas), fresh",8,Weight in kilograms,24,,,,24,,164,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,170,Colombia,COL,,,,,,,,080720,"Fruit, edible; papaws (papayas), fresh",8,Weight in kilograms,9,,,,9,,68,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,188,Costa Rica,CRI,,,,,,,,080720,"Fruit, edible; papaws (papayas), fresh",8,Weight in kilograms,16,,,,16,,161,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,218,Ecuador,ECU,,,,,,,,080720,"Fruit, edible; papaws (papayas), fresh",8,Weight in kilograms,68,,,,68,,589,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080410,"Dates, fresh/dried",8,Weight in kilograms,596988,,,,596988,,636144,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080410,"Dates, fresh/dried",8,Weight in kilograms,596483,,,,596483,,635497,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,080410,"Dates, fresh/dried",8,Weight in kilograms,505,,,,505,,647,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080410,"Dates, fresh/dried",8,Weight in kilograms,714719,,,,714719,,824717,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,080410,"Dates, fresh/dried",8,Weight in kilograms,86,,,,86,,403,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080410,"Dates, fresh/dried",8,Weight in kilograms,711753,,,,711753,,820949,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,586,Pakistan,PAK,,,,,,,,080410,"Dates, fresh/dried",8,Weight in kilograms,1180,,,,1180,,1337,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,080410,"Dates, fresh/dried",8,Weight in kilograms,440,,,,440,,584,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,788,Tunisia,TUN,,,,,,,,080410,"Dates, fresh/dried",8,Weight in kilograms,1260,,,,1260,,1443,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080410,"Dates, fresh/dried",8,Weight in kilograms,523369,,,,523369,,600915,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,080410,"Dates, fresh/dried",8,Weight in kilograms,130,,,,130,,950,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080410,"Dates, fresh/dried",8,Weight in kilograms,519667,,,,519667,,589492,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,784,United Arab Emirates,ARE,,,,,,,,080410,"Dates, fresh/dried",8,Weight in kilograms,20,,,,20,,41,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,788,Tunisia,TUN,,,,,,,,080410,"Dates, fresh/dried",8,Weight in kilograms,611,,,,611,,777,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080410,"Dates, fresh/dried",8,Weight in kilograms,2941,,,,2941,,9655,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080420,"Figs, fresh/dried",8,Weight in kilograms,1665,,,,1665,,6778,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080420,"Figs, fresh/dried",8,Weight in kilograms,46,,,,46,,115,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080420,"Figs, fresh/dried",8,Weight in kilograms,1600,,,,1600,,6561,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080420,"Figs, fresh/dried",8,Weight in kilograms,19,,,,19,,102,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080420,"Figs, fresh/dried",8,Weight in kilograms,45165,,,,45165,,165103,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080420,"Figs, fresh/dried",8,Weight in kilograms,400,,,,400,,613,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080420,"Figs, fresh/dried",8,Weight in kilograms,44765,,,,44765,,164490,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080420,"Figs, fresh/dried",8,Weight in kilograms,16574,,,,16574,,52388,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080420,"Figs, fresh/dried",8,Weight in kilograms,16500,,,,16500,,51958,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080420,"Figs, fresh/dried",8,Weight in kilograms,20,,,,20,,143,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,080420,"Figs, fresh/dried",8,Weight in kilograms,54,,,,54,,287,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080430,"Pineapples, fresh/dried",8,Weight in kilograms,261412,,,,261412,,1304900,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,188,Costa Rica,CRI,,,,,,,,080430,"Pineapples, fresh/dried",8,Weight in kilograms,115834,,,,115834,,580343,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,218,Ecuador,ECU,,,,,,,,080430,"Pineapples, fresh/dried",8,Weight in kilograms,1215,,,,1215,,7299,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080430,"Pineapples, fresh/dried",8,Weight in kilograms,924,,,,924,,6271,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,080430,"Pineapples, fresh/dried",8,Weight in kilograms,26,,,,26,,147,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080430,"Pineapples, fresh/dried",8,Weight in kilograms,2700,,,,2700,,13500,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,340,Honduras,HND,,,,,,,,080430,"Pineapples, fresh/dried",8,Weight in kilograms,1680,,,,1680,,8400,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,591,Panama,PAN,,,,,,,,080430,"Pineapples, fresh/dried",8,Weight in kilograms,4620,,,,4620,,23100,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,608,Philippines,PHL,,,,,,,,080430,"Pineapples, fresh/dried",8,Weight in kilograms,127033,,,,127033,,637281,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,080430,"Pineapples, fresh/dried",8,Weight in kilograms,100,,,,100,,803,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080430,"Pineapples, fresh/dried",8,Weight in kilograms,180,,,,180,,901,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,080430,"Pineapples, fresh/dried",8,Weight in kilograms,7100,,,,7100,,26855,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080430,"Pineapples, fresh/dried",8,Weight in kilograms,154023,,,,154023,,773039,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,188,Costa Rica,CRI,,,,,,,,080430,"Pineapples, fresh/dried",8,Weight in kilograms,60401,,,,60401,,302556,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,218,Ecuador,ECU,,,,,,,,080430,"Pineapples, fresh/dried",8,Weight in kilograms,16500,,,,16500,,82500,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080430,"Pineapples, fresh/dried",8,Weight in kilograms,150,,,,150,,917,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,080430,"Pineapples, fresh/dried",8,Weight in kilograms,41,,,,41,,223,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080430,"Pineapples, fresh/dried",8,Weight in kilograms,120,,,,120,,873,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,591,Panama,PAN,,,,,,,,080430,"Pineapples, fresh/dried",8,Weight in kilograms,1100,,,,1100,,5500,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,608,Philippines,PHL,,,,,,,,080430,"Pineapples, fresh/dried",8,Weight in kilograms,67736,,,,67736,,347500,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080430,"Pineapples, fresh/dried",8,Weight in kilograms,80,,,,80,,400,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,080430,"Pineapples, fresh/dried",8,Weight in kilograms,7200,,,,7200,,27002,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,080430,"Pineapples, fresh/dried",8,Weight in kilograms,695,,,,695,,5569,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080430,"Pineapples, fresh/dried",8,Weight in kilograms,108929,,,,108929,,564511,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,188,Costa Rica,CRI,,,,,,,,080430,"Pineapples, fresh/dried",8,Weight in kilograms,43302,,,,43302,,223238,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,080430,"Pineapples, fresh/dried",8,Weight in kilograms,34,,,,34,,307,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,080430,"Pineapples, fresh/dried",8,Weight in kilograms,24,,,,24,,91,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,480,Mauritius,MUS,,,,,,,,080430,"Pineapples, fresh/dried",8,Weight in kilograms,14,,,,14,,141,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,591,Panama,PAN,,,,,,,,080430,"Pineapples, fresh/dried",8,Weight in kilograms,19320,,,,19320,,100446,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,608,Philippines,PHL,,,,,,,,080430,"Pineapples, fresh/dried",8,Weight in kilograms,38400,,,,38400,,208465,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080430,"Pineapples, fresh/dried",8,Weight in kilograms,545,,,,545,,3578,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,080430,"Pineapples, fresh/dried",8,Weight in kilograms,7140,,,,7140,,27032,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,784,United Arab Emirates,ARE,,,,,,,,080430,"Pineapples, fresh/dried",8,Weight in kilograms,151,,,,151,,1213,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080440,"Avocados, fresh/dried",8,Weight in kilograms,572,,,,572,,1011,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080440,"Avocados, fresh/dried",8,Weight in kilograms,70,,,,70,,110,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,376,Israel,ISR,,,,,,,,080440,"Avocados, fresh/dried",8,Weight in kilograms,178,,,,178,,421,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,080440,"Avocados, fresh/dried",8,Weight in kilograms,80,,,,80,,107,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080440,"Avocados, fresh/dried",8,Weight in kilograms,120,,,,120,,162,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,080440,"Avocados, fresh/dried",8,Weight in kilograms,114,,,,114,,163,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080440,"Avocados, fresh/dried",8,Weight in kilograms,10,,,,10,,47,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080440,"Avocados, fresh/dried",8,Weight in kilograms,365,,,,365,,615,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,376,Israel,ISR,,,,,,,,080440,"Avocados, fresh/dried",8,Weight in kilograms,285,,,,285,,518,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,080440,"Avocados, fresh/dried",8,Weight in kilograms,80,,,,80,,97,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080440,"Avocados, fresh/dried",8,Weight in kilograms,596,,,,596,,2014,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,080440,"Avocados, fresh/dried",8,Weight in kilograms,12,,,,12,,151,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080440,"Avocados, fresh/dried",8,Weight in kilograms,18,,,,18,,158,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080440,"Avocados, fresh/dried",8,Weight in kilograms,150,,,,150,,345,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,376,Israel,ISR,,,,,,,,080440,"Avocados, fresh/dried",8,Weight in kilograms,128,,,,128,,504,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,080440,"Avocados, fresh/dried",8,Weight in kilograms,288,,,,288,,855,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080450,"Guavas, mangoes & mangosteens, fresh/dried",8,Weight in kilograms,9000,,,,9000,,49376,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,32,Argentina,ARG,,,,,,,,080450,"Guavas, mangoes & mangosteens, fresh/dried",8,Weight in kilograms,960,,,,960,,7201,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,080450,"Guavas, mangoes & mangosteens, fresh/dried",8,Weight in kilograms,1916,,,,1916,,10254,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080450,"Guavas, mangoes & mangosteens, fresh/dried",8,Weight in kilograms,500,,,,500,,1876,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,188,Costa Rica,CRI,,,,,,,,080450,"Guavas, mangoes & mangosteens, fresh/dried",8,Weight in kilograms,1008,,,,1008,,5042,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,080450,"Guavas, mangoes & mangosteens, fresh/dried",8,Weight in kilograms,12,,,,12,,119,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,360,Indonesia,IDN,,,,,,,,080450,"Guavas, mangoes & mangosteens, fresh/dried",8,Weight in kilograms,10,,,,10,,27,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080450,"Guavas, mangoes & mangosteens, fresh/dried",8,Weight in kilograms,5,,,,5,,88,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,384,Côte d'Ivoire,CIV,,,,,,,,080450,"Guavas, mangoes & mangosteens, fresh/dried",8,Weight in kilograms,40,,,,40,,200,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,404,Kenya,KEN,,,,,,,,080450,"Guavas, mangoes & mangosteens, fresh/dried",8,Weight in kilograms,600,,,,600,,4500,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,080450,"Guavas, mangoes & mangosteens, fresh/dried",8,Weight in kilograms,1008,,,,1008,,5040,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080450,"Guavas, mangoes & mangosteens, fresh/dried",8,Weight in kilograms,700,,,,700,,5251,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,080450,"Guavas, mangoes & mangosteens, fresh/dried",8,Weight in kilograms,2241,,,,2241,,9777,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080450,"Guavas, mangoes & mangosteens, fresh/dried",8,Weight in kilograms,3965,,,,3965,,17823,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,080450,"Guavas, mangoes & mangosteens, fresh/dried",8,Weight in kilograms,220,,,,220,,1430,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080450,"Guavas, mangoes & mangosteens, fresh/dried",8,Weight in kilograms,400,,,,400,,3001,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,080450,"Guavas, mangoes & mangosteens, fresh/dried",8,Weight in kilograms,33,,,,33,,380,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,080450,"Guavas, mangoes & mangosteens, fresh/dried",8,Weight in kilograms,10,,,,10,,20,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,080450,"Guavas, mangoes & mangosteens, fresh/dried",8,Weight in kilograms,3200,,,,3200,,12211,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080450,"Guavas, mangoes & mangosteens, fresh/dried",8,Weight in kilograms,102,,,,102,,781,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080450,"Guavas, mangoes & mangosteens, fresh/dried",8,Weight in kilograms,6334,,,,6334,,32014,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,080450,"Guavas, mangoes & mangosteens, fresh/dried",8,Weight in kilograms,1957,,,,1957,,14208,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,170,Colombia,COL,,,,,,,,080450,"Guavas, mangoes & mangosteens, fresh/dried",8,Weight in kilograms,9,,,,9,,80,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,080450,"Guavas, mangoes & mangosteens, fresh/dried",8,Weight in kilograms,26,,,,26,,503,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,360,Indonesia,IDN,,,,,,,,080450,"Guavas, mangoes & mangosteens, fresh/dried",8,Weight in kilograms,10,,,,10,,43,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,404,Kenya,KEN,,,,,,,,080450,"Guavas, mangoes & mangosteens, fresh/dried",8,Weight in kilograms,8,,,,8,,106,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,080450,"Guavas, mangoes & mangosteens, fresh/dried",8,Weight in kilograms,6,,,,6,,63,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,080450,"Guavas, mangoes & mangosteens, fresh/dried",8,Weight in kilograms,4318,,,,4318,,17012,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080510,"Oranges, fresh/dried",8,Weight in kilograms,6792215,,,,6792215,,7798780,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,32,Argentina,ARG,,,,,,,,080510,"Oranges, fresh/dried",8,Weight in kilograms,16800,,,,16800,,18816,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,36,Australia,AUS,,,,,,,,080510,"Oranges, fresh/dried",8,Weight in kilograms,5100,,,,5100,,5712,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080510,"Oranges, fresh/dried",8,Weight in kilograms,112579,,,,112579,,146117,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080510,"Oranges, fresh/dried",8,Weight in kilograms,4953156,,,,4953156,,5678884,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080510,"Oranges, fresh/dried",8,Weight in kilograms,15161,,,,15161,,19331,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,504,Morocco,MAR,,,,,,,,080510,"Oranges, fresh/dried",8,Weight in kilograms,6100,,,,6100,,7787,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080510,"Oranges, fresh/dried",8,Weight in kilograms,781317,,,,781317,,880727,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,080510,"Oranges, fresh/dried",8,Weight in kilograms,924,,,,924,,1035,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,080510,"Oranges, fresh/dried",8,Weight in kilograms,660,,,,660,,742,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,080510,"Oranges, fresh/dried",8,Weight in kilograms,900418,,,,900418,,1039628,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080510,"Oranges, fresh/dried",8,Weight in kilograms,8102016,,,,8102016,,9636834,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080510,"Oranges, fresh/dried",8,Weight in kilograms,39450,,,,39450,,52078,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080510,"Oranges, fresh/dried",8,Weight in kilograms,6021945,,,,6021945,,7173803,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080510,"Oranges, fresh/dried",8,Weight in kilograms,601423,,,,601423,,709615,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,080510,"Oranges, fresh/dried",8,Weight in kilograms,1431984,,,,1431984,,1689036,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,080510,"Oranges, fresh/dried",8,Weight in kilograms,7214,,,,7214,,12302,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080510,"Oranges, fresh/dried",8,Weight in kilograms,5458176,,,,5458176,,6275094,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,32,Argentina,ARG,,,,,,,,080510,"Oranges, fresh/dried",8,Weight in kilograms,15420,,,,15420,,17321,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080510,"Oranges, fresh/dried",8,Weight in kilograms,59430,,,,59430,,76996,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080510,"Oranges, fresh/dried",8,Weight in kilograms,4125157,,,,4125157,,4732674,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080510,"Oranges, fresh/dried",8,Weight in kilograms,238861,,,,238861,,289321,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080510,"Oranges, fresh/dried",8,Weight in kilograms,388490,,,,388490,,440236,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,080510,"Oranges, fresh/dried",8,Weight in kilograms,13140,,,,13140,,14717,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,080510,"Oranges, fresh/dried",8,Weight in kilograms,615465,,,,615465,,700050,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,080510,"Oranges, fresh/dried",8,Weight in kilograms,2213,,,,2213,,3779,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080520,"Mandarins, incl. tangerines & satsumas; clementines, wilkings & similar citrus hybrids, fresh/dried",8,Weight in kilograms,4682096,,,,4682096,,4636343,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,32,Argentina,ARG,,,,,,,,080520,"Mandarins, incl. tangerines & satsumas; clementines, wilkings & similar citrus hybrids, fresh/dried",8,Weight in kilograms,133300,,,,133300,,156680,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080520,"Mandarins, incl. tangerines & satsumas; clementines, wilkings & similar citrus hybrids, fresh/dried",8,Weight in kilograms,3000,,,,3000,,11250,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080520,"Mandarins, incl. tangerines & satsumas; clementines, wilkings & similar citrus hybrids, fresh/dried",8,Weight in kilograms,3241615,,,,3241615,,2938263,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080520,"Mandarins, incl. tangerines & satsumas; clementines, wilkings & similar citrus hybrids, fresh/dried",8,Weight in kilograms,228134,,,,228134,,281255,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080520,"Mandarins, incl. tangerines & satsumas; clementines, wilkings & similar citrus hybrids, fresh/dried",8,Weight in kilograms,12220,,,,12220,,13687,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,376,Israel,ISR,,,,,,,,080520,"Mandarins, incl. tangerines & satsumas; clementines, wilkings & similar citrus hybrids, fresh/dried",8,Weight in kilograms,12,,,,12,,60,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,504,Morocco,MAR,,,,,,,,080520,"Mandarins, incl. tangerines & satsumas; clementines, wilkings & similar citrus hybrids, fresh/dried",8,Weight in kilograms,450,,,,450,,525,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,586,Pakistan,PAK,,,,,,,,080520,"Mandarins, incl. tangerines & satsumas; clementines, wilkings & similar citrus hybrids, fresh/dried",8,Weight in kilograms,952965,,,,952965,,1110540,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080520,"Mandarins, incl. tangerines & satsumas; clementines, wilkings & similar citrus hybrids, fresh/dried",8,Weight in kilograms,14820,,,,14820,,17023,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,080520,"Mandarins, incl. tangerines & satsumas; clementines, wilkings & similar citrus hybrids, fresh/dried",8,Weight in kilograms,95480,,,,95480,,106938,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,080520,"Mandarins, incl. tangerines & satsumas; clementines, wilkings & similar citrus hybrids, fresh/dried",8,Weight in kilograms,100,,,,100,,122,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080520,"Mandarins, incl. tangerines & satsumas; clementines, wilkings & similar citrus hybrids, fresh/dried",8,Weight in kilograms,4108000,,,,4108000,,4367467,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,32,Argentina,ARG,,,,,,,,080520,"Mandarins, incl. tangerines & satsumas; clementines, wilkings & similar citrus hybrids, fresh/dried",8,Weight in kilograms,45440,,,,45440,,65829,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,36,Australia,AUS,,,,,,,,080520,"Mandarins, incl. tangerines & satsumas; clementines, wilkings & similar citrus hybrids, fresh/dried",8,Weight in kilograms,1940,,,,1940,,2736,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080520,"Mandarins, incl. tangerines & satsumas; clementines, wilkings & similar citrus hybrids, fresh/dried",8,Weight in kilograms,2026724,,,,2026724,,1870810,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080520,"Mandarins, incl. tangerines & satsumas; clementines, wilkings & similar citrus hybrids, fresh/dried",8,Weight in kilograms,606121,,,,606121,,706265,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080520,"Mandarins, incl. tangerines & satsumas; clementines, wilkings & similar citrus hybrids, fresh/dried",8,Weight in kilograms,15700,,,,15700,,17585,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,080520,"Mandarins, incl. tangerines & satsumas; clementines, wilkings & similar citrus hybrids, fresh/dried",8,Weight in kilograms,3032,,,,3032,,5155,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,504,Morocco,MAR,,,,,,,,080520,"Mandarins, incl. tangerines & satsumas; clementines, wilkings & similar citrus hybrids, fresh/dried",8,Weight in kilograms,100,,,,100,,112,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,586,Pakistan,PAK,,,,,,,,080520,"Mandarins, incl. tangerines & satsumas; clementines, wilkings & similar citrus hybrids, fresh/dried",8,Weight in kilograms,1313385,,,,1313385,,1588896,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080520,"Mandarins, incl. tangerines & satsumas; clementines, wilkings & similar citrus hybrids, fresh/dried",8,Weight in kilograms,2090,,,,2090,,2341,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,080520,"Mandarins, incl. tangerines & satsumas; clementines, wilkings & similar citrus hybrids, fresh/dried",8,Weight in kilograms,30388,,,,30388,,36655,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,080520,"Mandarins, incl. tangerines & satsumas; clementines, wilkings & similar citrus hybrids, fresh/dried",8,Weight in kilograms,63080,,,,63080,,71084,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080520,"Mandarins, incl. tangerines & satsumas; clementines, wilkings & similar citrus hybrids, fresh/dried",8,Weight in kilograms,3744167,,,,3744167,,3214879,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,32,Argentina,ARG,,,,,,,,080520,"Mandarins, incl. tangerines & satsumas; clementines, wilkings & similar citrus hybrids, fresh/dried",8,Weight in kilograms,8960,,,,8960,,12536,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080520,"Mandarins, incl. tangerines & satsumas; clementines, wilkings & similar citrus hybrids, fresh/dried",8,Weight in kilograms,2812976,,,,2812976,,2133016,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080520,"Mandarins, incl. tangerines & satsumas; clementines, wilkings & similar citrus hybrids, fresh/dried",8,Weight in kilograms,333026,,,,333026,,378906,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080520,"Mandarins, incl. tangerines & satsumas; clementines, wilkings & similar citrus hybrids, fresh/dried",8,Weight in kilograms,36042,,,,36042,,52175,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,586,Pakistan,PAK,,,,,,,,080520,"Mandarins, incl. tangerines & satsumas; clementines, wilkings & similar citrus hybrids, fresh/dried",8,Weight in kilograms,423401,,,,423401,,491086,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080520,"Mandarins, incl. tangerines & satsumas; clementines, wilkings & similar citrus hybrids, fresh/dried",8,Weight in kilograms,2640,,,,2640,,4753,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,080520,"Mandarins, incl. tangerines & satsumas; clementines, wilkings & similar citrus hybrids, fresh/dried",8,Weight in kilograms,5942,,,,5942,,6685,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,080520,"Mandarins, incl. tangerines & satsumas; clementines, wilkings & similar citrus hybrids, fresh/dried",8,Weight in kilograms,121180,,,,121180,,135722,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080540,"Grapefruit, fresh/dried",8,Weight in kilograms,1202424,,,,1202424,,1538730,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080540,"Grapefruit, fresh/dried",8,Weight in kilograms,225242,,,,225242,,422846,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080540,"Grapefruit, fresh/dried",8,Weight in kilograms,3673,,,,3673,,4218,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080540,"Grapefruit, fresh/dried",8,Weight in kilograms,727924,,,,727924,,822602,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080540,"Grapefruit, fresh/dried",8,Weight in kilograms,1748,,,,1748,,1958,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,376,Israel,ISR,,,,,,,,080540,"Grapefruit, fresh/dried",8,Weight in kilograms,147390,,,,147390,,165827,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080540,"Grapefruit, fresh/dried",8,Weight in kilograms,79175,,,,79175,,89387,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,080540,"Grapefruit, fresh/dried",8,Weight in kilograms,7342,,,,7342,,20719,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,080540,"Grapefruit, fresh/dried",8,Weight in kilograms,9930,,,,9930,,11173,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080540,"Grapefruit, fresh/dried",8,Weight in kilograms,1127561,,,,1127561,,1386275,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080540,"Grapefruit, fresh/dried",8,Weight in kilograms,100476,,,,100476,,195271,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080540,"Grapefruit, fresh/dried",8,Weight in kilograms,3730,,,,3730,,4296,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080540,"Grapefruit, fresh/dried",8,Weight in kilograms,789498,,,,789498,,903196,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080540,"Grapefruit, fresh/dried",8,Weight in kilograms,23054,,,,23054,,34116,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,376,Israel,ISR,,,,,,,,080540,"Grapefruit, fresh/dried",8,Weight in kilograms,106856,,,,106856,,119679,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,704,Viet Nam,VNM,,,,,,,,080540,"Grapefruit, fresh/dried",8,Weight in kilograms,300,,,,300,,795,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080540,"Grapefruit, fresh/dried",8,Weight in kilograms,94222,,,,94222,,117158,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,080540,"Grapefruit, fresh/dried",8,Weight in kilograms,300,,,,300,,1125,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,080540,"Grapefruit, fresh/dried",8,Weight in kilograms,8150,,,,8150,,9169,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,080540,"Grapefruit, fresh/dried",8,Weight in kilograms,975,,,,975,,1469,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080540,"Grapefruit, fresh/dried",8,Weight in kilograms,1171088,,,,1171088,,1477604,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080540,"Grapefruit, fresh/dried",8,Weight in kilograms,123799,,,,123799,,284909,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080540,"Grapefruit, fresh/dried",8,Weight in kilograms,339,,,,339,,516,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080540,"Grapefruit, fresh/dried",8,Weight in kilograms,938868,,,,938868,,1067107,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,376,Israel,ISR,,,,,,,,080540,"Grapefruit, fresh/dried",8,Weight in kilograms,60667,,,,60667,,67947,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080540,"Grapefruit, fresh/dried",8,Weight in kilograms,46610,,,,46610,,54491,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,080540,"Grapefruit, fresh/dried",8,Weight in kilograms,600,,,,600,,2326,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,080540,"Grapefruit, fresh/dried",8,Weight in kilograms,205,,,,205,,309,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080550,"Lemons (Citrus limon/limonum) & limes (Citrus aurantifolia/latifolia), fresh/dried",8,Weight in kilograms,1340748,,,,1340748,,2588178,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,32,Argentina,ARG,,,,,,,,080550,"Lemons (Citrus limon/limonum) & limes (Citrus aurantifolia/latifolia), fresh/dried",8,Weight in kilograms,103680,,,,103680,,196992,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,080550,"Lemons (Citrus limon/limonum) & limes (Citrus aurantifolia/latifolia), fresh/dried",8,Weight in kilograms,1040,,,,1040,,1513,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080550,"Lemons (Citrus limon/limonum) & limes (Citrus aurantifolia/latifolia), fresh/dried",8,Weight in kilograms,120851,,,,120851,,254439,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080550,"Lemons (Citrus limon/limonum) & limes (Citrus aurantifolia/latifolia), fresh/dried",8,Weight in kilograms,767054,,,,767054,,1503373,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080550,"Lemons (Citrus limon/limonum) & limes (Citrus aurantifolia/latifolia), fresh/dried",8,Weight in kilograms,4141,,,,4141,,7974,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,484,Mexico,MEX,,,,,,,,080550,"Lemons (Citrus limon/limonum) & limes (Citrus aurantifolia/latifolia), fresh/dried",8,Weight in kilograms,316,,,,316,,406,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080550,"Lemons (Citrus limon/limonum) & limes (Citrus aurantifolia/latifolia), fresh/dried",8,Weight in kilograms,259986,,,,259986,,461493,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,080550,"Lemons (Citrus limon/limonum) & limes (Citrus aurantifolia/latifolia), fresh/dried",8,Weight in kilograms,24000,,,,24000,,45600,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,080550,"Lemons (Citrus limon/limonum) & limes (Citrus aurantifolia/latifolia), fresh/dried",8,Weight in kilograms,20,,,,20,,100,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,080550,"Lemons (Citrus limon/limonum) & limes (Citrus aurantifolia/latifolia), fresh/dried",8,Weight in kilograms,59660,,,,59660,,116287,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080550,"Lemons (Citrus limon/limonum) & limes (Citrus aurantifolia/latifolia), fresh/dried",8,Weight in kilograms,1175938,,,,1175938,,2328163,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,32,Argentina,ARG,,,,,,,,080550,"Lemons (Citrus limon/limonum) & limes (Citrus aurantifolia/latifolia), fresh/dried",8,Weight in kilograms,52840,,,,52840,,100618,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,080550,"Lemons (Citrus limon/limonum) & limes (Citrus aurantifolia/latifolia), fresh/dried",8,Weight in kilograms,120,,,,120,,168,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080550,"Lemons (Citrus limon/limonum) & limes (Citrus aurantifolia/latifolia), fresh/dried",8,Weight in kilograms,900,,,,900,,1711,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080550,"Lemons (Citrus limon/limonum) & limes (Citrus aurantifolia/latifolia), fresh/dried",8,Weight in kilograms,36485,,,,36485,,78168,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080550,"Lemons (Citrus limon/limonum) & limes (Citrus aurantifolia/latifolia), fresh/dried",8,Weight in kilograms,960056,,,,960056,,1878652,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080550,"Lemons (Citrus limon/limonum) & limes (Citrus aurantifolia/latifolia), fresh/dried",8,Weight in kilograms,1978,,,,1978,,5245,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,080550,"Lemons (Citrus limon/limonum) & limes (Citrus aurantifolia/latifolia), fresh/dried",8,Weight in kilograms,750,,,,750,,2100,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,484,Mexico,MEX,,,,,,,,080550,"Lemons (Citrus limon/limonum) & limes (Citrus aurantifolia/latifolia), fresh/dried",8,Weight in kilograms,225,,,,225,,441,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080550,"Lemons (Citrus limon/limonum) & limes (Citrus aurantifolia/latifolia), fresh/dried",8,Weight in kilograms,118949,,,,118949,,252970,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,080550,"Lemons (Citrus limon/limonum) & limes (Citrus aurantifolia/latifolia), fresh/dried",8,Weight in kilograms,3000,,,,3000,,6301,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,080550,"Lemons (Citrus limon/limonum) & limes (Citrus aurantifolia/latifolia), fresh/dried",8,Weight in kilograms,635,,,,635,,1790,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080550,"Lemons (Citrus limon/limonum) & limes (Citrus aurantifolia/latifolia), fresh/dried",8,Weight in kilograms,776149,,,,776149,,1497346,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,32,Argentina,ARG,,,,,,,,080550,"Lemons (Citrus limon/limonum) & limes (Citrus aurantifolia/latifolia), fresh/dried",8,Weight in kilograms,29626,,,,29626,,60806,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,080550,"Lemons (Citrus limon/limonum) & limes (Citrus aurantifolia/latifolia), fresh/dried",8,Weight in kilograms,427,,,,427,,1349,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080550,"Lemons (Citrus limon/limonum) & limes (Citrus aurantifolia/latifolia), fresh/dried",8,Weight in kilograms,300,,,,300,,640,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080550,"Lemons (Citrus limon/limonum) & limes (Citrus aurantifolia/latifolia), fresh/dried",8,Weight in kilograms,8471,,,,8471,,19080,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080550,"Lemons (Citrus limon/limonum) & limes (Citrus aurantifolia/latifolia), fresh/dried",8,Weight in kilograms,581636,,,,581636,,1112024,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080550,"Lemons (Citrus limon/limonum) & limes (Citrus aurantifolia/latifolia), fresh/dried",8,Weight in kilograms,462,,,,462,,924,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,484,Mexico,MEX,,,,,,,,080550,"Lemons (Citrus limon/limonum) & limes (Citrus aurantifolia/latifolia), fresh/dried",8,Weight in kilograms,249,,,,249,,643,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080550,"Lemons (Citrus limon/limonum) & limes (Citrus aurantifolia/latifolia), fresh/dried",8,Weight in kilograms,154147,,,,154147,,299710,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,080550,"Lemons (Citrus limon/limonum) & limes (Citrus aurantifolia/latifolia), fresh/dried",8,Weight in kilograms,250,,,,250,,543,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,080550,"Lemons (Citrus limon/limonum) & limes (Citrus aurantifolia/latifolia), fresh/dried",8,Weight in kilograms,581,,,,581,,1628,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080590,"Citrus fruit (excl. of 0805.10-0805.50), fresh/dried",8,Weight in kilograms,3090435,,,,3090435,,2550041,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080590,"Citrus fruit (excl. of 0805.10-0805.50), fresh/dried",8,Weight in kilograms,1613,,,,1613,,6047,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080590,"Citrus fruit (excl. of 0805.10-0805.50), fresh/dried",8,Weight in kilograms,3088815,,,,3088815,,2543926,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080590,"Citrus fruit (excl. of 0805.10-0805.50), fresh/dried",8,Weight in kilograms,4,,,,4,,59,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,080590,"Citrus fruit (excl. of 0805.10-0805.50), fresh/dried",8,Weight in kilograms,4,,,,4,,9,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080590,"Citrus fruit (excl. of 0805.10-0805.50), fresh/dried",8,Weight in kilograms,1675455,,,,1675455,,1404141,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080590,"Citrus fruit (excl. of 0805.10-0805.50), fresh/dried",8,Weight in kilograms,1150,,,,1150,,4313,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080590,"Citrus fruit (excl. of 0805.10-0805.50), fresh/dried",8,Weight in kilograms,1674305,,,,1674305,,1399828,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080590,"Citrus fruit (excl. of 0805.10-0805.50), fresh/dried",8,Weight in kilograms,1149222,,,,1149222,,983402,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080590,"Citrus fruit (excl. of 0805.10-0805.50), fresh/dried",8,Weight in kilograms,1475,,,,1475,,5626,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080590,"Citrus fruit (excl. of 0805.10-0805.50), fresh/dried",8,Weight in kilograms,1147710,,,,1147710,,977267,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,376,Israel,ISR,,,,,,,,080590,"Citrus fruit (excl. of 0805.10-0805.50), fresh/dried",8,Weight in kilograms,33,,,,33,,418,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,080590,"Citrus fruit (excl. of 0805.10-0805.50), fresh/dried",8,Weight in kilograms,4,,,,4,,92,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080610,"Grapes, fresh",8,Weight in kilograms,4766,,,,4766,,3395,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,36,Australia,AUS,,,,,,,,080610,"Grapes, fresh",8,Weight in kilograms,657,,,,657,,461,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080610,"Grapes, fresh",8,Weight in kilograms,2373,,,,2373,,1665,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,516,Namibia,NAM,,,,,,,,080610,"Grapes, fresh",8,Weight in kilograms,22,,,,22,,29,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,080610,"Grapes, fresh",8,Weight in kilograms,41,,,,41,,53,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080610,"Grapes, fresh",8,Weight in kilograms,1673,,,,1673,,1187,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080610,"Grapes, fresh",8,Weight in kilograms,57190,,,,57190,,68514,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080610,"Grapes, fresh",8,Weight in kilograms,4315,,,,4315,,7000,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080610,"Grapes, fresh",8,Weight in kilograms,1195,,,,1195,,1262,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080610,"Grapes, fresh",8,Weight in kilograms,1480,,,,1480,,1856,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,080610,"Grapes, fresh",8,Weight in kilograms,50200,,,,50200,,58395,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080610,"Grapes, fresh",8,Weight in kilograms,147371,,,,147371,,263914,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080610,"Grapes, fresh",8,Weight in kilograms,320,,,,320,,240,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,080610,"Grapes, fresh",8,Weight in kilograms,147051,,,,147051,,263674,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080620,"Grapes, dried",8,Weight in kilograms,953013,,,,953013,,1329067,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,4,Afghanistan,AFG,,,,,,,,080620,"Grapes, dried",8,Weight in kilograms,4250,,,,4250,,6632,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,32,Argentina,ARG,,,,,,,,080620,"Grapes, dried",8,Weight in kilograms,310,,,,310,,408,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080620,"Grapes, dried",8,Weight in kilograms,35070,,,,35070,,62682,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080620,"Grapes, dried",8,Weight in kilograms,750,,,,750,,866,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080620,"Grapes, dried",8,Weight in kilograms,825262,,,,825262,,1066717,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,080620,"Grapes, dried",8,Weight in kilograms,31560,,,,31560,,45885,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,826,United Kingdom,GBR,,,,,,,,080620,"Grapes, dried",8,Weight in kilograms,360,,,,360,,609,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080620,"Grapes, dried",8,Weight in kilograms,26000,,,,26000,,111400,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,860,Uzbekistan,UZB,,,,,,,,080620,"Grapes, dried",8,Weight in kilograms,29451,,,,29451,,33869,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080620,"Grapes, dried",8,Weight in kilograms,799074,,,,799074,,1186353,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080620,"Grapes, dried",8,Weight in kilograms,94330,,,,94330,,147952,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080620,"Grapes, dried",8,Weight in kilograms,3045,,,,3045,,4416,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080620,"Grapes, dried",8,Weight in kilograms,5,,,,5,,56,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080620,"Grapes, dried",8,Weight in kilograms,691272,,,,691272,,1016178,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,080620,"Grapes, dried",8,Weight in kilograms,171,,,,171,,713,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,080620,"Grapes, dried",8,Weight in kilograms,1000,,,,1000,,1450,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,784,United Arab Emirates,ARE,,,,,,,,080620,"Grapes, dried",8,Weight in kilograms,200,,,,200,,1601,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080620,"Grapes, dried",8,Weight in kilograms,48,,,,48,,381,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,860,Uzbekistan,UZB,,,,,,,,080620,"Grapes, dried",8,Weight in kilograms,9004,,,,9004,,13606,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080620,"Grapes, dried",8,Weight in kilograms,960589,,,,960589,,1499249,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,4,Afghanistan,AFG,,,,,,,,080620,"Grapes, dried",8,Weight in kilograms,1400,,,,1400,,2030,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,080620,"Grapes, dried",8,Weight in kilograms,94620,,,,94620,,184450,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,080620,"Grapes, dried",8,Weight in kilograms,5000,,,,5000,,9000,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080620,"Grapes, dried",8,Weight in kilograms,852437,,,,852437,,1290409,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,080620,"Grapes, dried",8,Weight in kilograms,213,,,,213,,1241,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,586,Pakistan,PAK,,,,,,,,080620,"Grapes, dried",8,Weight in kilograms,300,,,,300,,435,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,080620,"Grapes, dried",8,Weight in kilograms,4800,,,,4800,,7266,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,080620,"Grapes, dried",8,Weight in kilograms,1800,,,,1800,,4250,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080620,"Grapes, dried",8,Weight in kilograms,19,,,,19,,168,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080711,"Watermelons, fresh",8,Weight in kilograms,435011,,,,435011,,526310,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,080711,"Watermelons, fresh",8,Weight in kilograms,1248,,,,1248,,1153,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080711,"Watermelons, fresh",8,Weight in kilograms,45170,,,,45170,,58448,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080711,"Watermelons, fresh",8,Weight in kilograms,26040,,,,26040,,33202,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080711,"Watermelons, fresh",8,Weight in kilograms,362553,,,,362553,,433507,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080711,"Watermelons, fresh",8,Weight in kilograms,396939,,,,396939,,543415,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,080711,"Watermelons, fresh",8,Weight in kilograms,323,,,,323,,319,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080711,"Watermelons, fresh",8,Weight in kilograms,32750,,,,32750,,30781,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080711,"Watermelons, fresh",8,Weight in kilograms,58600,,,,58600,,61929,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080711,"Watermelons, fresh",8,Weight in kilograms,305167,,,,305167,,450283,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,080711,"Watermelons, fresh",8,Weight in kilograms,99,,,,99,,103,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080711,"Watermelons, fresh",8,Weight in kilograms,340278,,,,340278,,404756,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,080711,"Watermelons, fresh",8,Weight in kilograms,480,,,,480,,704,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080711,"Watermelons, fresh",8,Weight in kilograms,7000,,,,7000,,9078,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080711,"Watermelons, fresh",8,Weight in kilograms,25200,,,,25200,,28224,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080711,"Watermelons, fresh",8,Weight in kilograms,307598,,,,307598,,366750,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080719,"Melons (excl. watermelons), fresh",8,Weight in kilograms,12081,,,,12081,,16515,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,080719,"Melons (excl. watermelons), fresh",8,Weight in kilograms,500,,,,500,,687,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080719,"Melons (excl. watermelons), fresh",8,Weight in kilograms,1456,,,,1456,,1988,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080719,"Melons (excl. watermelons), fresh",8,Weight in kilograms,1400,,,,1400,,1569,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080719,"Melons (excl. watermelons), fresh",8,Weight in kilograms,8115,,,,8115,,9524,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,080719,"Melons (excl. watermelons), fresh",8,Weight in kilograms,10,,,,10,,78,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,080719,"Melons (excl. watermelons), fresh",8,Weight in kilograms,600,,,,600,,2670,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080719,"Melons (excl. watermelons), fresh",8,Weight in kilograms,36878,,,,36878,,54787,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,080719,"Melons (excl. watermelons), fresh",8,Weight in kilograms,30,,,,30,,41,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,080719,"Melons (excl. watermelons), fresh",8,Weight in kilograms,440,,,,440,,603,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,080719,"Melons (excl. watermelons), fresh",8,Weight in kilograms,5950,,,,5950,,7457,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080719,"Melons (excl. watermelons), fresh",8,Weight in kilograms,29458,,,,29458,,43285,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,080719,"Melons (excl. watermelons), fresh",8,Weight in kilograms,1000,,,,1000,,3401,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080719,"Melons (excl. watermelons), fresh",8,Weight in kilograms,6495,,,,6495,,11759,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,080719,"Melons (excl. watermelons), fresh",8,Weight in kilograms,100,,,,100,,184,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,080719,"Melons (excl. watermelons), fresh",8,Weight in kilograms,4895,,,,4895,,5874,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,080719,"Melons (excl. watermelons), fresh",8,Weight in kilograms,1500,,,,1500,,5701,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080720,"Papaws (papayas), fresh/dried",8,Weight in kilograms,178,,,,178,,961,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,218,Ecuador,ECU,,,,,,,,080720,"Papaws (papayas), fresh/dried",8,Weight in kilograms,48,,,,48,,80,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,484,Mexico,MEX,,,,,,,,080720,"Papaws (papayas), fresh/dried",8,Weight in kilograms,66,,,,66,,396,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080720,"Papaws (papayas), fresh/dried",8,Weight in kilograms,64,,,,64,,485,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080720,"Papaws (papayas), fresh/dried",8,Weight in kilograms,300,,,,300,,1771,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,080720,"Papaws (papayas), fresh/dried",8,Weight in kilograms,12,,,,12,,19,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,218,Ecuador,ECU,,,,,,,,080720,"Papaws (papayas), fresh/dried",8,Weight in kilograms,38,,,,38,,61,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,080720,"Papaws (papayas), fresh/dried",8,Weight in kilograms,250,,,,250,,1692,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,080720,"Papaws (papayas), fresh/dried",8,Weight in kilograms,104,,,,104,,1341,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,080720,"Papaws (papayas), fresh/dried",8,Weight in kilograms,76,,,,76,,742,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,170,Colombia,COL,,,,,,,,080720,"Papaws (papayas), fresh/dried",8,Weight in kilograms,8,,,,8,,303,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,458,Malaysia,MYS,,,,,,,,080720,"Papaws (papayas), fresh/dried",8,Weight in kilograms,20,,,,20,,295,,,0
