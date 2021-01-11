@@ -1,534 +1,534 @@
 Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0701,Potatoes; fresh or chilled,8,Weight in kilograms,2101769,,,,2101769,,1217243,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,203,Czechia,CZE,,,,,,,,0701,Potatoes; fresh or chilled,8,Weight in kilograms,16500,,,,16500,,14658,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,0701,Potatoes; fresh or chilled,8,Weight in kilograms,766740,,,,766740,,135409,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,0701,Potatoes; fresh or chilled,8,Weight in kilograms,70000,,,,70000,,48490,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0701,Potatoes; fresh or chilled,8,Weight in kilograms,207720,,,,207720,,38634,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,0701,Potatoes; fresh or chilled,8,Weight in kilograms,859110,,,,859110,,870398,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,620,Portugal,PRT,,,,,,,,0701,Potatoes; fresh or chilled,8,Weight in kilograms,6,,,,6,,38,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,0701,Potatoes; fresh or chilled,8,Weight in kilograms,181693,,,,181693,,109616,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0702,Tomatoes; fresh or chilled,8,Weight in kilograms,139147,,,,139147,,324844,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,0702,Tomatoes; fresh or chilled,8,Weight in kilograms,550,,,,550,,1815,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,0702,Tomatoes; fresh or chilled,8,Weight in kilograms,42805,,,,42805,,107511,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0702,Tomatoes; fresh or chilled,8,Weight in kilograms,47521,,,,47521,,120851,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,0702,Tomatoes; fresh or chilled,8,Weight in kilograms,60,,,,60,,348,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,0702,Tomatoes; fresh or chilled,8,Weight in kilograms,28211,,,,28211,,73019,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,0702,Tomatoes; fresh or chilled,8,Weight in kilograms,20000,,,,20000,,21300,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables; fresh or chilled",8,Weight in kilograms,7351138,,,,7351138,,3130081,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables; fresh or chilled",8,Weight in kilograms,1967740,,,,1967740,,884651,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables; fresh or chilled",8,Weight in kilograms,172750,,,,172750,,75056,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables; fresh or chilled",8,Weight in kilograms,4027885,,,,4027885,,1692918,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables; fresh or chilled",8,Weight in kilograms,230,,,,230,,1146,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,484,Mexico,MEX,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables; fresh or chilled",8,Weight in kilograms,30,,,,30,,224,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables; fresh or chilled",8,Weight in kilograms,10,,,,10,,228,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables; fresh or chilled",8,Weight in kilograms,10,,,,10,,196,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables; fresh or chilled",8,Weight in kilograms,211400,,,,211400,,90287,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables; fresh or chilled",8,Weight in kilograms,971078,,,,971078,,385323,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables; fresh or chilled",8,Weight in kilograms,5,,,,5,,52,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas; fresh or chilled",8,Weight in kilograms,568175,,,,568175,,102484,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas; fresh or chilled",8,Weight in kilograms,16,,,,16,,99,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas; fresh or chilled",8,Weight in kilograms,362660,,,,362660,,60770,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas; fresh or chilled",8,Weight in kilograms,900,,,,900,,530,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas; fresh or chilled",8,Weight in kilograms,202885,,,,202885,,33070,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas; fresh or chilled",8,Weight in kilograms,118,,,,118,,830,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas; fresh or chilled",8,Weight in kilograms,106,,,,106,,568,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas; fresh or chilled",8,Weight in kilograms,448,,,,448,,1511,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas; fresh or chilled",8,Weight in kilograms,18,,,,18,,367,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas; fresh or chilled",8,Weight in kilograms,525,,,,525,,4151,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas; fresh or chilled",8,Weight in kilograms,500,,,,500,,588,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0705,Lettuce (lactuca sativa) and chicory (cichorium spp.) fresh or chilled,8,Weight in kilograms,88,,,,88,,1039,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,0705,Lettuce (lactuca sativa) and chicory (cichorium spp.) fresh or chilled,8,Weight in kilograms,23,,,,23,,365,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,0705,Lettuce (lactuca sativa) and chicory (cichorium spp.) fresh or chilled,8,Weight in kilograms,65,,,,65,,674,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0706,"Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots; fresh or chilled",8,Weight in kilograms,646661,,,,646661,,261548,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,36,Australia,AUS,,,,,,,,0706,"Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots; fresh or chilled",8,Weight in kilograms,20,,,,20,,163,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,40,Austria,AUT,,,,,,,,0706,"Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots; fresh or chilled",8,Weight in kilograms,5,,,,5,,42,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,0706,"Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots; fresh or chilled",8,Weight in kilograms,74,,,,74,,756,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,0706,"Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots; fresh or chilled",8,Weight in kilograms,35400,,,,35400,,13838,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,0706,"Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots; fresh or chilled",8,Weight in kilograms,35,,,,35,,326,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,0706,"Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots; fresh or chilled",8,Weight in kilograms,2210,,,,2210,,1435,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0706,"Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots; fresh or chilled",8,Weight in kilograms,607599,,,,607599,,239180,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,0706,"Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots; fresh or chilled",8,Weight in kilograms,129,,,,129,,965,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,0706,"Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots; fresh or chilled",8,Weight in kilograms,0,,,,0,,3,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,0706,"Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots; fresh or chilled",8,Weight in kilograms,41,,,,41,,794,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,0706,"Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots; fresh or chilled",8,Weight in kilograms,595,,,,595,,3590,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,0706,"Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots; fresh or chilled",8,Weight in kilograms,498,,,,498,,125,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,826,United Kingdom,GBR,,,,,,,,0706,"Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots; fresh or chilled",8,Weight in kilograms,55,,,,55,,332,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0707,Cucumbers and gherkins; fresh or chilled,8,Weight in kilograms,314698,,,,314698,,830397,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,0707,Cucumbers and gherkins; fresh or chilled,8,Weight in kilograms,780,,,,780,,2730,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,0707,Cucumbers and gherkins; fresh or chilled,8,Weight in kilograms,22452,,,,22452,,59086,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0707,Cucumbers and gherkins; fresh or chilled,8,Weight in kilograms,285421,,,,285421,,752275,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,0707,Cucumbers and gherkins; fresh or chilled,8,Weight in kilograms,16,,,,16,,199,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,0707,Cucumbers and gherkins; fresh or chilled,8,Weight in kilograms,6029,,,,6029,,16107,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0708,"Leguminous vegetables; shelled or unshelled, fresh or chilled",8,Weight in kilograms,222,,,,222,,2690,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,320,Guatemala,GTM,,,,,,,,0708,"Leguminous vegetables; shelled or unshelled, fresh or chilled",8,Weight in kilograms,74,,,,74,,1006,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,404,Kenya,KEN,,,,,,,,0708,"Leguminous vegetables; shelled or unshelled, fresh or chilled",8,Weight in kilograms,148,,,,148,,1684,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,178273,,,,178273,,499072,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,188,Costa Rica,CRI,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,80,,,,80,,471,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,57,,,,57,,529,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,23250,,,,23250,,55528,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,41,,,,41,,262,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,23324,,,,23324,,49984,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,118025,,,,118025,,350437,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,376,Israel,ISR,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,77,,,,77,,404,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,296,,,,296,,4614,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,67,,,,67,,838,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,175,,,,175,,2265,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,131,,,,131,,513,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,686,Senegal,SEN,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,104,,,,104,,819,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,10,,,,10,,150,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,52,,,,52,,1021,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,533,,,,533,,4224,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,752,Sweden,SWE,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,36,,,,36,,265,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,70,,,,70,,1366,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,11932,,,,11932,,24973,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,800,Uganda,UGA,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,15,,,,15,,407,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0710,Vegetables (uncooked or cooked by steaming or boiling in water); frozen,8,Weight in kilograms,63673,,,,63673,,117696,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,56,Belgium,BEL,,,,,,,,0710,Vegetables (uncooked or cooked by steaming or boiling in water); frozen,8,Weight in kilograms,3800,,,,3800,,8954,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,0710,Vegetables (uncooked or cooked by steaming or boiling in water); frozen,8,Weight in kilograms,42,,,,42,,216,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,0710,Vegetables (uncooked or cooked by steaming or boiling in water); frozen,8,Weight in kilograms,30,,,,30,,198,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,0710,Vegetables (uncooked or cooked by steaming or boiling in water); frozen,8,Weight in kilograms,1,,,,1,,26,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,458,Malaysia,MYS,,,,,,,,0710,Vegetables (uncooked or cooked by steaming or boiling in water); frozen,8,Weight in kilograms,12300,,,,12300,,43050,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,0710,Vegetables (uncooked or cooked by steaming or boiling in water); frozen,8,Weight in kilograms,19660,,,,19660,,12934,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,616,Poland,POL,,,,,,,,0710,Vegetables (uncooked or cooked by steaming or boiling in water); frozen,8,Weight in kilograms,27792,,,,27792,,51865,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,752,Sweden,SWE,,,,,,,,0710,Vegetables (uncooked or cooked by steaming or boiling in water); frozen,8,Weight in kilograms,32,,,,32,,211,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,0710,Vegetables (uncooked or cooked by steaming or boiling in water); frozen,8,Weight in kilograms,16,,,,16,,242,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0711,"Vegetables provisionally preserved; (e.g. by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption",8,Weight in kilograms,1555760,,,,1555760,,1492647,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,0711,"Vegetables provisionally preserved; (e.g. by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption",8,Weight in kilograms,1433280,,,,1433280,,1388227,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,0711,"Vegetables provisionally preserved; (e.g. by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption",8,Weight in kilograms,29600,,,,29600,,30397,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,0711,"Vegetables provisionally preserved; (e.g. by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption",8,Weight in kilograms,92880,,,,92880,,74023,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0712,"Vegetables, dried; whole, cut, sliced, broken or in powder, but not further prepared",8,Weight in kilograms,28476,,,,28476,,47089,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,0712,"Vegetables, dried; whole, cut, sliced, broken or in powder, but not further prepared",8,Weight in kilograms,24151,,,,24151,,41515,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,0712,"Vegetables, dried; whole, cut, sliced, broken or in powder, but not further prepared",8,Weight in kilograms,17,,,,17,,1275,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,0712,"Vegetables, dried; whole, cut, sliced, broken or in powder, but not further prepared",8,Weight in kilograms,56,,,,56,,737,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,0712,"Vegetables, dried; whole, cut, sliced, broken or in powder, but not further prepared",8,Weight in kilograms,120,,,,120,,350,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,0712,"Vegetables, dried; whole, cut, sliced, broken or in powder, but not further prepared",8,Weight in kilograms,1500,,,,1500,,750,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,0712,"Vegetables, dried; whole, cut, sliced, broken or in powder, but not further prepared",8,Weight in kilograms,7,,,,7,,442,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,0712,"Vegetables, dried; whole, cut, sliced, broken or in powder, but not further prepared",8,Weight in kilograms,6,,,,6,,145,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,784,United Arab Emirates,ARE,,,,,,,,0712,"Vegetables, dried; whole, cut, sliced, broken or in powder, but not further prepared",8,Weight in kilograms,2519,,,,2519,,1317,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,0712,"Vegetables, dried; whole, cut, sliced, broken or in powder, but not further prepared",8,Weight in kilograms,100,,,,100,,557,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0713,"Vegetables, leguminous; shelled, whether or not skinned or split, dried",8,Weight in kilograms,4326997,,,,4326997,,3287663,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,124,Canada,CAN,,,,,,,,0713,"Vegetables, leguminous; shelled, whether or not skinned or split, dried",8,Weight in kilograms,1063285,,,,1063285,,872774,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,0713,"Vegetables, leguminous; shelled, whether or not skinned or split, dried",8,Weight in kilograms,18,,,,18,,110,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,348,Hungary,HUN,,,,,,,,0713,"Vegetables, leguminous; shelled, whether or not skinned or split, dried",8,Weight in kilograms,30002,,,,30002,,59918,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0713,"Vegetables, leguminous; shelled, whether or not skinned or split, dried",8,Weight in kilograms,15000,,,,15000,,13503,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,0713,"Vegetables, leguminous; shelled, whether or not skinned or split, dried",8,Weight in kilograms,25,,,,25,,109,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,422,Lebanon,LBN,,,,,,,,0713,"Vegetables, leguminous; shelled, whether or not skinned or split, dried",8,Weight in kilograms,1500,,,,1500,,3237,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,484,Mexico,MEX,,,,,,,,0713,"Vegetables, leguminous; shelled, whether or not skinned or split, dried",8,Weight in kilograms,22000,,,,22000,,22001,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,0713,"Vegetables, leguminous; shelled, whether or not skinned or split, dried",8,Weight in kilograms,1336211,,,,1336211,,1026212,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,0713,"Vegetables, leguminous; shelled, whether or not skinned or split, dried",8,Weight in kilograms,298250,,,,298250,,294171,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,0713,"Vegetables, leguminous; shelled, whether or not skinned or split, dried",8,Weight in kilograms,7385,,,,7385,,5789,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,784,United Arab Emirates,ARE,,,,,,,,0713,"Vegetables, leguminous; shelled, whether or not skinned or split, dried",8,Weight in kilograms,24740,,,,24740,,15321,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,0713,"Vegetables, leguminous; shelled, whether or not skinned or split, dried",8,Weight in kilograms,378,,,,378,,1197,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,0713,"Vegetables, leguminous; shelled, whether or not skinned or split, dried",8,Weight in kilograms,1484150,,,,1484150,,905923,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,0713,"Vegetables, leguminous; shelled, whether or not skinned or split, dried",8,Weight in kilograms,2052,,,,2052,,4491,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,860,Uzbekistan,UZB,,,,,,,,0713,"Vegetables, leguminous; shelled, whether or not skinned or split, dried",8,Weight in kilograms,42000,,,,42000,,62906,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0714,"Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes and similar roots and tubers with high starch or inulin content; fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets; sago pith",8,Weight in kilograms,28061,,,,28061,,14642,,,0
-H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,0714,"Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes and similar roots and tubers with high starch or inulin content; fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets; sago pith",8,Weight in kilograms,28061,,,,28061,,14642,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0701,Potatoes; fresh or chilled,8,Weight in kilograms,7625250,,,,7625250,,3408960,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,40,Austria,AUT,,,,,,,,0701,Potatoes; fresh or chilled,8,Weight in kilograms,42500,,,,42500,,42996,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,56,Belgium,BEL,,,,,,,,0701,Potatoes; fresh or chilled,8,Weight in kilograms,25000,,,,25000,,16954,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,203,Czechia,CZE,,,,,,,,0701,Potatoes; fresh or chilled,8,Weight in kilograms,40000,,,,40000,,43340,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,0701,Potatoes; fresh or chilled,8,Weight in kilograms,5334100,,,,5334100,,1427185,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,0701,Potatoes; fresh or chilled,8,Weight in kilograms,166000,,,,166000,,129516,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0701,Potatoes; fresh or chilled,8,Weight in kilograms,267160,,,,267160,,67251,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,0701,Potatoes; fresh or chilled,8,Weight in kilograms,1601160,,,,1601160,,1552934,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,0701,Potatoes; fresh or chilled,8,Weight in kilograms,22000,,,,22000,,4950,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,826,United Kingdom,GBR,,,,,,,,0701,Potatoes; fresh or chilled,8,Weight in kilograms,106250,,,,106250,,118563,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,0701,Potatoes; fresh or chilled,8,Weight in kilograms,21080,,,,21080,,5270,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0702,Tomatoes; fresh or chilled,8,Weight in kilograms,139131,,,,139131,,336176,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0702,Tomatoes; fresh or chilled,8,Weight in kilograms,16781,,,,16781,,43269,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,0702,Tomatoes; fresh or chilled,8,Weight in kilograms,175,,,,175,,455,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,0702,Tomatoes; fresh or chilled,8,Weight in kilograms,113375,,,,113375,,286028,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,0702,Tomatoes; fresh or chilled,8,Weight in kilograms,8800,,,,8800,,6424,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables; fresh or chilled",8,Weight in kilograms,8637145,,,,8637145,,3767819,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables; fresh or chilled",8,Weight in kilograms,37890,,,,37890,,46009,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables; fresh or chilled",8,Weight in kilograms,2913711,,,,2913711,,1285093,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables; fresh or chilled",8,Weight in kilograms,3080820,,,,3080820,,1324429,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,376,Israel,ISR,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables; fresh or chilled",8,Weight in kilograms,100,,,,100,,57,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables; fresh or chilled",8,Weight in kilograms,50,,,,50,,28,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables; fresh or chilled",8,Weight in kilograms,29,,,,29,,601,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables; fresh or chilled",8,Weight in kilograms,2015250,,,,2015250,,864010,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables; fresh or chilled",8,Weight in kilograms,589295,,,,589295,,247593,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas; fresh or chilled",8,Weight in kilograms,2859138,,,,2859138,,541945,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas; fresh or chilled",8,Weight in kilograms,40,,,,40,,244,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas; fresh or chilled",8,Weight in kilograms,821660,,,,821660,,147035,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas; fresh or chilled",8,Weight in kilograms,1935251,,,,1935251,,376277,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas; fresh or chilled",8,Weight in kilograms,100,,,,100,,42,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas; fresh or chilled",8,Weight in kilograms,316,,,,316,,2253,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas; fresh or chilled",8,Weight in kilograms,200,,,,200,,85,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas; fresh or chilled",8,Weight in kilograms,139,,,,139,,648,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas; fresh or chilled",8,Weight in kilograms,132,,,,132,,54,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas; fresh or chilled",8,Weight in kilograms,101300,,,,101300,,15306,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0705,Lettuce (lactuca sativa) and chicory (cichorium spp.) fresh or chilled,8,Weight in kilograms,94,,,,94,,1135,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,0705,Lettuce (lactuca sativa) and chicory (cichorium spp.) fresh or chilled,8,Weight in kilograms,56,,,,56,,825,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,0705,Lettuce (lactuca sativa) and chicory (cichorium spp.) fresh or chilled,8,Weight in kilograms,38,,,,38,,310,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0706,"Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots; fresh or chilled",8,Weight in kilograms,200016,,,,200016,,84980,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,0706,"Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots; fresh or chilled",8,Weight in kilograms,50,,,,50,,471,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0706,"Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots; fresh or chilled",8,Weight in kilograms,166535,,,,166535,,64985,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,0706,"Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots; fresh or chilled",8,Weight in kilograms,81,,,,81,,534,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,0706,"Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots; fresh or chilled",8,Weight in kilograms,35,,,,35,,616,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,0706,"Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots; fresh or chilled",8,Weight in kilograms,1066,,,,1066,,6040,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,0706,"Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots; fresh or chilled",8,Weight in kilograms,32250,,,,32250,,12335,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0707,Cucumbers and gherkins; fresh or chilled,8,Weight in kilograms,333871,,,,333871,,849711,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0707,Cucumbers and gherkins; fresh or chilled,8,Weight in kilograms,318955,,,,318955,,810789,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,0707,Cucumbers and gherkins; fresh or chilled,8,Weight in kilograms,14916,,,,14916,,38922,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0708,"Leguminous vegetables; shelled or unshelled, fresh or chilled",8,Weight in kilograms,1183,,,,1183,,3158,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,0708,"Leguminous vegetables; shelled or unshelled, fresh or chilled",8,Weight in kilograms,1060,,,,1060,,1751,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,320,Guatemala,GTM,,,,,,,,0708,"Leguminous vegetables; shelled or unshelled, fresh or chilled",8,Weight in kilograms,3,,,,3,,30,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,404,Kenya,KEN,,,,,,,,0708,"Leguminous vegetables; shelled or unshelled, fresh or chilled",8,Weight in kilograms,102,,,,102,,1171,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,716,Zimbabwe,ZWE,,,,,,,,0708,"Leguminous vegetables; shelled or unshelled, fresh or chilled",8,Weight in kilograms,6,,,,6,,75,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,834,United Rep. of Tanzania,TZA,,,,,,,,0708,"Leguminous vegetables; shelled or unshelled, fresh or chilled",8,Weight in kilograms,12,,,,12,,129,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,233619,,,,233619,,750337,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,112,Belarus,BLR,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,63,,,,63,,886,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,660,,,,660,,1934,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,203,Czechia,CZE,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,2170,,,,2170,,4340,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,214,Dominican Rep.,DOM,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,14,,,,14,,220,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,19,,,,19,,170,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,29361,,,,29361,,79209,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,48,,,,48,,464,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,133179,,,,133179,,398668,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,376,Israel,ISR,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,195,,,,195,,975,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,777,,,,777,,9190,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,404,Kenya,KEN,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,3,,,,3,,47,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,410,Rep. of Korea,KOR,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,3,,,,3,,76,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,458,Malaysia,MYS,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,280,,,,280,,813,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,484,Mexico,MEX,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,120,,,,120,,1271,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,504,Morocco,MAR,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,18,,,,18,,170,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,226,,,,226,,1788,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,470,,,,470,,5793,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,10,,,,10,,30,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,686,Senegal,SEN,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,8,,,,8,,87,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,1466,,,,1466,,3182,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,1078,,,,1078,,7146,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,92,,,,92,,1797,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,62468,,,,62468,,134760,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,800,Uganda,UGA,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,52,,,,52,,723,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,0709,"Vegetables; n.e.c. in chapter 07, fresh or chilled",8,Weight in kilograms,840,,,,840,,96600,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0710,Vegetables (uncooked or cooked by steaming or boiling in water); frozen,8,Weight in kilograms,23711,,,,23711,,58037,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,56,Belgium,BEL,,,,,,,,0710,Vegetables (uncooked or cooked by steaming or boiling in water); frozen,8,Weight in kilograms,8000,,,,8000,,16382,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,112,Belarus,BLR,,,,,,,,0710,Vegetables (uncooked or cooked by steaming or boiling in water); frozen,8,Weight in kilograms,62,,,,62,,611,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,0710,Vegetables (uncooked or cooked by steaming or boiling in water); frozen,8,Weight in kilograms,380,,,,380,,627,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,0710,Vegetables (uncooked or cooked by steaming or boiling in water); frozen,8,Weight in kilograms,378,,,,378,,790,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,458,Malaysia,MYS,,,,,,,,0710,Vegetables (uncooked or cooked by steaming or boiling in water); frozen,8,Weight in kilograms,7000,,,,7000,,24501,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,616,Poland,POL,,,,,,,,0710,Vegetables (uncooked or cooked by steaming or boiling in water); frozen,8,Weight in kilograms,7886,,,,7886,,15103,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,0710,Vegetables (uncooked or cooked by steaming or boiling in water); frozen,8,Weight in kilograms,5,,,,5,,23,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0711,"Vegetables provisionally preserved; (e.g. by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption",8,Weight in kilograms,1438168,,,,1438168,,1386706,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,0711,"Vegetables provisionally preserved; (e.g. by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption",8,Weight in kilograms,439760,,,,439760,,439414,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,0711,"Vegetables provisionally preserved; (e.g. by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption",8,Weight in kilograms,7,,,,7,,33,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,0711,"Vegetables provisionally preserved; (e.g. by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption",8,Weight in kilograms,58000,,,,58000,,69326,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,704,Viet Nam,VNM,,,,,,,,0711,"Vegetables provisionally preserved; (e.g. by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption",8,Weight in kilograms,1,,,,1,,150,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,0711,"Vegetables provisionally preserved; (e.g. by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption",8,Weight in kilograms,940400,,,,940400,,877783,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0712,"Vegetables, dried; whole, cut, sliced, broken or in powder, but not further prepared",8,Weight in kilograms,16615,,,,16615,,22890,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,56,Belgium,BEL,,,,,,,,0712,"Vegetables, dried; whole, cut, sliced, broken or in powder, but not further prepared",8,Weight in kilograms,90,,,,90,,920,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,0712,"Vegetables, dried; whole, cut, sliced, broken or in powder, but not further prepared",8,Weight in kilograms,15425,,,,15425,,17621,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,0712,"Vegetables, dried; whole, cut, sliced, broken or in powder, but not further prepared",8,Weight in kilograms,5,,,,5,,60,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,0712,"Vegetables, dried; whole, cut, sliced, broken or in powder, but not further prepared",8,Weight in kilograms,8,,,,8,,103,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,422,Lebanon,LBN,,,,,,,,0712,"Vegetables, dried; whole, cut, sliced, broken or in powder, but not further prepared",8,Weight in kilograms,92,,,,92,,791,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,484,Mexico,MEX,,,,,,,,0712,"Vegetables, dried; whole, cut, sliced, broken or in powder, but not further prepared",8,Weight in kilograms,3,,,,3,,28,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,0712,"Vegetables, dried; whole, cut, sliced, broken or in powder, but not further prepared",8,Weight in kilograms,32,,,,32,,81,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,0712,"Vegetables, dried; whole, cut, sliced, broken or in powder, but not further prepared",8,Weight in kilograms,860,,,,860,,2558,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,0712,"Vegetables, dried; whole, cut, sliced, broken or in powder, but not further prepared",8,Weight in kilograms,100,,,,100,,711,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,0712,"Vegetables, dried; whole, cut, sliced, broken or in powder, but not further prepared",8,Weight in kilograms,2,,,,2,,17,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0713,"Vegetables, leguminous; shelled, whether or not skinned or split, dried",8,Weight in kilograms,5075748,,,,5075748,,3871076,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,32,Argentina,ARG,,,,,,,,0713,"Vegetables, leguminous; shelled, whether or not skinned or split, dried",8,Weight in kilograms,46900,,,,46900,,42210,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,40,Austria,AUT,,,,,,,,0713,"Vegetables, leguminous; shelled, whether or not skinned or split, dried",8,Weight in kilograms,1800,,,,1800,,2228,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,124,Canada,CAN,,,,,,,,0713,"Vegetables, leguminous; shelled, whether or not skinned or split, dried",8,Weight in kilograms,1744950,,,,1744950,,1281617,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,0713,"Vegetables, leguminous; shelled, whether or not skinned or split, dried",8,Weight in kilograms,75000,,,,75000,,119646,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,231,Ethiopia,ETH,,,,,,,,0713,"Vegetables, leguminous; shelled, whether or not skinned or split, dried",8,Weight in kilograms,24000,,,,24000,,27868,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0713,"Vegetables, leguminous; shelled, whether or not skinned or split, dried",8,Weight in kilograms,21790,,,,21790,,13074,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,0713,"Vegetables, leguminous; shelled, whether or not skinned or split, dried",8,Weight in kilograms,24,,,,24,,95,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,422,Lebanon,LBN,,,,,,,,0713,"Vegetables, leguminous; shelled, whether or not skinned or split, dried",8,Weight in kilograms,6468,,,,6468,,12161,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,484,Mexico,MEX,,,,,,,,0713,"Vegetables, leguminous; shelled, whether or not skinned or split, dried",8,Weight in kilograms,22000,,,,22000,,27432,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,0713,"Vegetables, leguminous; shelled, whether or not skinned or split, dried",8,Weight in kilograms,4,,,,4,,126,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,0713,"Vegetables, leguminous; shelled, whether or not skinned or split, dried",8,Weight in kilograms,1486540,,,,1486540,,1135950,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,0713,"Vegetables, leguminous; shelled, whether or not skinned or split, dried",8,Weight in kilograms,110001,,,,110001,,103153,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,0713,"Vegetables, leguminous; shelled, whether or not skinned or split, dried",8,Weight in kilograms,15000,,,,15000,,20879,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,0713,"Vegetables, leguminous; shelled, whether or not skinned or split, dried",8,Weight in kilograms,816,,,,816,,2275,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,0713,"Vegetables, leguminous; shelled, whether or not skinned or split, dried",8,Weight in kilograms,1252750,,,,1252750,,738527,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,0713,"Vegetables, leguminous; shelled, whether or not skinned or split, dried",8,Weight in kilograms,27465,,,,27465,,34132,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,860,Uzbekistan,UZB,,,,,,,,0713,"Vegetables, leguminous; shelled, whether or not skinned or split, dried",8,Weight in kilograms,240240,,,,240240,,309703,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0714,"Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes and similar roots and tubers with high starch or inulin content; fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets; sago pith",8,Weight in kilograms,60016,,,,60016,,34693,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,376,Israel,ISR,,,,,,,,0714,"Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes and similar roots and tubers with high starch or inulin content; fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets; sago pith",8,Weight in kilograms,5,,,,5,,50,,,0
-H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,0714,"Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes and similar roots and tubers with high starch or inulin content; fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets; sago pith",8,Weight in kilograms,60011,,,,60011,,34643,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0701,"Potatoes, fresh or chilled.",8,Weight in kilograms,1568569,,,,1568569,,981736,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,0701,"Potatoes, fresh or chilled.",8,Weight in kilograms,247000,,,,247000,,59531,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,0701,"Potatoes, fresh or chilled.",8,Weight in kilograms,45000,,,,45000,,33981,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,0701,"Potatoes, fresh or chilled.",8,Weight in kilograms,172000,,,,172000,,38703,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0701,"Potatoes, fresh or chilled.",8,Weight in kilograms,310224,,,,310224,,71100,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,0701,"Potatoes, fresh or chilled.",8,Weight in kilograms,794345,,,,794345,,778422,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0701,"Potatoes, fresh or chilled.",8,Weight in kilograms,9362535,,,,9362535,,5078349,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,40,Austria,AUT,,,,,,,,0701,"Potatoes, fresh or chilled.",8,Weight in kilograms,44000,,,,44000,,58080,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,124,Canada,CAN,,,,,,,,0701,"Potatoes, fresh or chilled.",8,Weight in kilograms,125000,,,,125000,,106250,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,203,Czechia,CZE,,,,,,,,0701,"Potatoes, fresh or chilled.",8,Weight in kilograms,18000,,,,18000,,19801,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,0701,"Potatoes, fresh or chilled.",8,Weight in kilograms,80000,,,,80000,,75699,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,0701,"Potatoes, fresh or chilled.",8,Weight in kilograms,102510,,,,102510,,24818,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,0701,"Potatoes, fresh or chilled.",8,Weight in kilograms,291500,,,,291500,,224020,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,0701,"Potatoes, fresh or chilled.",8,Weight in kilograms,1161100,,,,1161100,,276265,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0701,"Potatoes, fresh or chilled.",8,Weight in kilograms,2451840,,,,2451840,,600058,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,0701,"Potatoes, fresh or chilled.",8,Weight in kilograms,2790275,,,,2790275,,3023707,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,586,Pakistan,PAK,,,,,,,,0701,"Potatoes, fresh or chilled.",8,Weight in kilograms,2245610,,,,2245610,,657794,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,0701,"Potatoes, fresh or chilled.",8,Weight in kilograms,52700,,,,52700,,11858,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0701,"Potatoes, fresh or chilled.",8,Weight in kilograms,5098831,,,,5098831,,3796934,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,40,Austria,AUT,,,,,,,,0701,"Potatoes, fresh or chilled.",8,Weight in kilograms,41625,,,,41625,,29970,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,203,Czechia,CZE,,,,,,,,0701,"Potatoes, fresh or chilled.",8,Weight in kilograms,43500,,,,43500,,37923,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,0701,"Potatoes, fresh or chilled.",8,Weight in kilograms,50000,,,,50000,,52336,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,0701,"Potatoes, fresh or chilled.",8,Weight in kilograms,21300,,,,21300,,6286,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,0701,"Potatoes, fresh or chilled.",8,Weight in kilograms,701200,,,,701200,,561904,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,0701,"Potatoes, fresh or chilled.",8,Weight in kilograms,50380,,,,50380,,11336,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0701,"Potatoes, fresh or chilled.",8,Weight in kilograms,1382711,,,,1382711,,347980,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,0701,"Potatoes, fresh or chilled.",8,Weight in kilograms,2710635,,,,2710635,,2702676,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,586,Pakistan,PAK,,,,,,,,0701,"Potatoes, fresh or chilled.",8,Weight in kilograms,96880,,,,96880,,45523,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,826,United Kingdom,GBR,,,,,,,,0701,"Potatoes, fresh or chilled.",8,Weight in kilograms,600,,,,600,,1000,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0702,"Tomatoes, fresh or chilled.",8,Weight in kilograms,230607,,,,230607,,578338,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,56,Belgium,BEL,,,,,,,,0702,"Tomatoes, fresh or chilled.",8,Weight in kilograms,25,,,,25,,63,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,0702,"Tomatoes, fresh or chilled.",8,Weight in kilograms,66015,,,,66015,,166954,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,0702,"Tomatoes, fresh or chilled.",8,Weight in kilograms,116870,,,,116870,,292183,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0702,"Tomatoes, fresh or chilled.",8,Weight in kilograms,41270,,,,41270,,103046,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,0702,"Tomatoes, fresh or chilled.",8,Weight in kilograms,1,,,,1,,26,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,0702,"Tomatoes, fresh or chilled.",8,Weight in kilograms,11,,,,11,,28,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,0702,"Tomatoes, fresh or chilled.",8,Weight in kilograms,15,,,,15,,38,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,0702,"Tomatoes, fresh or chilled.",8,Weight in kilograms,6400,,,,6400,,16000,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0702,"Tomatoes, fresh or chilled.",8,Weight in kilograms,244382,,,,244382,,583230,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,0702,"Tomatoes, fresh or chilled.",8,Weight in kilograms,87359,,,,87359,,220331,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,0702,"Tomatoes, fresh or chilled.",8,Weight in kilograms,135905,,,,135905,,341564,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0702,"Tomatoes, fresh or chilled.",8,Weight in kilograms,2290,,,,2290,,7269,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,0702,"Tomatoes, fresh or chilled.",8,Weight in kilograms,15,,,,15,,38,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,0702,"Tomatoes, fresh or chilled.",8,Weight in kilograms,150,,,,150,,376,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,0702,"Tomatoes, fresh or chilled.",8,Weight in kilograms,18663,,,,18663,,13652,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0702,"Tomatoes, fresh or chilled.",8,Weight in kilograms,237189,,,,237189,,596579,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,0702,"Tomatoes, fresh or chilled.",8,Weight in kilograms,121628,,,,121628,,304074,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0702,"Tomatoes, fresh or chilled.",8,Weight in kilograms,115561,,,,115561,,292505,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled.",8,Weight in kilograms,10356418,,,,10356418,,4469023,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled.",8,Weight in kilograms,61339,,,,61339,,77467,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled.",8,Weight in kilograms,1027410,,,,1027410,,463206,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled.",8,Weight in kilograms,1261465,,,,1261465,,523590,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled.",8,Weight in kilograms,7894124,,,,7894124,,3346932,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled.",8,Weight in kilograms,37500,,,,37500,,16931,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,784,United Arab Emirates,ARE,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled.",8,Weight in kilograms,20580,,,,20580,,24697,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled.",8,Weight in kilograms,54000,,,,54000,,16201,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled.",8,Weight in kilograms,10631434,,,,10631434,,5039731,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled.",8,Weight in kilograms,44000,,,,44000,,52801,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled.",8,Weight in kilograms,2769817,,,,2769817,,1256915,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled.",8,Weight in kilograms,3119260,,,,3119260,,1472242,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled.",8,Weight in kilograms,4460797,,,,4460797,,2147554,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,586,Pakistan,PAK,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled.",8,Weight in kilograms,22100,,,,22100,,13260,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled.",8,Weight in kilograms,1500,,,,1500,,675,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled.",8,Weight in kilograms,213960,,,,213960,,96284,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled.",8,Weight in kilograms,8068499,,,,8068499,,3471962,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled.",8,Weight in kilograms,200,,,,200,,200,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled.",8,Weight in kilograms,1549480,,,,1549480,,697103,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled.",8,Weight in kilograms,2099680,,,,2099680,,897959,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled.",8,Weight in kilograms,4301219,,,,4301219,,1828913,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled.",8,Weight in kilograms,30,,,,30,,62,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled.",8,Weight in kilograms,75940,,,,75940,,31893,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled.",8,Weight in kilograms,41950,,,,41950,,15833,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas, fresh or chilled.",8,Weight in kilograms,430,,,,430,,159,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas, fresh or chilled.",8,Weight in kilograms,0,,,,0,,4,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas, fresh or chilled.",8,Weight in kilograms,430,,,,430,,68,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas, fresh or chilled.",8,Weight in kilograms,0,,,,0,,50,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas, fresh or chilled.",8,Weight in kilograms,0,,,,0,,37,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas, fresh or chilled.",8,Weight in kilograms,152040,,,,152040,,31912,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas, fresh or chilled.",8,Weight in kilograms,117760,,,,117760,,23710,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas, fresh or chilled.",8,Weight in kilograms,500,,,,500,,690,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas, fresh or chilled.",8,Weight in kilograms,33460,,,,33460,,7053,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,616,Poland,POL,,,,,,,,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas, fresh or chilled.",8,Weight in kilograms,320,,,,320,,459,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas, fresh or chilled.",8,Weight in kilograms,81355,,,,81355,,16667,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas, fresh or chilled.",8,Weight in kilograms,78080,,,,78080,,13859,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas, fresh or chilled.",8,Weight in kilograms,2300,,,,2300,,858,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas, fresh or chilled.",8,Weight in kilograms,15,,,,15,,254,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,616,Poland,POL,,,,,,,,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas, fresh or chilled.",8,Weight in kilograms,320,,,,320,,621,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas, fresh or chilled.",8,Weight in kilograms,40,,,,40,,57,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,784,United Arab Emirates,ARE,,,,,,,,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas, fresh or chilled.",8,Weight in kilograms,600,,,,600,,1017,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0705,"Lettuce (Lactuca sativa) and chicory (Cichorium spp.), fresh or chilled.",8,Weight in kilograms,183,,,,183,,255,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,0705,"Lettuce (Lactuca sativa) and chicory (Cichorium spp.), fresh or chilled.",8,Weight in kilograms,33,,,,33,,105,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,784,United Arab Emirates,ARE,,,,,,,,0705,"Lettuce (Lactuca sativa) and chicory (Cichorium spp.), fresh or chilled.",8,Weight in kilograms,150,,,,150,,150,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0706,"Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots, fresh or chilled.",8,Weight in kilograms,200047,,,,200047,,85129,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,0706,"Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots, fresh or chilled.",8,Weight in kilograms,109955,,,,109955,,45959,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,0706,"Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots, fresh or chilled.",8,Weight in kilograms,35850,,,,35850,,13445,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0706,"Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots, fresh or chilled.",8,Weight in kilograms,54242,,,,54242,,25724,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0706,"Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots, fresh or chilled.",8,Weight in kilograms,12,,,,12,,234,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,0706,"Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots, fresh or chilled.",8,Weight in kilograms,12,,,,12,,234,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0707,"Cucumbers and gherkins, fresh or chilled.",8,Weight in kilograms,431310,,,,431310,,1124232,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,0707,"Cucumbers and gherkins, fresh or chilled.",8,Weight in kilograms,11175,,,,11175,,30021,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,0707,"Cucumbers and gherkins, fresh or chilled.",8,Weight in kilograms,36580,,,,36580,,95121,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0707,"Cucumbers and gherkins, fresh or chilled.",8,Weight in kilograms,373810,,,,373810,,973752,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,0707,"Cucumbers and gherkins, fresh or chilled.",8,Weight in kilograms,9745,,,,9745,,25337,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0707,"Cucumbers and gherkins, fresh or chilled.",8,Weight in kilograms,400846,,,,400846,,1116191,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,0707,"Cucumbers and gherkins, fresh or chilled.",8,Weight in kilograms,29187,,,,29187,,78458,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,0707,"Cucumbers and gherkins, fresh or chilled.",8,Weight in kilograms,96230,,,,96230,,250271,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0707,"Cucumbers and gherkins, fresh or chilled.",8,Weight in kilograms,275429,,,,275429,,787462,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0707,"Cucumbers and gherkins, fresh or chilled.",8,Weight in kilograms,339050,,,,339050,,890370,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,0707,"Cucumbers and gherkins, fresh or chilled.",8,Weight in kilograms,29930,,,,29930,,77848,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0707,"Cucumbers and gherkins, fresh or chilled.",8,Weight in kilograms,309120,,,,309120,,812522,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0708,"Leguminous vegetables, shelled or unshelled, fresh or chilled.",8,Weight in kilograms,3121,,,,3121,,5334,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,0708,"Leguminous vegetables, shelled or unshelled, fresh or chilled.",8,Weight in kilograms,2556,,,,2556,,4430,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,0708,"Leguminous vegetables, shelled or unshelled, fresh or chilled.",8,Weight in kilograms,565,,,,565,,904,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0708,"Leguminous vegetables, shelled or unshelled, fresh or chilled.",8,Weight in kilograms,1230,,,,1230,,1553,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,0708,"Leguminous vegetables, shelled or unshelled, fresh or chilled.",8,Weight in kilograms,950,,,,950,,1245,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,0708,"Leguminous vegetables, shelled or unshelled, fresh or chilled.",8,Weight in kilograms,280,,,,280,,308,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0708,"Leguminous vegetables, shelled or unshelled, fresh or chilled.",8,Weight in kilograms,519,,,,519,,1681,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,0708,"Leguminous vegetables, shelled or unshelled, fresh or chilled.",8,Weight in kilograms,400,,,,400,,397,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,404,Kenya,KEN,,,,,,,,0708,"Leguminous vegetables, shelled or unshelled, fresh or chilled.",8,Weight in kilograms,113,,,,113,,1207,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,0708,"Leguminous vegetables, shelled or unshelled, fresh or chilled.",8,Weight in kilograms,6,,,,6,,77,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0709,"Other vegetables, fresh or chilled.",8,Weight in kilograms,219646,,,,219646,,501560,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,0709,"Other vegetables, fresh or chilled.",8,Weight in kilograms,47,,,,47,,702,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,0709,"Other vegetables, fresh or chilled.",8,Weight in kilograms,53026,,,,53026,,109065,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,0709,"Other vegetables, fresh or chilled.",8,Weight in kilograms,10,,,,10,,118,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,0709,"Other vegetables, fresh or chilled.",8,Weight in kilograms,110412,,,,110412,,229215,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0709,"Other vegetables, fresh or chilled.",8,Weight in kilograms,54758,,,,54758,,158252,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,0709,"Other vegetables, fresh or chilled.",8,Weight in kilograms,12,,,,12,,56,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,0709,"Other vegetables, fresh or chilled.",8,Weight in kilograms,580,,,,580,,1682,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,0709,"Other vegetables, fresh or chilled.",8,Weight in kilograms,1,,,,1,,130,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,0709,"Other vegetables, fresh or chilled.",8,Weight in kilograms,800,,,,800,,2340,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0709,"Other vegetables, fresh or chilled.",8,Weight in kilograms,411697,,,,411697,,969842,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,0709,"Other vegetables, fresh or chilled.",8,Weight in kilograms,11040,,,,11040,,43057,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,0709,"Other vegetables, fresh or chilled.",8,Weight in kilograms,3,,,,3,,217,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,0709,"Other vegetables, fresh or chilled.",8,Weight in kilograms,185905,,,,185905,,402868,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,0709,"Other vegetables, fresh or chilled.",8,Weight in kilograms,145395,,,,145395,,311684,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0709,"Other vegetables, fresh or chilled.",8,Weight in kilograms,56474,,,,56474,,200114,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,504,Morocco,MAR,,,,,,,,0709,"Other vegetables, fresh or chilled.",8,Weight in kilograms,2,,,,2,,73,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,0709,"Other vegetables, fresh or chilled.",8,Weight in kilograms,4,,,,4,,40,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,0709,"Other vegetables, fresh or chilled.",8,Weight in kilograms,12874,,,,12874,,11789,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0709,"Other vegetables, fresh or chilled.",8,Weight in kilograms,208339,,,,208339,,523327,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,0709,"Other vegetables, fresh or chilled.",8,Weight in kilograms,7775,,,,7775,,27319,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,0709,"Other vegetables, fresh or chilled.",8,Weight in kilograms,35735,,,,35735,,82540,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,0709,"Other vegetables, fresh or chilled.",8,Weight in kilograms,84608,,,,84608,,170608,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0709,"Other vegetables, fresh or chilled.",8,Weight in kilograms,76213,,,,76213,,224090,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,376,Israel,ISR,,,,,,,,0709,"Other vegetables, fresh or chilled.",8,Weight in kilograms,410,,,,410,,1536,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,0709,"Other vegetables, fresh or chilled.",8,Weight in kilograms,320,,,,320,,1702,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,0709,"Other vegetables, fresh or chilled.",8,Weight in kilograms,176,,,,176,,1969,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,0709,"Other vegetables, fresh or chilled.",8,Weight in kilograms,220,,,,220,,686,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,704,Viet Nam,VNM,,,,,,,,0709,"Other vegetables, fresh or chilled.",8,Weight in kilograms,20,,,,20,,495,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,0709,"Other vegetables, fresh or chilled.",8,Weight in kilograms,1060,,,,1060,,3582,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,0709,"Other vegetables, fresh or chilled.",8,Weight in kilograms,12,,,,12,,220,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,784,United Arab Emirates,ARE,,,,,,,,0709,"Other vegetables, fresh or chilled.",8,Weight in kilograms,1650,,,,1650,,5441,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,826,United Kingdom,GBR,,,,,,,,0709,"Other vegetables, fresh or chilled.",8,Weight in kilograms,140,,,,140,,3139,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0710,"Vegetables (uncooked or cooked by steaming or boiling in water), frozen.",8,Weight in kilograms,7452,,,,7452,,17783,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,0710,"Vegetables (uncooked or cooked by steaming or boiling in water), frozen.",8,Weight in kilograms,1050,,,,1050,,3045,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0710,"Vegetables (uncooked or cooked by steaming or boiling in water), frozen.",8,Weight in kilograms,3350,,,,3350,,9716,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,0710,"Vegetables (uncooked or cooked by steaming or boiling in water), frozen.",8,Weight in kilograms,658,,,,658,,1801,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,616,Poland,POL,,,,,,,,0710,"Vegetables (uncooked or cooked by steaming or boiling in water), frozen.",8,Weight in kilograms,2394,,,,2394,,3220,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0710,"Vegetables (uncooked or cooked by steaming or boiling in water), frozen.",8,Weight in kilograms,46129,,,,46129,,88650,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,112,Belarus,BLR,,,,,,,,0710,"Vegetables (uncooked or cooked by steaming or boiling in water), frozen.",8,Weight in kilograms,484,,,,484,,5709,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,0710,"Vegetables (uncooked or cooked by steaming or boiling in water), frozen.",8,Weight in kilograms,48,,,,48,,152,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,348,Hungary,HUN,,,,,,,,0710,"Vegetables (uncooked or cooked by steaming or boiling in water), frozen.",8,Weight in kilograms,21100,,,,21100,,27016,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,458,Malaysia,MYS,,,,,,,,0710,"Vegetables (uncooked or cooked by steaming or boiling in water), frozen.",8,Weight in kilograms,6000,,,,6000,,20998,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,0710,"Vegetables (uncooked or cooked by steaming or boiling in water), frozen.",8,Weight in kilograms,1237,,,,1237,,3432,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,616,Poland,POL,,,,,,,,0710,"Vegetables (uncooked or cooked by steaming or boiling in water), frozen.",8,Weight in kilograms,16261,,,,16261,,28943,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,0710,"Vegetables (uncooked or cooked by steaming or boiling in water), frozen.",8,Weight in kilograms,1000,,,,1000,,2400,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0710,"Vegetables (uncooked or cooked by steaming or boiling in water), frozen.",8,Weight in kilograms,40974,,,,40974,,110999,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,112,Belarus,BLR,,,,,,,,0710,"Vegetables (uncooked or cooked by steaming or boiling in water), frozen.",8,Weight in kilograms,56,,,,56,,178,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,458,Malaysia,MYS,,,,,,,,0710,"Vegetables (uncooked or cooked by steaming or boiling in water), frozen.",8,Weight in kilograms,23000,,,,23000,,80501,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,616,Poland,POL,,,,,,,,0710,"Vegetables (uncooked or cooked by steaming or boiling in water), frozen.",8,Weight in kilograms,17814,,,,17814,,30039,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,0710,"Vegetables (uncooked or cooked by steaming or boiling in water), frozen.",8,Weight in kilograms,104,,,,104,,280,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0711,"Vegetables provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption.",8,Weight in kilograms,1449242,,,,1449242,,1353094,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,0711,"Vegetables provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption.",8,Weight in kilograms,671200,,,,671200,,693705,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,0711,"Vegetables provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption.",8,Weight in kilograms,1700,,,,1700,,4250,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,0711,"Vegetables provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption.",8,Weight in kilograms,772800,,,,772800,,653048,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,0711,"Vegetables provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption.",8,Weight in kilograms,3542,,,,3542,,2090,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0711,"Vegetables provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption.",8,Weight in kilograms,1310439,,,,1310439,,1211708,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,112,Belarus,BLR,,,,,,,,0711,"Vegetables provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption.",8,Weight in kilograms,12,,,,12,,99,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,0711,"Vegetables provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption.",8,Weight in kilograms,1194752,,,,1194752,,1106741,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,0711,"Vegetables provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption.",8,Weight in kilograms,475,,,,475,,1188,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,0711,"Vegetables provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption.",8,Weight in kilograms,115200,,,,115200,,103680,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0711,"Vegetables provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption.",8,Weight in kilograms,1789518,,,,1789518,,1603463,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,0711,"Vegetables provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption.",8,Weight in kilograms,220190,,,,220190,,260118,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,0711,"Vegetables provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption.",8,Weight in kilograms,8,,,,8,,156,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,0711,"Vegetables provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption.",8,Weight in kilograms,1569320,,,,1569320,,1343189,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0712,"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.",8,Weight in kilograms,17984,,,,17984,,42970,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,0712,"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.",8,Weight in kilograms,10,,,,10,,97,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,0712,"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.",8,Weight in kilograms,11844,,,,11844,,31699,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,0712,"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.",8,Weight in kilograms,6,,,,6,,635,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0712,"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.",8,Weight in kilograms,4525,,,,4525,,5478,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,0712,"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.",8,Weight in kilograms,160,,,,160,,516,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,0712,"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.",8,Weight in kilograms,96,,,,96,,224,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,704,Viet Nam,VNM,,,,,,,,0712,"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.",8,Weight in kilograms,250,,,,250,,250,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,0712,"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.",8,Weight in kilograms,900,,,,900,,1771,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,784,United Arab Emirates,ARE,,,,,,,,0712,"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.",8,Weight in kilograms,120,,,,120,,548,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,0712,"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.",8,Weight in kilograms,9,,,,9,,72,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,0712,"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.",8,Weight in kilograms,64,,,,64,,1679,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0712,"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.",8,Weight in kilograms,135562,,,,135562,,117640,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,0712,"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.",8,Weight in kilograms,132198,,,,132198,,107480,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,0712,"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.",8,Weight in kilograms,26,,,,26,,1657,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,0712,"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.",8,Weight in kilograms,1500,,,,1500,,3750,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0712,"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.",8,Weight in kilograms,252,,,,252,,900,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,0712,"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.",8,Weight in kilograms,12,,,,12,,675,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,0712,"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.",8,Weight in kilograms,97,,,,97,,672,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,0712,"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.",8,Weight in kilograms,1440,,,,1440,,2295,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,784,United Arab Emirates,ARE,,,,,,,,0712,"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.",8,Weight in kilograms,37,,,,37,,210,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0712,"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.",8,Weight in kilograms,74453,,,,74453,,77207,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,0712,"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.",8,Weight in kilograms,54767,,,,54767,,52206,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,0712,"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.",8,Weight in kilograms,107,,,,107,,735,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,0712,"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.",8,Weight in kilograms,21,,,,21,,637,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,348,Hungary,HUN,,,,,,,,0712,"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.",8,Weight in kilograms,2,,,,2,,66,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0712,"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.",8,Weight in kilograms,1350,,,,1350,,1781,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,0712,"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.",8,Weight in kilograms,18118,,,,18118,,20770,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,0712,"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.",8,Weight in kilograms,5,,,,5,,149,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,0712,"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.",8,Weight in kilograms,75,,,,75,,676,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,0712,"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.",8,Weight in kilograms,8,,,,8,,186,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,6305512,,,,6305512,,3938399,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,32,Argentina,ARG,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,59450,,,,59450,,30515,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,124,Canada,CAN,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,2285316,,,,2285316,,1592208,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,1499159,,,,1499159,,929231,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,348,Hungary,HUN,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,19994,,,,19994,,33003,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,225003,,,,225003,,133461,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,417,Kyrgyzstan,KGZ,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,1890,,,,1890,,4779,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,476866,,,,476866,,259837,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,88975,,,,88975,,73160,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,1170,,,,1170,,2287,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,784,United Arab Emirates,ARE,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,105,,,,105,,170,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,1603850,,,,1603850,,823100,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,9735,,,,9735,,34088,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,860,Uzbekistan,UZB,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,34000,,,,34000,,22560,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,5867254,,,,5867254,,4712273,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,32,Argentina,ARG,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,93000,,,,93000,,95546,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,36,Australia,AUS,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,1000,,,,1000,,1701,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,56,Belgium,BEL,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,21000,,,,21000,,25201,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,104,Myanmar,MMR,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,6000,,,,6000,,5851,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,124,Canada,CAN,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,2151822,,,,2151822,,1669992,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,1190583,,,,1190583,,1142839,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,22,,,,22,,205,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,360,,,,360,,393,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,56080,,,,56080,,51718,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,16,,,,16,,78,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,3,,,,3,,378,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,600806,,,,600806,,498211,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,29350,,,,29350,,28601,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,10794,,,,10794,,16855,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,21990,,,,21990,,21990,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,784,United Arab Emirates,ARE,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,40,,,,40,,100,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,1544075,,,,1544075,,988332,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,826,United Kingdom,GBR,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,1000,,,,1000,,1401,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,61313,,,,61313,,96824,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,860,Uzbekistan,UZB,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,78000,,,,78000,,66059,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,4048988,,,,4048988,,3037095,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,32,Argentina,ARG,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,24000,,,,24000,,24000,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,36,Australia,AUS,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,22900,,,,22900,,20610,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,104,Myanmar,MMR,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,28562,,,,28562,,29712,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,124,Canada,CAN,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,657481,,,,657481,,476399,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,68801,,,,68801,,70865,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,22,,,,22,,174,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,20,,,,20,,118,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,348,Hungary,HUN,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,12952,,,,12952,,23846,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,86888,,,,86888,,78336,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,74,,,,74,,415,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,404,Kenya,KEN,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,12,,,,12,,130,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,417,Kyrgyzstan,KGZ,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,22000,,,,22000,,28623,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,458,Malaysia,MYS,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,200,,,,200,,123,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,484,Mexico,MEX,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,2500,,,,2500,,2900,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,500,,,,500,,1250,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,1603922,,,,1603922,,1232173,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,26002,,,,26002,,23703,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,2115,,,,2115,,1745,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,1402075,,,,1402075,,899781,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,826,United Kingdom,GBR,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,1500,,,,1500,,2250,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,46463,,,,46463,,60841,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,860,Uzbekistan,UZB,,,,,,,,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",8,Weight in kilograms,40000,,,,40000,,59100,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0714,"Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes and similar roots and tubers with high starch or inulin content, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets; sago pith.",8,Weight in kilograms,1715,,,,1715,,4021,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,0714,"Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes and similar roots and tubers with high starch or inulin content, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets; sago pith.",8,Weight in kilograms,1600,,,,1600,,2720,,,0
-H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,410,Rep. of Korea,KOR,,,,,,,,0714,"Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes and similar roots and tubers with high starch or inulin content, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets; sago pith.",8,Weight in kilograms,115,,,,115,,1301,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0714,"Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes and similar roots and tubers with high starch or inulin content, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets; sago pith.",8,Weight in kilograms,75,,,,75,,1480,,,0
-H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,0714,"Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes and similar roots and tubers with high starch or inulin content, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets; sago pith.",8,Weight in kilograms,75,,,,75,,1480,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,0714,"Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes and similar roots and tubers with high starch or inulin content, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets; sago pith.",8,Weight in kilograms,39,,,,39,,807,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,0714,"Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes and similar roots and tubers with high starch or inulin content, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets; sago pith.",8,Weight in kilograms,5,,,,5,,69,,,0
-H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,0714,"Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes and similar roots and tubers with high starch or inulin content, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets; sago pith.",8,Weight in kilograms,34,,,,34,,738,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,701,Potatoes,8,Weight in kilograms,2101769,,,,2101769,,1217243,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,203,Czechia,CZE,,,,,,,,701,Potatoes,8,Weight in kilograms,16500,,,,16500,,14658,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,701,Potatoes,8,Weight in kilograms,766740,,,,766740,,135409,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,701,Potatoes,8,Weight in kilograms,70000,,,,70000,,48490,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,701,Potatoes,8,Weight in kilograms,207720,,,,207720,,38634,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,701,Potatoes,8,Weight in kilograms,859110,,,,859110,,870398,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,620,Portugal,PRT,,,,,,,,701,Potatoes,8,Weight in kilograms,6,,,,6,,38,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,701,Potatoes,8,Weight in kilograms,181693,,,,181693,,109616,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,702,Tomatoes,8,Weight in kilograms,139147,,,,139147,,324844,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,702,Tomatoes,8,Weight in kilograms,550,,,,550,,1815,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,702,Tomatoes,8,Weight in kilograms,42805,,,,42805,,107511,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,702,Tomatoes,8,Weight in kilograms,47521,,,,47521,,120851,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,702,Tomatoes,8,Weight in kilograms,60,,,,60,,348,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,702,Tomatoes,8,Weight in kilograms,28211,,,,28211,,73019,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,702,Tomatoes,8,Weight in kilograms,20000,,,,20000,,21300,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,7351138,,,,7351138,,3130081,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,1967740,,,,1967740,,884651,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,172750,,,,172750,,75056,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,4027885,,,,4027885,,1692918,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,230,,,,230,,1146,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,484,Mexico,MEX,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,30,,,,30,,224,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,10,,,,10,,228,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,10,,,,10,,196,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,211400,,,,211400,,90287,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,971078,,,,971078,,385323,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,5,,,,5,,52,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,704,"Cabbages, cauliflowers, kohlrabi, and kale",8,Weight in kilograms,568175,,,,568175,,102484,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,704,"Cabbages, cauliflowers, kohlrabi, and kale",8,Weight in kilograms,16,,,,16,,99,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,704,"Cabbages, cauliflowers, kohlrabi, and kale",8,Weight in kilograms,362660,,,,362660,,60770,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,704,"Cabbages, cauliflowers, kohlrabi, and kale",8,Weight in kilograms,900,,,,900,,530,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,704,"Cabbages, cauliflowers, kohlrabi, and kale",8,Weight in kilograms,202885,,,,202885,,33070,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,704,"Cabbages, cauliflowers, kohlrabi, and kale",8,Weight in kilograms,118,,,,118,,830,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,704,"Cabbages, cauliflowers, kohlrabi, and kale",8,Weight in kilograms,106,,,,106,,568,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,704,"Cabbages, cauliflowers, kohlrabi, and kale",8,Weight in kilograms,448,,,,448,,1511,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,704,"Cabbages, cauliflowers, kohlrabi, and kale",8,Weight in kilograms,18,,,,18,,367,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,704,"Cabbages, cauliflowers, kohlrabi, and kale",8,Weight in kilograms,525,,,,525,,4151,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,704,"Cabbages, cauliflowers, kohlrabi, and kale",8,Weight in kilograms,500,,,,500,,588,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,705,Lettuce and chicory,8,Weight in kilograms,88,,,,88,,1039,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,705,Lettuce and chicory,8,Weight in kilograms,23,,,,23,,365,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,705,Lettuce and chicory,8,Weight in kilograms,65,,,,65,,674,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,706,"Carrots, turnips, salad beetroot, salsify, celeriac, and radishes",8,Weight in kilograms,646661,,,,646661,,261548,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,36,Australia,AUS,,,,,,,,706,"Carrots, turnips, salad beetroot, salsify, celeriac, and radishes",8,Weight in kilograms,20,,,,20,,163,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,40,Austria,AUT,,,,,,,,706,"Carrots, turnips, salad beetroot, salsify, celeriac, and radishes",8,Weight in kilograms,5,,,,5,,42,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,706,"Carrots, turnips, salad beetroot, salsify, celeriac, and radishes",8,Weight in kilograms,74,,,,74,,756,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,706,"Carrots, turnips, salad beetroot, salsify, celeriac, and radishes",8,Weight in kilograms,35400,,,,35400,,13838,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,706,"Carrots, turnips, salad beetroot, salsify, celeriac, and radishes",8,Weight in kilograms,35,,,,35,,326,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,706,"Carrots, turnips, salad beetroot, salsify, celeriac, and radishes",8,Weight in kilograms,2210,,,,2210,,1435,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,706,"Carrots, turnips, salad beetroot, salsify, celeriac, and radishes",8,Weight in kilograms,607599,,,,607599,,239180,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,706,"Carrots, turnips, salad beetroot, salsify, celeriac, and radishes",8,Weight in kilograms,129,,,,129,,965,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,706,"Carrots, turnips, salad beetroot, salsify, celeriac, and radishes",8,Weight in kilograms,0,,,,0,,3,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,706,"Carrots, turnips, salad beetroot, salsify, celeriac, and radishes",8,Weight in kilograms,41,,,,41,,794,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,706,"Carrots, turnips, salad beetroot, salsify, celeriac, and radishes",8,Weight in kilograms,595,,,,595,,3590,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,706,"Carrots, turnips, salad beetroot, salsify, celeriac, and radishes",8,Weight in kilograms,498,,,,498,,125,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,826,United Kingdom,GBR,,,,,,,,706,"Carrots, turnips, salad beetroot, salsify, celeriac, and radishes",8,Weight in kilograms,55,,,,55,,332,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,707,Cucumbers and gherkins,8,Weight in kilograms,314698,,,,314698,,830397,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,707,Cucumbers and gherkins,8,Weight in kilograms,780,,,,780,,2730,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,707,Cucumbers and gherkins,8,Weight in kilograms,22452,,,,22452,,59086,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,707,Cucumbers and gherkins,8,Weight in kilograms,285421,,,,285421,,752275,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,707,Cucumbers and gherkins,8,Weight in kilograms,16,,,,16,,199,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,707,Cucumbers and gherkins,8,Weight in kilograms,6029,,,,6029,,16107,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,708,Leguminous vegetables,8,Weight in kilograms,222,,,,222,,2690,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,320,Guatemala,GTM,,,,,,,,708,Leguminous vegetables,8,Weight in kilograms,74,,,,74,,1006,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,404,Kenya,KEN,,,,,,,,708,Leguminous vegetables,8,Weight in kilograms,148,,,,148,,1684,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,178273,,,,178273,,499072,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,188,Costa Rica,CRI,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,80,,,,80,,471,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,57,,,,57,,529,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,23250,,,,23250,,55528,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,41,,,,41,,262,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,23324,,,,23324,,49984,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,118025,,,,118025,,350437,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,376,Israel,ISR,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,77,,,,77,,404,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,296,,,,296,,4614,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,67,,,,67,,838,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,175,,,,175,,2265,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,131,,,,131,,513,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,686,Senegal,SEN,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,104,,,,104,,819,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,10,,,,10,,150,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,52,,,,52,,1021,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,533,,,,533,,4224,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,752,Sweden,SWE,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,36,,,,36,,265,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,70,,,,70,,1366,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,11932,,,,11932,,24973,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,800,Uganda,UGA,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,15,,,,15,,407,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,710,Canned vegetables,8,Weight in kilograms,63673,,,,63673,,117696,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,56,Belgium,BEL,,,,,,,,710,Canned vegetables,8,Weight in kilograms,3800,,,,3800,,8954,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,710,Canned vegetables,8,Weight in kilograms,42,,,,42,,216,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,710,Canned vegetables,8,Weight in kilograms,30,,,,30,,198,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,710,Canned vegetables,8,Weight in kilograms,1,,,,1,,26,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,458,Malaysia,MYS,,,,,,,,710,Canned vegetables,8,Weight in kilograms,12300,,,,12300,,43050,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,710,Canned vegetables,8,Weight in kilograms,19660,,,,19660,,12934,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,616,Poland,POL,,,,,,,,710,Canned vegetables,8,Weight in kilograms,27792,,,,27792,,51865,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,752,Sweden,SWE,,,,,,,,710,Canned vegetables,8,Weight in kilograms,32,,,,32,,211,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,710,Canned vegetables,8,Weight in kilograms,16,,,,16,,242,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,711,Preserved vegetables,8,Weight in kilograms,1555760,,,,1555760,,1492647,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,711,Preserved vegetables,8,Weight in kilograms,1433280,,,,1433280,,1388227,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,711,Preserved vegetables,8,Weight in kilograms,29600,,,,29600,,30397,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,711,Preserved vegetables,8,Weight in kilograms,92880,,,,92880,,74023,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,712,Dried vegetables,8,Weight in kilograms,28476,,,,28476,,47089,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,712,Dried vegetables,8,Weight in kilograms,24151,,,,24151,,41515,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,712,Dried vegetables,8,Weight in kilograms,17,,,,17,,1275,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,712,Dried vegetables,8,Weight in kilograms,56,,,,56,,737,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,712,Dried vegetables,8,Weight in kilograms,120,,,,120,,350,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,712,Dried vegetables,8,Weight in kilograms,1500,,,,1500,,750,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,712,Dried vegetables,8,Weight in kilograms,7,,,,7,,442,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,712,Dried vegetables,8,Weight in kilograms,6,,,,6,,145,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,784,United Arab Emirates,ARE,,,,,,,,712,Dried vegetables,8,Weight in kilograms,2519,,,,2519,,1317,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,712,Dried vegetables,8,Weight in kilograms,100,,,,100,,557,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,4326997,,,,4326997,,3287663,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,124,Canada,CAN,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,1063285,,,,1063285,,872774,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,18,,,,18,,110,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,348,Hungary,HUN,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,30002,,,,30002,,59918,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,15000,,,,15000,,13503,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,25,,,,25,,109,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,422,Lebanon,LBN,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,1500,,,,1500,,3237,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,484,Mexico,MEX,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,22000,,,,22000,,22001,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,1336211,,,,1336211,,1026212,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,298250,,,,298250,,294171,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,7385,,,,7385,,5789,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,784,United Arab Emirates,ARE,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,24740,,,,24740,,15321,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,378,,,,378,,1197,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,1484150,,,,1484150,,905923,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,2052,,,,2052,,4491,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,860,Uzbekistan,UZB,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,42000,,,,42000,,62906,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,714,"Manioc, arrowroot, salep, Jerusalem artichokes, and sweet potatoes",8,Weight in kilograms,28061,,,,28061,,14642,,,0
+H4,2013,2013,2013,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,714,"Manioc, arrowroot, salep, Jerusalem artichokes, and sweet potatoes",8,Weight in kilograms,28061,,,,28061,,14642,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,701,Potatoes,8,Weight in kilograms,7625250,,,,7625250,,3408960,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,40,Austria,AUT,,,,,,,,701,Potatoes,8,Weight in kilograms,42500,,,,42500,,42996,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,56,Belgium,BEL,,,,,,,,701,Potatoes,8,Weight in kilograms,25000,,,,25000,,16954,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,203,Czechia,CZE,,,,,,,,701,Potatoes,8,Weight in kilograms,40000,,,,40000,,43340,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,701,Potatoes,8,Weight in kilograms,5334100,,,,5334100,,1427185,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,701,Potatoes,8,Weight in kilograms,166000,,,,166000,,129516,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,701,Potatoes,8,Weight in kilograms,267160,,,,267160,,67251,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,701,Potatoes,8,Weight in kilograms,1601160,,,,1601160,,1552934,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,701,Potatoes,8,Weight in kilograms,22000,,,,22000,,4950,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,826,United Kingdom,GBR,,,,,,,,701,Potatoes,8,Weight in kilograms,106250,,,,106250,,118563,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,701,Potatoes,8,Weight in kilograms,21080,,,,21080,,5270,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,702,Tomatoes,8,Weight in kilograms,139131,,,,139131,,336176,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,702,Tomatoes,8,Weight in kilograms,16781,,,,16781,,43269,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,702,Tomatoes,8,Weight in kilograms,175,,,,175,,455,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,702,Tomatoes,8,Weight in kilograms,113375,,,,113375,,286028,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,702,Tomatoes,8,Weight in kilograms,8800,,,,8800,,6424,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,8637145,,,,8637145,,3767819,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,37890,,,,37890,,46009,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,2913711,,,,2913711,,1285093,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,3080820,,,,3080820,,1324429,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,376,Israel,ISR,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,100,,,,100,,57,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,50,,,,50,,28,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,29,,,,29,,601,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,2015250,,,,2015250,,864010,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,589295,,,,589295,,247593,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,704,"Cabbages, cauliflowers, kohlrabi, and kale",8,Weight in kilograms,2859138,,,,2859138,,541945,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,704,"Cabbages, cauliflowers, kohlrabi, and kale",8,Weight in kilograms,40,,,,40,,244,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,704,"Cabbages, cauliflowers, kohlrabi, and kale",8,Weight in kilograms,821660,,,,821660,,147035,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,704,"Cabbages, cauliflowers, kohlrabi, and kale",8,Weight in kilograms,1935251,,,,1935251,,376277,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,704,"Cabbages, cauliflowers, kohlrabi, and kale",8,Weight in kilograms,100,,,,100,,42,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,704,"Cabbages, cauliflowers, kohlrabi, and kale",8,Weight in kilograms,316,,,,316,,2253,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,704,"Cabbages, cauliflowers, kohlrabi, and kale",8,Weight in kilograms,200,,,,200,,85,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,704,"Cabbages, cauliflowers, kohlrabi, and kale",8,Weight in kilograms,139,,,,139,,648,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,704,"Cabbages, cauliflowers, kohlrabi, and kale",8,Weight in kilograms,132,,,,132,,54,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,704,"Cabbages, cauliflowers, kohlrabi, and kale",8,Weight in kilograms,101300,,,,101300,,15306,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,705,Lettuce and chicory,8,Weight in kilograms,94,,,,94,,1135,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,705,Lettuce and chicory,8,Weight in kilograms,56,,,,56,,825,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,705,Lettuce and chicory,8,Weight in kilograms,38,,,,38,,310,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,706,"Carrots, turnips, salad beetroot, salsify, celeriac, and radishes",8,Weight in kilograms,200016,,,,200016,,84980,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,706,"Carrots, turnips, salad beetroot, salsify, celeriac, and radishes",8,Weight in kilograms,50,,,,50,,471,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,706,"Carrots, turnips, salad beetroot, salsify, celeriac, and radishes",8,Weight in kilograms,166535,,,,166535,,64985,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,706,"Carrots, turnips, salad beetroot, salsify, celeriac, and radishes",8,Weight in kilograms,81,,,,81,,534,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,706,"Carrots, turnips, salad beetroot, salsify, celeriac, and radishes",8,Weight in kilograms,35,,,,35,,616,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,706,"Carrots, turnips, salad beetroot, salsify, celeriac, and radishes",8,Weight in kilograms,1066,,,,1066,,6040,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,706,"Carrots, turnips, salad beetroot, salsify, celeriac, and radishes",8,Weight in kilograms,32250,,,,32250,,12335,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,707,Cucumbers and gherkins,8,Weight in kilograms,333871,,,,333871,,849711,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,707,Cucumbers and gherkins,8,Weight in kilograms,318955,,,,318955,,810789,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,707,Cucumbers and gherkins,8,Weight in kilograms,14916,,,,14916,,38922,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,708,Leguminous vegetables,8,Weight in kilograms,1183,,,,1183,,3158,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,708,Leguminous vegetables,8,Weight in kilograms,1060,,,,1060,,1751,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,320,Guatemala,GTM,,,,,,,,708,Leguminous vegetables,8,Weight in kilograms,3,,,,3,,30,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,404,Kenya,KEN,,,,,,,,708,Leguminous vegetables,8,Weight in kilograms,102,,,,102,,1171,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,716,Zimbabwe,ZWE,,,,,,,,708,Leguminous vegetables,8,Weight in kilograms,6,,,,6,,75,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,834,United Rep. of Tanzania,TZA,,,,,,,,708,Leguminous vegetables,8,Weight in kilograms,12,,,,12,,129,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,233619,,,,233619,,750337,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,112,Belarus,BLR,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,63,,,,63,,886,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,660,,,,660,,1934,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,203,Czechia,CZE,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,2170,,,,2170,,4340,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,214,Dominican Rep.,DOM,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,14,,,,14,,220,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,19,,,,19,,170,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,29361,,,,29361,,79209,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,48,,,,48,,464,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,133179,,,,133179,,398668,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,376,Israel,ISR,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,195,,,,195,,975,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,777,,,,777,,9190,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,404,Kenya,KEN,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,3,,,,3,,47,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,410,Rep. of Korea,KOR,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,3,,,,3,,76,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,458,Malaysia,MYS,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,280,,,,280,,813,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,484,Mexico,MEX,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,120,,,,120,,1271,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,504,Morocco,MAR,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,18,,,,18,,170,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,226,,,,226,,1788,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,470,,,,470,,5793,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,10,,,,10,,30,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,686,Senegal,SEN,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,8,,,,8,,87,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,1466,,,,1466,,3182,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,1078,,,,1078,,7146,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,92,,,,92,,1797,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,62468,,,,62468,,134760,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,800,Uganda,UGA,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,52,,,,52,,723,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,840,,,,840,,96600,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,710,Canned vegetables,8,Weight in kilograms,23711,,,,23711,,58037,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,56,Belgium,BEL,,,,,,,,710,Canned vegetables,8,Weight in kilograms,8000,,,,8000,,16382,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,112,Belarus,BLR,,,,,,,,710,Canned vegetables,8,Weight in kilograms,62,,,,62,,611,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,710,Canned vegetables,8,Weight in kilograms,380,,,,380,,627,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,710,Canned vegetables,8,Weight in kilograms,378,,,,378,,790,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,458,Malaysia,MYS,,,,,,,,710,Canned vegetables,8,Weight in kilograms,7000,,,,7000,,24501,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,616,Poland,POL,,,,,,,,710,Canned vegetables,8,Weight in kilograms,7886,,,,7886,,15103,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,710,Canned vegetables,8,Weight in kilograms,5,,,,5,,23,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,711,Preserved vegetables,8,Weight in kilograms,1438168,,,,1438168,,1386706,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,711,Preserved vegetables,8,Weight in kilograms,439760,,,,439760,,439414,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,711,Preserved vegetables,8,Weight in kilograms,7,,,,7,,33,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,711,Preserved vegetables,8,Weight in kilograms,58000,,,,58000,,69326,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,704,Viet Nam,VNM,,,,,,,,711,Preserved vegetables,8,Weight in kilograms,1,,,,1,,150,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,711,Preserved vegetables,8,Weight in kilograms,940400,,,,940400,,877783,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,712,Dried vegetables,8,Weight in kilograms,16615,,,,16615,,22890,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,56,Belgium,BEL,,,,,,,,712,Dried vegetables,8,Weight in kilograms,90,,,,90,,920,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,712,Dried vegetables,8,Weight in kilograms,15425,,,,15425,,17621,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,712,Dried vegetables,8,Weight in kilograms,5,,,,5,,60,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,712,Dried vegetables,8,Weight in kilograms,8,,,,8,,103,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,422,Lebanon,LBN,,,,,,,,712,Dried vegetables,8,Weight in kilograms,92,,,,92,,791,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,484,Mexico,MEX,,,,,,,,712,Dried vegetables,8,Weight in kilograms,3,,,,3,,28,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,712,Dried vegetables,8,Weight in kilograms,32,,,,32,,81,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,712,Dried vegetables,8,Weight in kilograms,860,,,,860,,2558,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,712,Dried vegetables,8,Weight in kilograms,100,,,,100,,711,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,712,Dried vegetables,8,Weight in kilograms,2,,,,2,,17,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,5075748,,,,5075748,,3871076,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,32,Argentina,ARG,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,46900,,,,46900,,42210,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,40,Austria,AUT,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,1800,,,,1800,,2228,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,124,Canada,CAN,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,1744950,,,,1744950,,1281617,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,75000,,,,75000,,119646,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,231,Ethiopia,ETH,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,24000,,,,24000,,27868,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,21790,,,,21790,,13074,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,24,,,,24,,95,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,422,Lebanon,LBN,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,6468,,,,6468,,12161,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,484,Mexico,MEX,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,22000,,,,22000,,27432,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,4,,,,4,,126,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,1486540,,,,1486540,,1135950,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,110001,,,,110001,,103153,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,15000,,,,15000,,20879,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,792,Turkey,TUR,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,816,,,,816,,2275,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,1252750,,,,1252750,,738527,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,27465,,,,27465,,34132,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,860,Uzbekistan,UZB,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,240240,,,,240240,,309703,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,714,"Manioc, arrowroot, salep, Jerusalem artichokes, and sweet potatoes",8,Weight in kilograms,60016,,,,60016,,34693,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,376,Israel,ISR,,,,,,,,714,"Manioc, arrowroot, salep, Jerusalem artichokes, and sweet potatoes",8,Weight in kilograms,5,,,,5,,50,,,0
+H4,2014,2014,2014,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,714,"Manioc, arrowroot, salep, Jerusalem artichokes, and sweet potatoes",8,Weight in kilograms,60011,,,,60011,,34643,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,701,Potatoes,8,Weight in kilograms,1568569,,,,1568569,,981736,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,701,Potatoes,8,Weight in kilograms,247000,,,,247000,,59531,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,701,Potatoes,8,Weight in kilograms,45000,,,,45000,,33981,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,701,Potatoes,8,Weight in kilograms,172000,,,,172000,,38703,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,701,Potatoes,8,Weight in kilograms,310224,,,,310224,,71100,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,701,Potatoes,8,Weight in kilograms,794345,,,,794345,,778422,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,701,Potatoes,8,Weight in kilograms,9362535,,,,9362535,,5078349,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,40,Austria,AUT,,,,,,,,701,Potatoes,8,Weight in kilograms,44000,,,,44000,,58080,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,124,Canada,CAN,,,,,,,,701,Potatoes,8,Weight in kilograms,125000,,,,125000,,106250,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,203,Czechia,CZE,,,,,,,,701,Potatoes,8,Weight in kilograms,18000,,,,18000,,19801,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,701,Potatoes,8,Weight in kilograms,80000,,,,80000,,75699,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,701,Potatoes,8,Weight in kilograms,102510,,,,102510,,24818,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,701,Potatoes,8,Weight in kilograms,291500,,,,291500,,224020,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,701,Potatoes,8,Weight in kilograms,1161100,,,,1161100,,276265,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,701,Potatoes,8,Weight in kilograms,2451840,,,,2451840,,600058,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,701,Potatoes,8,Weight in kilograms,2790275,,,,2790275,,3023707,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,586,Pakistan,PAK,,,,,,,,701,Potatoes,8,Weight in kilograms,2245610,,,,2245610,,657794,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,701,Potatoes,8,Weight in kilograms,52700,,,,52700,,11858,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,701,Potatoes,8,Weight in kilograms,5098831,,,,5098831,,3796934,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,40,Austria,AUT,,,,,,,,701,Potatoes,8,Weight in kilograms,41625,,,,41625,,29970,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,203,Czechia,CZE,,,,,,,,701,Potatoes,8,Weight in kilograms,43500,,,,43500,,37923,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,701,Potatoes,8,Weight in kilograms,50000,,,,50000,,52336,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,701,Potatoes,8,Weight in kilograms,21300,,,,21300,,6286,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,701,Potatoes,8,Weight in kilograms,701200,,,,701200,,561904,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,701,Potatoes,8,Weight in kilograms,50380,,,,50380,,11336,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,701,Potatoes,8,Weight in kilograms,1382711,,,,1382711,,347980,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,701,Potatoes,8,Weight in kilograms,2710635,,,,2710635,,2702676,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,586,Pakistan,PAK,,,,,,,,701,Potatoes,8,Weight in kilograms,96880,,,,96880,,45523,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,826,United Kingdom,GBR,,,,,,,,701,Potatoes,8,Weight in kilograms,600,,,,600,,1000,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,702,Tomatoes,8,Weight in kilograms,230607,,,,230607,,578338,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,56,Belgium,BEL,,,,,,,,702,Tomatoes,8,Weight in kilograms,25,,,,25,,63,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,702,Tomatoes,8,Weight in kilograms,66015,,,,66015,,166954,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,702,Tomatoes,8,Weight in kilograms,116870,,,,116870,,292183,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,702,Tomatoes,8,Weight in kilograms,41270,,,,41270,,103046,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,702,Tomatoes,8,Weight in kilograms,1,,,,1,,26,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,702,Tomatoes,8,Weight in kilograms,11,,,,11,,28,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,702,Tomatoes,8,Weight in kilograms,15,,,,15,,38,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,702,Tomatoes,8,Weight in kilograms,6400,,,,6400,,16000,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,702,Tomatoes,8,Weight in kilograms,244382,,,,244382,,583230,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,702,Tomatoes,8,Weight in kilograms,87359,,,,87359,,220331,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,702,Tomatoes,8,Weight in kilograms,135905,,,,135905,,341564,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,702,Tomatoes,8,Weight in kilograms,2290,,,,2290,,7269,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,702,Tomatoes,8,Weight in kilograms,15,,,,15,,38,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,702,Tomatoes,8,Weight in kilograms,150,,,,150,,376,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,702,Tomatoes,8,Weight in kilograms,18663,,,,18663,,13652,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,702,Tomatoes,8,Weight in kilograms,237189,,,,237189,,596579,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,702,Tomatoes,8,Weight in kilograms,121628,,,,121628,,304074,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,702,Tomatoes,8,Weight in kilograms,115561,,,,115561,,292505,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,10356418,,,,10356418,,4469023,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,61339,,,,61339,,77467,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,1027410,,,,1027410,,463206,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,1261465,,,,1261465,,523590,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,7894124,,,,7894124,,3346932,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,37500,,,,37500,,16931,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,784,United Arab Emirates,ARE,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,20580,,,,20580,,24697,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,54000,,,,54000,,16201,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,10631434,,,,10631434,,5039731,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,44000,,,,44000,,52801,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,2769817,,,,2769817,,1256915,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,3119260,,,,3119260,,1472242,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,4460797,,,,4460797,,2147554,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,586,Pakistan,PAK,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,22100,,,,22100,,13260,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,1500,,,,1500,,675,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,213960,,,,213960,,96284,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,8068499,,,,8068499,,3471962,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,200,,,,200,,200,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,1549480,,,,1549480,,697103,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,2099680,,,,2099680,,897959,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,4301219,,,,4301219,,1828913,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,30,,,,30,,62,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,75940,,,,75940,,31893,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,703,"Onions, shallots, garlic and leeks",8,Weight in kilograms,41950,,,,41950,,15833,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,704,"Cabbages, cauliflowers, kohlrabi, and kale",8,Weight in kilograms,430,,,,430,,159,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,704,"Cabbages, cauliflowers, kohlrabi, and kale",8,Weight in kilograms,0,,,,0,,4,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,704,"Cabbages, cauliflowers, kohlrabi, and kale",8,Weight in kilograms,430,,,,430,,68,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,704,"Cabbages, cauliflowers, kohlrabi, and kale",8,Weight in kilograms,0,,,,0,,50,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,704,"Cabbages, cauliflowers, kohlrabi, and kale",8,Weight in kilograms,0,,,,0,,37,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,704,"Cabbages, cauliflowers, kohlrabi, and kale",8,Weight in kilograms,152040,,,,152040,,31912,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,704,"Cabbages, cauliflowers, kohlrabi, and kale",8,Weight in kilograms,117760,,,,117760,,23710,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,704,"Cabbages, cauliflowers, kohlrabi, and kale",8,Weight in kilograms,500,,,,500,,690,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,704,"Cabbages, cauliflowers, kohlrabi, and kale",8,Weight in kilograms,33460,,,,33460,,7053,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,616,Poland,POL,,,,,,,,704,"Cabbages, cauliflowers, kohlrabi, and kale",8,Weight in kilograms,320,,,,320,,459,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,704,"Cabbages, cauliflowers, kohlrabi, and kale",8,Weight in kilograms,81355,,,,81355,,16667,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,704,"Cabbages, cauliflowers, kohlrabi, and kale",8,Weight in kilograms,78080,,,,78080,,13859,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,704,"Cabbages, cauliflowers, kohlrabi, and kale",8,Weight in kilograms,2300,,,,2300,,858,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,704,"Cabbages, cauliflowers, kohlrabi, and kale",8,Weight in kilograms,15,,,,15,,254,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,616,Poland,POL,,,,,,,,704,"Cabbages, cauliflowers, kohlrabi, and kale",8,Weight in kilograms,320,,,,320,,621,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,704,"Cabbages, cauliflowers, kohlrabi, and kale",8,Weight in kilograms,40,,,,40,,57,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,784,United Arab Emirates,ARE,,,,,,,,704,"Cabbages, cauliflowers, kohlrabi, and kale",8,Weight in kilograms,600,,,,600,,1017,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,705,Lettuce and chicory,8,Weight in kilograms,183,,,,183,,255,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,705,Lettuce and chicory,8,Weight in kilograms,33,,,,33,,105,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,784,United Arab Emirates,ARE,,,,,,,,705,Lettuce and chicory,8,Weight in kilograms,150,,,,150,,150,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,706,"Carrots, turnips, salad beetroot, salsify, celeriac, and radishes",8,Weight in kilograms,200047,,,,200047,,85129,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,706,"Carrots, turnips, salad beetroot, salsify, celeriac, and radishes",8,Weight in kilograms,109955,,,,109955,,45959,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,706,"Carrots, turnips, salad beetroot, salsify, celeriac, and radishes",8,Weight in kilograms,35850,,,,35850,,13445,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,706,"Carrots, turnips, salad beetroot, salsify, celeriac, and radishes",8,Weight in kilograms,54242,,,,54242,,25724,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,706,"Carrots, turnips, salad beetroot, salsify, celeriac, and radishes",8,Weight in kilograms,12,,,,12,,234,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,710,South Africa,ZAF,,,,,,,,706,"Carrots, turnips, salad beetroot, salsify, celeriac, and radishes",8,Weight in kilograms,12,,,,12,,234,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,707,Cucumbers and gherkins,8,Weight in kilograms,431310,,,,431310,,1124232,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,707,Cucumbers and gherkins,8,Weight in kilograms,11175,,,,11175,,30021,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,707,Cucumbers and gherkins,8,Weight in kilograms,36580,,,,36580,,95121,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,707,Cucumbers and gherkins,8,Weight in kilograms,373810,,,,373810,,973752,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,707,Cucumbers and gherkins,8,Weight in kilograms,9745,,,,9745,,25337,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,707,Cucumbers and gherkins,8,Weight in kilograms,400846,,,,400846,,1116191,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,707,Cucumbers and gherkins,8,Weight in kilograms,29187,,,,29187,,78458,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,707,Cucumbers and gherkins,8,Weight in kilograms,96230,,,,96230,,250271,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,707,Cucumbers and gherkins,8,Weight in kilograms,275429,,,,275429,,787462,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,707,Cucumbers and gherkins,8,Weight in kilograms,339050,,,,339050,,890370,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,707,Cucumbers and gherkins,8,Weight in kilograms,29930,,,,29930,,77848,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,707,Cucumbers and gherkins,8,Weight in kilograms,309120,,,,309120,,812522,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,708,Leguminous vegetables,8,Weight in kilograms,3121,,,,3121,,5334,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,708,Leguminous vegetables,8,Weight in kilograms,2556,,,,2556,,4430,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,708,Leguminous vegetables,8,Weight in kilograms,565,,,,565,,904,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,708,Leguminous vegetables,8,Weight in kilograms,1230,,,,1230,,1553,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,708,Leguminous vegetables,8,Weight in kilograms,950,,,,950,,1245,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,708,Leguminous vegetables,8,Weight in kilograms,280,,,,280,,308,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,708,Leguminous vegetables,8,Weight in kilograms,519,,,,519,,1681,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,708,Leguminous vegetables,8,Weight in kilograms,400,,,,400,,397,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,404,Kenya,KEN,,,,,,,,708,Leguminous vegetables,8,Weight in kilograms,113,,,,113,,1207,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,708,Leguminous vegetables,8,Weight in kilograms,6,,,,6,,77,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,219646,,,,219646,,501560,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,47,,,,47,,702,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,53026,,,,53026,,109065,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,10,,,,10,,118,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,110412,,,,110412,,229215,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,54758,,,,54758,,158252,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,12,,,,12,,56,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,580,,,,580,,1682,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,1,,,,1,,130,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,800,,,,800,,2340,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,411697,,,,411697,,969842,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,11040,,,,11040,,43057,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,3,,,,3,,217,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,185905,,,,185905,,402868,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,145395,,,,145395,,311684,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,56474,,,,56474,,200114,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,504,Morocco,MAR,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,2,,,,2,,73,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,4,,,,4,,40,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,899,"Areas, nes",,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,12874,,,,12874,,11789,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,208339,,,,208339,,523327,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,7775,,,,7775,,27319,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,35735,,,,35735,,82540,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,84608,,,,84608,,170608,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,76213,,,,76213,,224090,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,376,Israel,ISR,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,410,,,,410,,1536,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,320,,,,320,,1702,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,176,,,,176,,1969,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,220,,,,220,,686,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,704,Viet Nam,VNM,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,20,,,,20,,495,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,1060,,,,1060,,3582,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,12,,,,12,,220,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,784,United Arab Emirates,ARE,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,1650,,,,1650,,5441,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,826,United Kingdom,GBR,,,,,,,,709,"Other vegetables (Eggplants, Asparagus, Celery, Mushrooms etc.)",8,Weight in kilograms,140,,,,140,,3139,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,710,Canned vegetables,8,Weight in kilograms,7452,,,,7452,,17783,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,710,Canned vegetables,8,Weight in kilograms,1050,,,,1050,,3045,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,710,Canned vegetables,8,Weight in kilograms,3350,,,,3350,,9716,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,710,Canned vegetables,8,Weight in kilograms,658,,,,658,,1801,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,616,Poland,POL,,,,,,,,710,Canned vegetables,8,Weight in kilograms,2394,,,,2394,,3220,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,710,Canned vegetables,8,Weight in kilograms,46129,,,,46129,,88650,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,112,Belarus,BLR,,,,,,,,710,Canned vegetables,8,Weight in kilograms,484,,,,484,,5709,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,710,Canned vegetables,8,Weight in kilograms,48,,,,48,,152,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,348,Hungary,HUN,,,,,,,,710,Canned vegetables,8,Weight in kilograms,21100,,,,21100,,27016,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,458,Malaysia,MYS,,,,,,,,710,Canned vegetables,8,Weight in kilograms,6000,,,,6000,,20998,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,710,Canned vegetables,8,Weight in kilograms,1237,,,,1237,,3432,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,616,Poland,POL,,,,,,,,710,Canned vegetables,8,Weight in kilograms,16261,,,,16261,,28943,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,710,Canned vegetables,8,Weight in kilograms,1000,,,,1000,,2400,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,710,Canned vegetables,8,Weight in kilograms,40974,,,,40974,,110999,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,112,Belarus,BLR,,,,,,,,710,Canned vegetables,8,Weight in kilograms,56,,,,56,,178,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,458,Malaysia,MYS,,,,,,,,710,Canned vegetables,8,Weight in kilograms,23000,,,,23000,,80501,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,616,Poland,POL,,,,,,,,710,Canned vegetables,8,Weight in kilograms,17814,,,,17814,,30039,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,710,Canned vegetables,8,Weight in kilograms,104,,,,104,,280,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,711,Preserved vegetables,8,Weight in kilograms,1449242,,,,1449242,,1353094,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,711,Preserved vegetables,8,Weight in kilograms,671200,,,,671200,,693705,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,711,Preserved vegetables,8,Weight in kilograms,1700,,,,1700,,4250,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,711,Preserved vegetables,8,Weight in kilograms,772800,,,,772800,,653048,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,711,Preserved vegetables,8,Weight in kilograms,3542,,,,3542,,2090,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,711,Preserved vegetables,8,Weight in kilograms,1310439,,,,1310439,,1211708,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,112,Belarus,BLR,,,,,,,,711,Preserved vegetables,8,Weight in kilograms,12,,,,12,,99,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,711,Preserved vegetables,8,Weight in kilograms,1194752,,,,1194752,,1106741,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,711,Preserved vegetables,8,Weight in kilograms,475,,,,475,,1188,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,711,Preserved vegetables,8,Weight in kilograms,115200,,,,115200,,103680,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,711,Preserved vegetables,8,Weight in kilograms,1789518,,,,1789518,,1603463,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,711,Preserved vegetables,8,Weight in kilograms,220190,,,,220190,,260118,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,711,Preserved vegetables,8,Weight in kilograms,8,,,,8,,156,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,818,Egypt,EGY,,,,,,,,711,Preserved vegetables,8,Weight in kilograms,1569320,,,,1569320,,1343189,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,712,Dried vegetables,8,Weight in kilograms,17984,,,,17984,,42970,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,152,Chile,CHL,,,,,,,,712,Dried vegetables,8,Weight in kilograms,10,,,,10,,97,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,712,Dried vegetables,8,Weight in kilograms,11844,,,,11844,,31699,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,712,Dried vegetables,8,Weight in kilograms,6,,,,6,,635,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,712,Dried vegetables,8,Weight in kilograms,4525,,,,4525,,5478,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,712,Dried vegetables,8,Weight in kilograms,160,,,,160,,516,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,712,Dried vegetables,8,Weight in kilograms,96,,,,96,,224,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,704,Viet Nam,VNM,,,,,,,,712,Dried vegetables,8,Weight in kilograms,250,,,,250,,250,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,712,Dried vegetables,8,Weight in kilograms,900,,,,900,,1771,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,784,United Arab Emirates,ARE,,,,,,,,712,Dried vegetables,8,Weight in kilograms,120,,,,120,,548,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,712,Dried vegetables,8,Weight in kilograms,9,,,,9,,72,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,712,Dried vegetables,8,Weight in kilograms,64,,,,64,,1679,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,712,Dried vegetables,8,Weight in kilograms,135562,,,,135562,,117640,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,712,Dried vegetables,8,Weight in kilograms,132198,,,,132198,,107480,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,712,Dried vegetables,8,Weight in kilograms,26,,,,26,,1657,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,300,Greece,GRC,,,,,,,,712,Dried vegetables,8,Weight in kilograms,1500,,,,1500,,3750,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,712,Dried vegetables,8,Weight in kilograms,252,,,,252,,900,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,712,Dried vegetables,8,Weight in kilograms,12,,,,12,,675,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,712,Dried vegetables,8,Weight in kilograms,97,,,,97,,672,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,712,Dried vegetables,8,Weight in kilograms,1440,,,,1440,,2295,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,784,United Arab Emirates,ARE,,,,,,,,712,Dried vegetables,8,Weight in kilograms,37,,,,37,,210,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,712,Dried vegetables,8,Weight in kilograms,74453,,,,74453,,77207,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,712,Dried vegetables,8,Weight in kilograms,54767,,,,54767,,52206,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,712,Dried vegetables,8,Weight in kilograms,107,,,,107,,735,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,712,Dried vegetables,8,Weight in kilograms,21,,,,21,,637,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,348,Hungary,HUN,,,,,,,,712,Dried vegetables,8,Weight in kilograms,2,,,,2,,66,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,712,Dried vegetables,8,Weight in kilograms,1350,,,,1350,,1781,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,712,Dried vegetables,8,Weight in kilograms,18118,,,,18118,,20770,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,724,Spain,ESP,,,,,,,,712,Dried vegetables,8,Weight in kilograms,5,,,,5,,149,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,712,Dried vegetables,8,Weight in kilograms,75,,,,75,,676,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,712,Dried vegetables,8,Weight in kilograms,8,,,,8,,186,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,6305512,,,,6305512,,3938399,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,32,Argentina,ARG,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,59450,,,,59450,,30515,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,124,Canada,CAN,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,2285316,,,,2285316,,1592208,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,1499159,,,,1499159,,929231,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,348,Hungary,HUN,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,19994,,,,19994,,33003,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,225003,,,,225003,,133461,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,417,Kyrgyzstan,KGZ,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,1890,,,,1890,,4779,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,476866,,,,476866,,259837,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,88975,,,,88975,,73160,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,1170,,,,1170,,2287,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,784,United Arab Emirates,ARE,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,105,,,,105,,170,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,1603850,,,,1603850,,823100,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,9735,,,,9735,,34088,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,860,Uzbekistan,UZB,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,34000,,,,34000,,22560,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,5867254,,,,5867254,,4712273,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,32,Argentina,ARG,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,93000,,,,93000,,95546,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,36,Australia,AUS,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,1000,,,,1000,,1701,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,56,Belgium,BEL,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,21000,,,,21000,,25201,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,104,Myanmar,MMR,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,6000,,,,6000,,5851,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,124,Canada,CAN,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,2151822,,,,2151822,,1669992,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,1190583,,,,1190583,,1142839,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,22,,,,22,,205,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,268,Georgia,GEO,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,360,,,,360,,393,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,56080,,,,56080,,51718,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,16,,,,16,,78,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,528,Netherlands,NLD,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,3,,,,3,,378,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,600806,,,,600806,,498211,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,29350,,,,29350,,28601,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,10794,,,,10794,,16855,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,764,Thailand,THA,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,21990,,,,21990,,21990,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,784,United Arab Emirates,ARE,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,40,,,,40,,100,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,1544075,,,,1544075,,988332,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,826,United Kingdom,GBR,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,1000,,,,1000,,1401,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,61313,,,,61313,,96824,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,860,Uzbekistan,UZB,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,78000,,,,78000,,66059,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,4048988,,,,4048988,,3037095,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,32,Argentina,ARG,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,24000,,,,24000,,24000,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,36,Australia,AUS,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,22900,,,,22900,,20610,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,104,Myanmar,MMR,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,28562,,,,28562,,29712,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,124,Canada,CAN,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,657481,,,,657481,,476399,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,68801,,,,68801,,70865,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,22,,,,22,,174,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,276,Germany,DEU,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,20,,,,20,,118,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,348,Hungary,HUN,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,12952,,,,12952,,23846,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,364,Iran,IRN,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,86888,,,,86888,,78336,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,381,Italy,ITA,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,74,,,,74,,415,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,404,Kenya,KEN,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,12,,,,12,,130,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,417,Kyrgyzstan,KGZ,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,22000,,,,22000,,28623,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,458,Malaysia,MYS,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,200,,,,200,,123,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,484,Mexico,MEX,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,2500,,,,2500,,2900,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,604,Peru,PER,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,500,,,,500,,1250,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,1603922,,,,1603922,,1232173,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,699,India,IND,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,26002,,,,26002,,23703,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,760,Syria,SYR,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,2115,,,,2115,,1745,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,804,Ukraine,UKR,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,1402075,,,,1402075,,899781,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,826,United Kingdom,GBR,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,1500,,,,1500,,2250,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,842,USA,USA,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,46463,,,,46463,,60841,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,860,Uzbekistan,UZB,,,,,,,,713,Shelled leguminous vegetables,8,Weight in kilograms,40000,,,,40000,,59100,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,714,"Manioc, arrowroot, salep, Jerusalem artichokes, and sweet potatoes",8,Weight in kilograms,1715,,,,1715,,4021,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,156,China,CHN,,,,,,,,714,"Manioc, arrowroot, salep, Jerusalem artichokes, and sweet potatoes",8,Weight in kilograms,1600,,,,1600,,2720,,,0
+H3,2010,2010,2010,4,0,1,Import,51,Armenia,ARM,410,Rep. of Korea,KOR,,,,,,,,714,"Manioc, arrowroot, salep, Jerusalem artichokes, and sweet potatoes",8,Weight in kilograms,115,,,,115,,1301,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,714,"Manioc, arrowroot, salep, Jerusalem artichokes, and sweet potatoes",8,Weight in kilograms,75,,,,75,,1480,,,0
+H3,2011,2011,2011,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,714,"Manioc, arrowroot, salep, Jerusalem artichokes, and sweet potatoes",8,Weight in kilograms,75,,,,75,,1480,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,714,"Manioc, arrowroot, salep, Jerusalem artichokes, and sweet potatoes",8,Weight in kilograms,39,,,,39,,807,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,251,France,FRA,,,,,,,,714,"Manioc, arrowroot, salep, Jerusalem artichokes, and sweet potatoes",8,Weight in kilograms,5,,,,5,,69,,,0
+H3,2012,2012,2012,4,0,1,Import,51,Armenia,ARM,643,Russian Federation,RUS,,,,,,,,714,"Manioc, arrowroot, salep, Jerusalem artichokes, and sweet potatoes",8,Weight in kilograms,34,,,,34,,738,,,0
