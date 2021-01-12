@@ -1,241 +1,241 @@
 Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
-H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070110,"Vegetables; seed potatoes, fresh or chilled",8,Weight in kilograms,1575435,,,,1575435,,1092300,,,0
-H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070190,"Vegetables; potatoes (other than seed), fresh or chilled",8,Weight in kilograms,202445,,,,202445,,61569,,,0
-H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070200,"Vegetables; tomatoes, fresh or chilled",8,Weight in kilograms,400,,,,400,,1320,,,0
-H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070310,"Vegetables, alliaceous; onions and shallots, fresh or chilled",8,Weight in kilograms,4926661,,,,4926661,,1154195,,,0
-H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070320,"Vegetables, alliaceous; garlic, fresh or chilled",8,Weight in kilograms,122415,,,,122415,,125910,,,0
-H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070410,"Vegetables, brassica; cauliflowers and headed broccoli, fresh or chilled",8,Weight in kilograms,3310,,,,3310,,5354,,,0
-H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070420,"Vegetables, brassica; brussel sprouts, fresh or chilled",8,Weight in kilograms,1850,,,,1850,,3468,,,0
-H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070490,"Vegetables, brassica; edible, n.e.c. in heading no. 0704, fresh or chilled",8,Weight in kilograms,862947,,,,862947,,115365,,,0
-H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070610,"Vegetables, root; carrots and turnips, fresh or chilled",8,Weight in kilograms,2105682,,,,2105682,,563376,,,0
-H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070690,"Vegetables, root; salad beetroot, salsify, celeric, radishes and similar edible roots, fresh or chilled",8,Weight in kilograms,1660,,,,1660,,6096,,,0
-H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070700,"Vegetables; cucumbers and gherkins, fresh or chilled",8,Weight in kilograms,179896,,,,179896,,347130,,,0
-H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070810,"Vegetables, leguminous; peas (pisum sativum), shelled or unshelled, fresh or chilled",8,Weight in kilograms,107961,,,,107961,,28307,,,0
-H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070820,"Vegetables, leguminous; beans (vigna spp., phaseolus spp.), shelled or unshelled, fresh or chilled",8,Weight in kilograms,3584,,,,3584,,6070,,,0
-H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070890,"Vegetables, leguminous; (other than peas and beans), shelled or unshelled, fresh or chilled",8,Weight in kilograms,24280,,,,24280,,7997,,,0
-H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070110,"Vegetables; seed potatoes, fresh or chilled",8,Weight in kilograms,1937320,,,,1937320,,1540851,,,0
-H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070190,"Vegetables; potatoes (other than seed), fresh or chilled",8,Weight in kilograms,84832,,,,84832,,25317,,,0
-H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070200,"Vegetables; tomatoes, fresh or chilled",8,Weight in kilograms,2589041,,,,2589041,,1057857,,,0
-H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070310,"Vegetables, alliaceous; onions and shallots, fresh or chilled",8,Weight in kilograms,4400820,,,,4400820,,724078,,,0
-H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070320,"Vegetables, alliaceous; garlic, fresh or chilled",8,Weight in kilograms,97312,,,,97312,,96216,,,0
-H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070390,"Vegetables, alliaceous; leeks and other kinds n.e.c. in heading no. 0703, fresh or chilled",8,Weight in kilograms,958,,,,958,,2009,,,0
-H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070410,"Vegetables, brassica; cauliflowers and headed broccoli, fresh or chilled",8,Weight in kilograms,141568,,,,141568,,161587,,,0
-H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070420,"Vegetables, brassica; brussel sprouts, fresh or chilled",8,Weight in kilograms,985,,,,985,,2291,,,0
-H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070490,"Vegetables, brassica; edible, n.e.c. in heading no. 0704, fresh or chilled",8,Weight in kilograms,1572320,,,,1572320,,365002,,,0
-H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070511,"Vegetables; cabbage (head) lettuce (lactuca sativa), fresh or chilled",8,Weight in kilograms,181,,,,181,,1154,,,0
-H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070610,"Vegetables, root; carrots and turnips, fresh or chilled",8,Weight in kilograms,2998266,,,,2998266,,822754,,,0
-H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070690,"Vegetables, root; salad beetroot, salsify, celeric, radishes and similar edible roots, fresh or chilled",8,Weight in kilograms,297663,,,,297663,,87820,,,0
-H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070700,"Vegetables; cucumbers and gherkins, fresh or chilled",8,Weight in kilograms,592471,,,,592471,,1089453,,,0
-H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070810,"Vegetables, leguminous; peas (pisum sativum), shelled or unshelled, fresh or chilled",8,Weight in kilograms,87918,,,,87918,,29790,,,0
-H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070820,"Vegetables, leguminous; beans (vigna spp., phaseolus spp.), shelled or unshelled, fresh or chilled",8,Weight in kilograms,773,,,,773,,1302,,,0
-H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070890,"Vegetables, leguminous; (other than peas and beans), shelled or unshelled, fresh or chilled",8,Weight in kilograms,117,,,,117,,547,,,0
-H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070110,"Vegetables; seed potatoes, fresh or chilled",8,Weight in kilograms,1720490,,,,1720490,,1268067,,,0
-H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070190,"Vegetables; potatoes (other than seed), fresh or chilled",8,Weight in kilograms,2512436,,,,2512436,,497831,,,0
-H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070200,"Vegetables; tomatoes, fresh or chilled",8,Weight in kilograms,3756936,,,,3756936,,2331573,,,0
-H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070310,"Vegetables, alliaceous; onions and shallots, fresh or chilled",8,Weight in kilograms,5531421,,,,5531421,,1448393,,,0
-H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070320,"Vegetables, alliaceous; garlic, fresh or chilled",8,Weight in kilograms,55244,,,,55244,,46252,,,0
-H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070390,"Vegetables, alliaceous; leeks and other kinds n.e.c. in heading no. 0703, fresh or chilled",8,Weight in kilograms,1946,,,,1946,,5430,,,0
-H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070410,"Vegetables, brassica; cauliflowers and headed broccoli, fresh or chilled",8,Weight in kilograms,261656,,,,261656,,199989,,,0
-H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070420,"Vegetables, brassica; brussel sprouts, fresh or chilled",8,Weight in kilograms,2480,,,,2480,,5256,,,0
-H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070490,"Vegetables, brassica; edible, n.e.c. in heading no. 0704, fresh or chilled",8,Weight in kilograms,2451849,,,,2451849,,464883,,,0
-H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070511,"Vegetables; cabbage (head) lettuce (lactuca sativa), fresh or chilled",8,Weight in kilograms,369200,,,,369200,,77808,,,0
-H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070521,"Vegetables; witloff chicory (cichorium intybus var. foliosum), fresh or chilled",8,Weight in kilograms,69,,,,69,,594,,,0
-H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070610,"Vegetables, root; carrots and turnips, fresh or chilled",8,Weight in kilograms,3688716,,,,3688716,,877003,,,0
-H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070690,"Vegetables, root; salad beetroot, salsify, celeric, radishes and similar edible roots, fresh or chilled",8,Weight in kilograms,653354,,,,653354,,94015,,,0
-H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070700,"Vegetables; cucumbers and gherkins, fresh or chilled",8,Weight in kilograms,1603656,,,,1603656,,1332098,,,0
-H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070810,"Vegetables, leguminous; peas (pisum sativum), shelled or unshelled, fresh or chilled",8,Weight in kilograms,259009,,,,259009,,37714,,,0
-H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070820,"Vegetables, leguminous; beans (vigna spp., phaseolus spp.), shelled or unshelled, fresh or chilled",8,Weight in kilograms,2349,,,,2349,,2518,,,0
-H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070890,"Vegetables, leguminous; (other than peas and beans), shelled or unshelled, fresh or chilled",8,Weight in kilograms,1048,,,,1048,,1881,,,0
-H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070110,"Vegetables; seed potatoes, fresh or chilled",8,Weight in kilograms,2009870,,,,2009870,,1189044,,,0
-H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070190,"Vegetables; potatoes (other than seed), fresh or chilled",8,Weight in kilograms,91899,,,,91899,,28199,,,0
-H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070200,"Vegetables; tomatoes, fresh or chilled",8,Weight in kilograms,139147,,,,139147,,324844,,,0
-H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070310,"Vegetables, alliaceous; onions and shallots, fresh or chilled",8,Weight in kilograms,7292413,,,,7292413,,3099106,,,0
-H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070320,"Vegetables, alliaceous; garlic, fresh or chilled",8,Weight in kilograms,12805,,,,12805,,15559,,,0
-H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070390,"Vegetables, alliaceous; leeks and other kinds n.e.c. in heading no. 0703, fresh or chilled",8,Weight in kilograms,45920,,,,45920,,15416,,,0
-H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070410,"Vegetables, brassica; cauliflowers and headed broccoli, fresh or chilled",8,Weight in kilograms,2309,,,,2309,,6211,,,0
-H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070490,"Vegetables, brassica; edible, n.e.c. in heading no. 0704, fresh or chilled",8,Weight in kilograms,565866,,,,565866,,96272,,,0
-H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070519,"Vegetables; lettuce (lactuca sativa), (other than cabbage lettuce), fresh or chilled",8,Weight in kilograms,15,,,,15,,233,,,0
-H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070521,"Vegetables; witloff chicory (cichorium intybus var. foliosum), fresh or chilled",8,Weight in kilograms,65,,,,65,,674,,,0
-H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070529,"Vegetables; chicory (cichorium spp.), (other than witloof chicory), fresh or chilled",8,Weight in kilograms,8,,,,8,,132,,,0
-H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070610,"Vegetables, root; carrots and turnips, fresh or chilled",8,Weight in kilograms,645382,,,,645382,,256390,,,0
-H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070690,"Vegetables, root; salad beetroot, salsify, celeric, radishes and similar edible roots, fresh or chilled",8,Weight in kilograms,1279,,,,1279,,5157,,,0
-H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070700,"Vegetables; cucumbers and gherkins, fresh or chilled",8,Weight in kilograms,314698,,,,314698,,830397,,,0
-H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070810,"Vegetables, leguminous; peas (pisum sativum), shelled or unshelled, fresh or chilled",8,Weight in kilograms,74,,,,74,,1006,,,0
-H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070820,"Vegetables, leguminous; beans (vigna spp., phaseolus spp.), shelled or unshelled, fresh or chilled",8,Weight in kilograms,148,,,,148,,1684,,,0
-H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070110,"Vegetables; seed potatoes, fresh or chilled",8,Weight in kilograms,7577460,,,,7577460,,3397680,,,0
-H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070190,"Vegetables; potatoes (other than seed), fresh or chilled",8,Weight in kilograms,47790,,,,47790,,11280,,,0
-H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070200,"Vegetables; tomatoes, fresh or chilled",8,Weight in kilograms,139131,,,,139131,,336176,,,0
-H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070310,"Vegetables, alliaceous; onions and shallots, fresh or chilled",8,Weight in kilograms,8556616,,,,8556616,,3669831,,,0
-H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070320,"Vegetables, alliaceous; garlic, fresh or chilled",8,Weight in kilograms,80510,,,,80510,,97589,,,0
-H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070390,"Vegetables, alliaceous; leeks and other kinds n.e.c. in heading no. 0703, fresh or chilled",8,Weight in kilograms,19,,,,19,,398,,,0
-H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070410,"Vegetables, brassica; cauliflowers and headed broccoli, fresh or chilled",8,Weight in kilograms,308,,,,308,,811,,,0
-H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070420,"Vegetables, brassica; brussel sprouts, fresh or chilled",8,Weight in kilograms,55,,,,55,,362,,,0
-H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070490,"Vegetables, brassica; edible, n.e.c. in heading no. 0704, fresh or chilled",8,Weight in kilograms,2858775,,,,2858775,,540773,,,0
-H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070511,"Vegetables; cabbage (head) lettuce (lactuca sativa), fresh or chilled",8,Weight in kilograms,10,,,,10,,98,,,0
-H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070519,"Vegetables; lettuce (lactuca sativa), (other than cabbage lettuce), fresh or chilled",8,Weight in kilograms,71,,,,71,,937,,,0
-H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070521,"Vegetables; witloff chicory (cichorium intybus var. foliosum), fresh or chilled",8,Weight in kilograms,13,,,,13,,100,,,0
-H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070610,"Vegetables, root; carrots and turnips, fresh or chilled",8,Weight in kilograms,198820,,,,198820,,77936,,,0
-H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070690,"Vegetables, root; salad beetroot, salsify, celeric, radishes and similar edible roots, fresh or chilled",8,Weight in kilograms,1197,,,,1197,,7045,,,0
-H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070700,"Vegetables; cucumbers and gherkins, fresh or chilled",8,Weight in kilograms,333871,,,,333871,,849711,,,0
-H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070810,"Vegetables, leguminous; peas (pisum sativum), shelled or unshelled, fresh or chilled",8,Weight in kilograms,18,,,,18,,214,,,0
-H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070820,"Vegetables, leguminous; beans (vigna spp., phaseolus spp.), shelled or unshelled, fresh or chilled",8,Weight in kilograms,1165,,,,1165,,2944,,,0
-H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070110,"Vegetables; seed potatoes, fresh or chilled",8,Weight in kilograms,3163034,,,,3163034,,2162680,,,0
-H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070190,"Vegetables; potatoes (other than seed), fresh or chilled",8,Weight in kilograms,224360,,,,224360,,39935,,,0
-H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070200,"Vegetables; tomatoes, fresh or chilled",8,Weight in kilograms,34873,,,,34873,,90767,,,0
-H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070310,"Vegetables, alliaceous; onions and shallots, fresh or chilled",8,Weight in kilograms,5904418,,,,5904418,,2239095,,,0
-H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070320,"Vegetables, alliaceous; garlic, fresh or chilled",8,Weight in kilograms,150735,,,,150735,,208401,,,0
-H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070390,"Vegetables, alliaceous; leeks and other kinds n.e.c. in heading no. 0703, fresh or chilled",8,Weight in kilograms,180,,,,180,,419,,,0
-H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070410,"Vegetables, brassica; cauliflowers and headed broccoli, fresh or chilled",8,Weight in kilograms,6906,,,,6906,,5739,,,0
-H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070420,"Vegetables, brassica; brussel sprouts, fresh or chilled",8,Weight in kilograms,265,,,,265,,1694,,,0
-H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070490,"Vegetables, brassica; edible, n.e.c. in heading no. 0704, fresh or chilled",8,Weight in kilograms,5824130,,,,5824130,,1165778,,,0
-H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070519,"Vegetables; lettuce (lactuca sativa), (other than cabbage lettuce), fresh or chilled",8,Weight in kilograms,307,,,,307,,2899,,,0
-H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070521,"Vegetables; witloff chicory (cichorium intybus var. foliosum), fresh or chilled",8,Weight in kilograms,122,,,,122,,702,,,0
-H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070610,"Vegetables, root; carrots and turnips, fresh or chilled",8,Weight in kilograms,838076,,,,838076,,332707,,,0
-H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070690,"Vegetables, root; salad beetroot, salsify, celeric, radishes and similar edible roots, fresh or chilled",8,Weight in kilograms,40797,,,,40797,,13012,,,0
-H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070700,"Vegetables; cucumbers and gherkins, fresh or chilled",8,Weight in kilograms,132705,,,,132705,,347508,,,0
-H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070810,"Vegetables, leguminous; peas (pisum sativum), shelled or unshelled, fresh or chilled",8,Weight in kilograms,123727,,,,123727,,32457,,,0
-H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070820,"Vegetables, leguminous; beans (vigna spp., phaseolus spp.), shelled or unshelled, fresh or chilled",8,Weight in kilograms,68,,,,68,,267,,,0
-H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070110,"Vegetables; seed potatoes, fresh or chilled",8,Weight in kilograms,2497510,,,,2497510,,1868874,,,0
-H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070190,"Vegetables; potatoes (other than seed), fresh or chilled",8,Weight in kilograms,1579864,,,,1579864,,591472,,,0
-H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070200,"Vegetables; tomatoes, fresh or chilled",8,Weight in kilograms,117072,,,,117072,,274983,,,0
-H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070310,"Vegetables, alliaceous; onions and shallots, fresh or chilled",8,Weight in kilograms,5068403,,,,5068403,,1188865,,,0
-H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070320,"Vegetables, alliaceous; garlic, fresh or chilled",8,Weight in kilograms,66475,,,,66475,,65657,,,0
-H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070390,"Vegetables, alliaceous; leeks and other kinds n.e.c. in heading no. 0703, fresh or chilled",8,Weight in kilograms,380,,,,380,,1114,,,0
-H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070410,"Vegetables, brassica; cauliflowers and headed broccoli, fresh or chilled",8,Weight in kilograms,11073,,,,11073,,17166,,,0
-H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070420,"Vegetables, brassica; brussel sprouts, fresh or chilled",8,Weight in kilograms,1330,,,,1330,,1388,,,0
-H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070490,"Vegetables, brassica; edible, n.e.c. in heading no. 0704, fresh or chilled",8,Weight in kilograms,480490,,,,480490,,67083,,,0
-H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070519,"Vegetables; lettuce (lactuca sativa), (other than cabbage lettuce), fresh or chilled",8,Weight in kilograms,91,,,,91,,1270,,,0
-H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070521,"Vegetables; witloff chicory (cichorium intybus var. foliosum), fresh or chilled",8,Weight in kilograms,73,,,,73,,436,,,0
-H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070610,"Vegetables, root; carrots and turnips, fresh or chilled",8,Weight in kilograms,1444552,,,,1444552,,492104,,,0
-H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070690,"Vegetables, root; salad beetroot, salsify, celeric, radishes and similar edible roots, fresh or chilled",8,Weight in kilograms,8863,,,,8863,,4837,,,0
-H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070700,"Vegetables; cucumbers and gherkins, fresh or chilled",8,Weight in kilograms,157032,,,,157032,,325174,,,0
-H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070810,"Vegetables, leguminous; peas (pisum sativum), shelled or unshelled, fresh or chilled",8,Weight in kilograms,107298,,,,107298,,107774,,,0
-H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070820,"Vegetables, leguminous; beans (vigna spp., phaseolus spp.), shelled or unshelled, fresh or chilled",8,Weight in kilograms,4794,,,,4794,,7755,,,0
-H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070890,"Vegetables, leguminous; (other than peas and beans), shelled or unshelled, fresh or chilled",8,Weight in kilograms,1076,,,,1076,,1216,,,0
-H3,2007,2007,2007,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070110,"Seed potatoes, fresh/chilled",8,Weight in kilograms,3577060,,,,3577060,,3269529,,,0
-H3,2007,2007,2007,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070190,"Potatoes other than seed potatoes, fresh/chilled",8,Weight in kilograms,2229363,,,,2229363,,359593,,,0
-H3,2007,2007,2007,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070200,"Tomatoes, fresh/chilled",8,Weight in kilograms,175442,,,,175442,,298398,,,0
-H3,2007,2007,2007,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070310,"Onions & shallots, fresh/chilled",8,Weight in kilograms,6402483,,,,6402483,,1992099,,,0
-H3,2007,2007,2007,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070320,"Garlic, fresh/chilled",8,Weight in kilograms,151586,,,,151586,,164757,,,0
-H3,2007,2007,2007,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070700,"Cucumbers & gherkins, fresh/chilled",8,Weight in kilograms,377218,,,,377218,,843896,,,0
-H3,2007,2007,2007,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070810,"Peas (Pisum sativum), shelled/unshelled, fresh/chilled",8,Weight in kilograms,2200,,,,2200,,991,,,0
-H3,2007,2007,2007,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070820,"Beans (Vigna spp., Phaseolus spp.), shelled/unshelled, fresh/chilled",8,Weight in kilograms,1920,,,,1920,,1152,,,0
-H3,2007,2007,2007,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070890,"Leguminous vegetables (excl. of 0708.10 & 0708.20), shelled/unshelled, fresh/chilled",8,Weight in kilograms,19700,,,,19700,,8865,,,0
-H3,2008,2008,2008,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070110,"Seed potatoes, fresh/chilled",8,Weight in kilograms,4122378,,,,4122378,,4593226,,,0
-H3,2008,2008,2008,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070190,"Potatoes other than seed potatoes, fresh/chilled",8,Weight in kilograms,146060,,,,146060,,49060,,,0
-H3,2008,2008,2008,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070200,"Tomatoes, fresh/chilled",8,Weight in kilograms,93793,,,,93793,,278907,,,0
-H3,2008,2008,2008,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070310,"Onions & shallots, fresh/chilled",8,Weight in kilograms,4554920,,,,4554920,,2413939,,,0
-H3,2008,2008,2008,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070320,"Garlic, fresh/chilled",8,Weight in kilograms,327220,,,,327220,,438549,,,0
-H3,2008,2008,2008,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070390,"Leeks & other alliaceous vegetables, fresh/chilled",8,Weight in kilograms,26,,,,26,,30,,,0
-H3,2008,2008,2008,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070410,"Cauliflowers & headed broccoli, fresh/chilled",8,Weight in kilograms,120,,,,120,,690,,,0
-H3,2008,2008,2008,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070420,"Brussels sprouts, fresh/chilled",8,Weight in kilograms,20,,,,20,,21,,,0
-H3,2008,2008,2008,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070490,"Cabbages, kohlrabi, kale & similar edible brassicas (excl. cauliflowers, headed broccoli & Brussels sprouts), fresh/chilled",8,Weight in kilograms,20500,,,,20500,,4273,,,0
-H3,2008,2008,2008,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070521,"Witloof chicory (Cichorium intybus var. foliosum), fresh/chilled",8,Weight in kilograms,12,,,,12,,35,,,0
-H3,2008,2008,2008,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070610,"Carrots & turnips, fresh/chilled",8,Weight in kilograms,2650,,,,2650,,1325,,,0
-H3,2008,2008,2008,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070700,"Cucumbers & gherkins, fresh/chilled",8,Weight in kilograms,161150,,,,161150,,508446,,,0
-H3,2009,2009,2009,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070110,"Seed potatoes, fresh/chilled",8,Weight in kilograms,801300,,,,801300,,744347,,,0
-H3,2009,2009,2009,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070200,"Tomatoes, fresh/chilled",8,Weight in kilograms,138250,,,,138250,,344787,,,0
-H3,2009,2009,2009,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070310,"Onions & shallots, fresh/chilled",8,Weight in kilograms,5359706,,,,5359706,,2485727,,,0
-H3,2009,2009,2009,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070320,"Garlic, fresh/chilled",8,Weight in kilograms,106666,,,,106666,,114545,,,0
-H3,2009,2009,2009,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070410,"Cauliflowers & headed broccoli, fresh/chilled",8,Weight in kilograms,440,,,,440,,921,,,0
-H3,2009,2009,2009,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070490,"Cabbages, kohlrabi, kale & similar edible brassicas (excl. cauliflowers, headed broccoli & Brussels sprouts), fresh/chilled",8,Weight in kilograms,207600,,,,207600,,41936,,,0
-H3,2009,2009,2009,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070519,Lettuce (Lactuca sativa) (excl. cabbage lettuce) fresh/chilled,8,Weight in kilograms,4,,,,4,,31,,,0
-H3,2009,2009,2009,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070610,"Carrots & turnips, fresh/chilled",8,Weight in kilograms,27600,,,,27600,,13803,,,0
-H3,2009,2009,2009,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070700,"Cucumbers & gherkins, fresh/chilled",8,Weight in kilograms,129060,,,,129060,,332237,,,0
-H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070110,"Seed potatoes, fresh/chilled",8,Weight in kilograms,839345,,,,839345,,812402,,,0
-H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070190,"Potatoes other than seed potatoes, fresh/chilled",8,Weight in kilograms,729224,,,,729224,,169334,,,0
-H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070200,"Tomatoes, fresh/chilled",8,Weight in kilograms,230607,,,,230607,,578338,,,0
-H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070310,"Onions & shallots, fresh/chilled",8,Weight in kilograms,10271119,,,,10271119,,4362352,,,0
-H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070320,"Garlic, fresh/chilled",8,Weight in kilograms,84699,,,,84699,,105710,,,0
-H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070390,"Leeks & other alliaceous vegetables, fresh/chilled",8,Weight in kilograms,600,,,,600,,961,,,0
-H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070410,"Cauliflowers & headed broccoli, fresh/chilled",8,Weight in kilograms,0,,,,0,,87,,,0
-H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070490,"Cabbages, kohlrabi, kale & similar edible brassicas (excl. cauliflowers, headed broccoli & Brussels sprouts), fresh/chilled",8,Weight in kilograms,430,,,,430,,72,,,0
-H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070700,"Cucumbers & gherkins, fresh/chilled",8,Weight in kilograms,431310,,,,431310,,1124232,,,0
-H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070820,"Beans (Vigna spp., Phaseolus spp.), shelled/unshelled, fresh/chilled",8,Weight in kilograms,3121,,,,3121,,5334,,,0
-H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070110,"Seed potatoes, fresh/chilled",8,Weight in kilograms,3348775,,,,3348775,,3507556,,,0
-H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070190,"Potatoes other than seed potatoes, fresh/chilled",8,Weight in kilograms,6013760,,,,6013760,,1570792,,,0
-H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070200,"Tomatoes, fresh/chilled",8,Weight in kilograms,244382,,,,244382,,583230,,,0
-H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070310,"Onions & shallots, fresh/chilled",8,Weight in kilograms,10583434,,,,10583434,,4981336,,,0
-H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070320,"Garlic, fresh/chilled",8,Weight in kilograms,48000,,,,48000,,58395,,,0
-H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070410,"Cauliflowers & headed broccoli, fresh/chilled",8,Weight in kilograms,2100,,,,2100,,1190,,,0
-H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070420,"Brussels sprouts, fresh/chilled",8,Weight in kilograms,320,,,,320,,459,,,0
-H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070490,"Cabbages, kohlrabi, kale & similar edible brassicas (excl. cauliflowers, headed broccoli & Brussels sprouts), fresh/chilled",8,Weight in kilograms,149620,,,,149620,,30262,,,0
-H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070610,"Carrots & turnips, fresh/chilled",8,Weight in kilograms,197097,,,,197097,,83884,,,0
-H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070690,"Salad beetroot, salsify, celeriac, radishes & similar edible roots (excl. carrots & turnips), fresh/chilled",8,Weight in kilograms,2950,,,,2950,,1245,,,0
-H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070700,"Cucumbers & gherkins, fresh/chilled",8,Weight in kilograms,400846,,,,400846,,1116191,,,0
-H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070820,"Beans (Vigna spp., Phaseolus spp.), shelled/unshelled, fresh/chilled",8,Weight in kilograms,1230,,,,1230,,1553,,,0
-H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070110,"Seed potatoes, fresh/chilled",8,Weight in kilograms,3547560,,,,3547560,,3385809,,,0
-H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070190,"Potatoes other than seed potatoes, fresh/chilled",8,Weight in kilograms,1551271,,,,1551271,,411125,,,0
-H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070200,"Tomatoes, fresh/chilled",8,Weight in kilograms,237189,,,,237189,,596579,,,0
-H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070310,"Onions & shallots, fresh/chilled",8,Weight in kilograms,8068269,,,,8068269,,3471700,,,0
-H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070320,"Garlic, fresh/chilled",8,Weight in kilograms,200,,,,200,,200,,,0
-H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070390,"Leeks & other alliaceous vegetables, fresh/chilled",8,Weight in kilograms,30,,,,30,,62,,,0
-H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070410,"Cauliflowers & headed broccoli, fresh/chilled",8,Weight in kilograms,3695,,,,3695,,1652,,,0
-H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070420,"Brussels sprouts, fresh/chilled",8,Weight in kilograms,320,,,,320,,621,,,0
-H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070490,"Cabbages, kohlrabi, kale & similar edible brassicas (excl. cauliflowers, headed broccoli & Brussels sprouts), fresh/chilled",8,Weight in kilograms,77340,,,,77340,,14393,,,0
-H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070511,"Cabbage lettuce (head lettuce), fresh/chilled",8,Weight in kilograms,183,,,,183,,255,,,0
-H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070610,"Carrots & turnips, fresh/chilled",8,Weight in kilograms,12,,,,12,,234,,,0
-H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070700,"Cucumbers & gherkins, fresh/chilled",8,Weight in kilograms,339050,,,,339050,,890370,,,0
-H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070810,"Peas (Pisum sativum), shelled/unshelled, fresh/chilled",8,Weight in kilograms,6,,,,6,,77,,,0
-H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070820,"Beans (Vigna spp., Phaseolus spp.), shelled/unshelled, fresh/chilled",8,Weight in kilograms,489,,,,489,,1344,,,0
-H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070890,"Leguminous vegetables (excl. of 0708.10 & 0708.20), shelled/unshelled, fresh/chilled",8,Weight in kilograms,24,,,,24,,260,,,0
-H2,2003,2003,2003,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070110,"Seed potatoes, fresh/chilled",8,Weight in kilograms,2831305,,,,2831305,,1838305,,,0
-H2,2003,2003,2003,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070190,"Potatoes other than seed potatoes, fresh/chilled",8,Weight in kilograms,21382,,,,21382,,5184,,,0
-H2,2003,2003,2003,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070200,"Tomatoes, fresh/chilled",8,Weight in kilograms,855,,,,855,,342,,,0
-H2,2003,2003,2003,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070310,"Onions & shallots, fresh/chilled",8,Weight in kilograms,102594,,,,102594,,10950,,,0
-H2,2003,2003,2003,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070320,"Garlic, fresh/chilled",8,Weight in kilograms,1830,,,,1830,,587,,,0
-H2,2003,2003,2003,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070700,"Cucumbers & gherkins, fresh/chilled",8,Weight in kilograms,5650,,,,5650,,2260,,,0
-H2,2004,2004,2004,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070110,"Seed potatoes, fresh/chilled",8,Weight in kilograms,1553326,,,,1553326,,1072145,,,0
-H2,2004,2004,2004,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070200,"Tomatoes, fresh/chilled",8,Weight in kilograms,93209,,,,93209,,36745,,,0
-H2,2004,2004,2004,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070310,"Onions & shallots, fresh/chilled",8,Weight in kilograms,3571884,,,,3571884,,349150,,,0
-H2,2004,2004,2004,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070320,"Garlic, fresh/chilled",8,Weight in kilograms,78639,,,,78639,,31476,,,0
-H2,2004,2004,2004,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070700,"Cucumbers & gherkins, fresh/chilled",8,Weight in kilograms,242782,,,,242782,,96973,,,0
-H2,2004,2004,2004,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070890,"Leguminous vegetables (excl. of 0708.10 & 0708.20), shelled/unshelled, fres ...",8,Weight in kilograms,108,,,,108,,32,,,0
-H2,2005,2005,2005,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070110,"Seed potatoes, fresh/chilled",8,Weight in kilograms,915128,,,,915128,,704133,,,0
-H2,2005,2005,2005,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070190,"Potatoes other than seed potatoes, fresh/chilled",8,Weight in kilograms,0,,,,0,,71,,,0
-H2,2005,2005,2005,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070200,"Tomatoes, fresh/chilled",8,Weight in kilograms,327278,,,,327278,,180790,,,0
-H2,2005,2005,2005,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070310,"Onions & shallots, fresh/chilled",8,Weight in kilograms,1243939,,,,1243939,,120785,,,0
-H2,2005,2005,2005,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070320,"Garlic, fresh/chilled",8,Weight in kilograms,33891,,,,33891,,17055,,,0
-H2,2005,2005,2005,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070700,"Cucumbers & gherkins, fresh/chilled",8,Weight in kilograms,310634,,,,310634,,154036,,,0
-H2,2005,2005,2005,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070810,"Peas (Pisum sativum), shelled/unshelled, fresh/chilled",8,Weight in kilograms,1848,,,,1848,,755,,,0
-H2,2005,2005,2005,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070820,"Beans (Vigna spp., Phaseolus spp.), shelled/unshelled, fresh/chilled",8,Weight in kilograms,549,,,,549,,353,,,0
-H2,2006,2006,2006,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070110,"Seed potatoes, fresh/chilled",8,Weight in kilograms,1630970,,,,1630970,,1326597,,,0
-H2,2006,2006,2006,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070190,"Potatoes other than seed potatoes, fresh/chilled",8,Weight in kilograms,74000,,,,74000,,16783,,,0
-H2,2006,2006,2006,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070200,"Tomatoes, fresh/chilled",8,Weight in kilograms,509913,,,,509913,,536846,,,0
-H2,2006,2006,2006,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070310,"Onions & shallots, fresh/chilled",8,Weight in kilograms,5108438,,,,5108438,,1144731,,,0
-H2,2006,2006,2006,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070320,"Garlic, fresh/chilled",8,Weight in kilograms,61552,,,,61552,,39744,,,0
-H2,2006,2006,2006,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070700,"Cucumbers & gherkins, fresh/chilled",8,Weight in kilograms,152499,,,,152499,,151620,,,0
-H2,2006,2006,2006,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070820,"Beans (Vigna spp., Phaseolus spp.), shelled/unshelled, fresh/chilled",8,Weight in kilograms,1,,,,1,,60,,,0
-H1,1997,1997,1997,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070110,"Potatoes seed, fresh or chilled",8,Weight in kilograms,524375,,,,524375,,360858,,,0
-H1,1997,1997,1997,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070190,"Potatoes, fresh or chilled except seed",8,Weight in kilograms,266500,,,,266500,,55550,,,0
-H1,1997,1997,1997,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070200,"Tomatoes, fresh or chilled",8,Weight in kilograms,18199,,,,18199,,10523,,,0
-H1,1997,1997,1997,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070310,"Onions and shallots, fresh or chilled",8,Weight in kilograms,154398,,,,154398,,39980,,,0
-H1,1997,1997,1997,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070320,"Garlic, fresh or chilled",8,Weight in kilograms,105699,,,,105699,,52167,,,0
-H1,1997,1997,1997,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070700,"Cucumbers and gherkins, fresh or chilled",8,Weight in kilograms,699,,,,699,,1069,,,0
-H1,1997,1997,1997,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070810,"Peas, shelled or unshelled, fresh or chilled",8,Weight in kilograms,14875,,,,14875,,5959,,,0
-H1,1997,1997,1997,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070820,"Beans, shelled or unshelled, fresh or chilled",8,Weight in kilograms,19398,,,,19398,,7760,,,0
-H1,1999,1999,1999,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070110,"Potatoes seed, fresh or chilled",8,Weight in kilograms,437550,,,,437550,,279467,,,0
-H1,1999,1999,1999,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070200,"Tomatoes, fresh or chilled",8,Weight in kilograms,46503,,,,46503,,34574,,,0
-H1,1999,1999,1999,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070320,"Garlic, fresh or chilled",8,Weight in kilograms,84750,,,,84750,,33506,,,0
-H1,1999,1999,1999,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070700,"Cucumbers and gherkins, fresh or chilled",8,Weight in kilograms,67245,,,,67245,,49905,,,0
-H1,1999,1999,1999,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070810,"Peas, shelled or unshelled, fresh or chilled",8,Weight in kilograms,20000,,,,20000,,7000,,,0
-H1,1999,1999,1999,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070820,"Beans, shelled or unshelled, fresh or chilled",8,Weight in kilograms,68000,,,,68000,,26987,,,0
-H1,1999,1999,1999,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070890,"Legumes except peas & beans, fresh or chilled",8,Weight in kilograms,503,,,,503,,326,,,0
-H1,2000,2000,2000,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070110,"Potatoes seed, fresh or chilled",8,Weight in kilograms,390040,,,,390040,,294593,,,0
-H1,2000,2000,2000,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070310,"Onions and shallots, fresh or chilled",8,Weight in kilograms,16663,,,,16663,,3284,,,0
-H1,2000,2000,2000,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070490,"Edible brassicas nes, fresh or chilled",8,Weight in kilograms,6,,,,6,,14,,,0
-H1,2000,2000,2000,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070690,"Beetroot,salsify,celeriac,radishes etc. fresh, chilled",8,Weight in kilograms,4272,,,,4272,,4272,,,0
-H1,2000,2000,2000,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070700,"Cucumbers and gherkins, fresh or chilled",8,Weight in kilograms,3593,,,,3593,,3598,,,0
-H1,2001,2001,2001,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070110,"Potatoes seed, fresh or chilled",8,Weight in kilograms,1789628,,,,1789628,,738566,,,0
-H1,2001,2001,2001,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070190,"Potatoes, fresh or chilled except seed",8,Weight in kilograms,500000,,,,500000,,10870,,,0
-H1,2001,2001,2001,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070200,"Tomatoes, fresh or chilled",8,Weight in kilograms,7387,,,,7387,,3144,,,0
-H1,2001,2001,2001,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070310,"Onions and shallots, fresh or chilled",8,Weight in kilograms,4212,,,,4212,,912,,,0
-H1,2001,2001,2001,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070320,"Garlic, fresh or chilled",8,Weight in kilograms,21435,,,,21435,,9007,,,0
-H1,2001,2001,2001,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070700,"Cucumbers and gherkins, fresh or chilled",8,Weight in kilograms,4191,,,,4191,,1886,,,0
-H1,2001,2001,2001,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070810,"Peas, shelled or unshelled, fresh or chilled",8,Weight in kilograms,16575,,,,16575,,4973,,,0
-H1,2002,2002,2002,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070110,"Potatoes seed, fresh or chilled",8,Weight in kilograms,1914950,,,,1914950,,1000133,,,0
-H1,2002,2002,2002,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070190,"Potatoes, fresh or chilled except seed",8,Weight in kilograms,2620,,,,2620,,262,,,0
-H1,2002,2002,2002,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070200,"Tomatoes, fresh or chilled",8,Weight in kilograms,3178,,,,3178,,1589,,,0
-H1,2002,2002,2002,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070310,"Onions and shallots, fresh or chilled",8,Weight in kilograms,98785,,,,98785,,11237,,,0
-H1,2002,2002,2002,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070320,"Garlic, fresh or chilled",8,Weight in kilograms,8697,,,,8697,,3309,,,0
-H1,2002,2002,2002,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,070700,"Cucumbers and gherkins, fresh or chilled",8,Weight in kilograms,8351,,,,8351,,3870,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70110,"Potatoes, fresh/chilled",8,Weight in kilograms,1575435,,,,1575435,,1092300,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70190,"Potatoes, fresh/chilled",8,Weight in kilograms,202445,,,,202445,,61569,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70200,"Tomatoes, fresh/chilled",8,Weight in kilograms,400,,,,400,,1320,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70310,"Onions & shallots, fresh/chilled",8,Weight in kilograms,4926661,,,,4926661,,1154195,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70320,"Garlic, fresh/chilled",8,Weight in kilograms,122415,,,,122415,,125910,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70410,"Cauliflowers & headed broccoli, fresh/chilled",8,Weight in kilograms,3310,,,,3310,,5354,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70420,"Brussels sprouts, fresh/chilled",8,Weight in kilograms,1850,,,,1850,,3468,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70490,"Cabbages, kohlrabi, &  kale",8,Weight in kilograms,862947,,,,862947,,115365,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70610,"Carrots & turnips, fresh/chilled",8,Weight in kilograms,2105682,,,,2105682,,563376,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70690,"Salad beetroot, salsify, celeriac, & radishes",8,Weight in kilograms,1660,,,,1660,,6096,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70700,"Cucumbers & gherkins, fresh/chilled",8,Weight in kilograms,179896,,,,179896,,347130,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70810,"Peas, shelled or unshelled, fresh or chilled",8,Weight in kilograms,107961,,,,107961,,28307,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70820,"Beans, shelled or unshelled, fresh or chilled",8,Weight in kilograms,3584,,,,3584,,6070,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70890,"Legumes except peas & beans, fresh or chilled",8,Weight in kilograms,24280,,,,24280,,7997,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70110,"Potatoes, fresh/chilled",8,Weight in kilograms,1937320,,,,1937320,,1540851,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70190,"Potatoes, fresh/chilled",8,Weight in kilograms,84832,,,,84832,,25317,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70200,"Tomatoes, fresh/chilled",8,Weight in kilograms,2589041,,,,2589041,,1057857,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70310,"Onions & shallots, fresh/chilled",8,Weight in kilograms,4400820,,,,4400820,,724078,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70320,"Garlic, fresh/chilled",8,Weight in kilograms,97312,,,,97312,,96216,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70390,"Leeks, fresh/chilled",8,Weight in kilograms,958,,,,958,,2009,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70410,"Cauliflowers & headed broccoli, fresh/chilled",8,Weight in kilograms,141568,,,,141568,,161587,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70420,"Brussels sprouts, fresh/chilled",8,Weight in kilograms,985,,,,985,,2291,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70490,"Cabbages, kohlrabi, &  kale",8,Weight in kilograms,1572320,,,,1572320,,365002,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70511,"Cabbage lettuce (head lettuce), fresh/chilled",8,Weight in kilograms,181,,,,181,,1154,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70610,"Carrots & turnips, fresh/chilled",8,Weight in kilograms,2998266,,,,2998266,,822754,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70690,"Salad beetroot, salsify, celeriac, & radishes",8,Weight in kilograms,297663,,,,297663,,87820,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70700,"Cucumbers & gherkins, fresh/chilled",8,Weight in kilograms,592471,,,,592471,,1089453,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70810,"Peas, shelled or unshelled, fresh or chilled",8,Weight in kilograms,87918,,,,87918,,29790,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70820,"Beans, shelled or unshelled, fresh or chilled",8,Weight in kilograms,773,,,,773,,1302,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70890,"Legumes except peas & beans, fresh or chilled",8,Weight in kilograms,117,,,,117,,547,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70110,"Potatoes, fresh/chilled",8,Weight in kilograms,1720490,,,,1720490,,1268067,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70190,"Potatoes, fresh/chilled",8,Weight in kilograms,2512436,,,,2512436,,497831,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70200,"Tomatoes, fresh/chilled",8,Weight in kilograms,3756936,,,,3756936,,2331573,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70310,"Onions & shallots, fresh/chilled",8,Weight in kilograms,5531421,,,,5531421,,1448393,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70320,"Garlic, fresh/chilled",8,Weight in kilograms,55244,,,,55244,,46252,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70390,"Leeks, fresh/chilled",8,Weight in kilograms,1946,,,,1946,,5430,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70410,"Cauliflowers & headed broccoli, fresh/chilled",8,Weight in kilograms,261656,,,,261656,,199989,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70420,"Brussels sprouts, fresh/chilled",8,Weight in kilograms,2480,,,,2480,,5256,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70490,"Cabbages, kohlrabi, &  kale",8,Weight in kilograms,2451849,,,,2451849,,464883,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70511,"Cabbage lettuce (head lettuce), fresh/chilled",8,Weight in kilograms,369200,,,,369200,,77808,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70521,"Witloof chicory, fresh/chilled",8,Weight in kilograms,69,,,,69,,594,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70610,"Carrots & turnips, fresh/chilled",8,Weight in kilograms,3688716,,,,3688716,,877003,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70690,"Salad beetroot, salsify, celeriac, & radishes",8,Weight in kilograms,653354,,,,653354,,94015,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70700,"Cucumbers & gherkins, fresh/chilled",8,Weight in kilograms,1603656,,,,1603656,,1332098,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70810,"Peas, shelled or unshelled, fresh or chilled",8,Weight in kilograms,259009,,,,259009,,37714,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70820,"Beans, shelled or unshelled, fresh or chilled",8,Weight in kilograms,2349,,,,2349,,2518,,,0
+H5,2019,2019,2019,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70890,"Legumes except peas & beans, fresh or chilled",8,Weight in kilograms,1048,,,,1048,,1881,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70110,"Potatoes, fresh/chilled",8,Weight in kilograms,2009870,,,,2009870,,1189044,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70190,"Potatoes, fresh/chilled",8,Weight in kilograms,91899,,,,91899,,28199,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70200,"Tomatoes, fresh/chilled",8,Weight in kilograms,139147,,,,139147,,324844,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70310,"Onions & shallots, fresh/chilled",8,Weight in kilograms,7292413,,,,7292413,,3099106,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70320,"Garlic, fresh/chilled",8,Weight in kilograms,12805,,,,12805,,15559,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70390,"Leeks, fresh/chilled",8,Weight in kilograms,45920,,,,45920,,15416,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70410,"Cauliflowers & headed broccoli, fresh/chilled",8,Weight in kilograms,2309,,,,2309,,6211,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70490,"Cabbages, kohlrabi, &  kale",8,Weight in kilograms,565866,,,,565866,,96272,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70519,Lettuce (Lactuca sativa) fresh/chilled,8,Weight in kilograms,15,,,,15,,233,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70521,"Witloof chicory, fresh/chilled",8,Weight in kilograms,65,,,,65,,674,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70529,"chicory, fresh or chilled",8,Weight in kilograms,8,,,,8,,132,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70610,"Carrots & turnips, fresh/chilled",8,Weight in kilograms,645382,,,,645382,,256390,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70690,"Salad beetroot, salsify, celeriac, & radishes",8,Weight in kilograms,1279,,,,1279,,5157,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70700,"Cucumbers & gherkins, fresh/chilled",8,Weight in kilograms,314698,,,,314698,,830397,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70810,"Peas, shelled or unshelled, fresh or chilled",8,Weight in kilograms,74,,,,74,,1006,,,0
+H4,2013,2013,2013,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70820,"Beans, shelled or unshelled, fresh or chilled",8,Weight in kilograms,148,,,,148,,1684,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70110,"Potatoes, fresh/chilled",8,Weight in kilograms,7577460,,,,7577460,,3397680,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70190,"Potatoes, fresh/chilled",8,Weight in kilograms,47790,,,,47790,,11280,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70200,"Tomatoes, fresh/chilled",8,Weight in kilograms,139131,,,,139131,,336176,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70310,"Onions & shallots, fresh/chilled",8,Weight in kilograms,8556616,,,,8556616,,3669831,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70320,"Garlic, fresh/chilled",8,Weight in kilograms,80510,,,,80510,,97589,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70390,"Leeks, fresh/chilled",8,Weight in kilograms,19,,,,19,,398,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70410,"Cauliflowers & headed broccoli, fresh/chilled",8,Weight in kilograms,308,,,,308,,811,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70420,"Brussels sprouts, fresh/chilled",8,Weight in kilograms,55,,,,55,,362,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70490,"Cabbages, kohlrabi, &  kale",8,Weight in kilograms,2858775,,,,2858775,,540773,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70511,"Cabbage lettuce (head lettuce), fresh/chilled",8,Weight in kilograms,10,,,,10,,98,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70519,Lettuce (Lactuca sativa) fresh/chilled,8,Weight in kilograms,71,,,,71,,937,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70521,"Witloof chicory, fresh/chilled",8,Weight in kilograms,13,,,,13,,100,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70610,"Carrots & turnips, fresh/chilled",8,Weight in kilograms,198820,,,,198820,,77936,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70690,"Salad beetroot, salsify, celeriac, & radishes",8,Weight in kilograms,1197,,,,1197,,7045,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70700,"Cucumbers & gherkins, fresh/chilled",8,Weight in kilograms,333871,,,,333871,,849711,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70810,"Peas, shelled or unshelled, fresh or chilled",8,Weight in kilograms,18,,,,18,,214,,,0
+H4,2014,2014,2014,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70820,"Beans, shelled or unshelled, fresh or chilled",8,Weight in kilograms,1165,,,,1165,,2944,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70110,"Potatoes, fresh/chilled",8,Weight in kilograms,3163034,,,,3163034,,2162680,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70190,"Potatoes, fresh/chilled",8,Weight in kilograms,224360,,,,224360,,39935,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70200,"Tomatoes, fresh/chilled",8,Weight in kilograms,34873,,,,34873,,90767,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70310,"Onions & shallots, fresh/chilled",8,Weight in kilograms,5904418,,,,5904418,,2239095,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70320,"Garlic, fresh/chilled",8,Weight in kilograms,150735,,,,150735,,208401,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70390,"Leeks, fresh/chilled",8,Weight in kilograms,180,,,,180,,419,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70410,"Cauliflowers & headed broccoli, fresh/chilled",8,Weight in kilograms,6906,,,,6906,,5739,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70420,"Brussels sprouts, fresh/chilled",8,Weight in kilograms,265,,,,265,,1694,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70490,"Cabbages, kohlrabi, &  kale",8,Weight in kilograms,5824130,,,,5824130,,1165778,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70519,Lettuce (Lactuca sativa) fresh/chilled,8,Weight in kilograms,307,,,,307,,2899,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70521,"Witloof chicory, fresh/chilled",8,Weight in kilograms,122,,,,122,,702,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70610,"Carrots & turnips, fresh/chilled",8,Weight in kilograms,838076,,,,838076,,332707,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70690,"Salad beetroot, salsify, celeriac, & radishes",8,Weight in kilograms,40797,,,,40797,,13012,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70700,"Cucumbers & gherkins, fresh/chilled",8,Weight in kilograms,132705,,,,132705,,347508,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70810,"Peas, shelled or unshelled, fresh or chilled",8,Weight in kilograms,123727,,,,123727,,32457,,,0
+H4,2015,2015,2015,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70820,"Beans, shelled or unshelled, fresh or chilled",8,Weight in kilograms,68,,,,68,,267,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70110,"Potatoes, fresh/chilled",8,Weight in kilograms,2497510,,,,2497510,,1868874,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70190,"Potatoes, fresh/chilled",8,Weight in kilograms,1579864,,,,1579864,,591472,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70200,"Tomatoes, fresh/chilled",8,Weight in kilograms,117072,,,,117072,,274983,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70310,"Onions & shallots, fresh/chilled",8,Weight in kilograms,5068403,,,,5068403,,1188865,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70320,"Garlic, fresh/chilled",8,Weight in kilograms,66475,,,,66475,,65657,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70390,"Leeks, fresh/chilled",8,Weight in kilograms,380,,,,380,,1114,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70410,"Cauliflowers & headed broccoli, fresh/chilled",8,Weight in kilograms,11073,,,,11073,,17166,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70420,"Brussels sprouts, fresh/chilled",8,Weight in kilograms,1330,,,,1330,,1388,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70490,"Cabbages, kohlrabi, &  kale",8,Weight in kilograms,480490,,,,480490,,67083,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70519,Lettuce (Lactuca sativa) fresh/chilled,8,Weight in kilograms,91,,,,91,,1270,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70521,"Witloof chicory, fresh/chilled",8,Weight in kilograms,73,,,,73,,436,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70610,"Carrots & turnips, fresh/chilled",8,Weight in kilograms,1444552,,,,1444552,,492104,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70690,"Salad beetroot, salsify, celeriac, & radishes",8,Weight in kilograms,8863,,,,8863,,4837,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70700,"Cucumbers & gherkins, fresh/chilled",8,Weight in kilograms,157032,,,,157032,,325174,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70810,"Peas, shelled or unshelled, fresh or chilled",8,Weight in kilograms,107298,,,,107298,,107774,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70820,"Beans, shelled or unshelled, fresh or chilled",8,Weight in kilograms,4794,,,,4794,,7755,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70890,"Legumes except peas & beans, fresh or chilled",8,Weight in kilograms,1076,,,,1076,,1216,,,0
+H3,2007,2007,2007,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70110,"Potatoes, fresh/chilled",8,Weight in kilograms,3577060,,,,3577060,,3269529,,,0
+H3,2007,2007,2007,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70190,"Potatoes, fresh/chilled",8,Weight in kilograms,2229363,,,,2229363,,359593,,,0
+H3,2007,2007,2007,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70200,"Tomatoes, fresh/chilled",8,Weight in kilograms,175442,,,,175442,,298398,,,0
+H3,2007,2007,2007,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70310,"Onions & shallots, fresh/chilled",8,Weight in kilograms,6402483,,,,6402483,,1992099,,,0
+H3,2007,2007,2007,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70320,"Garlic, fresh/chilled",8,Weight in kilograms,151586,,,,151586,,164757,,,0
+H3,2007,2007,2007,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70700,"Cucumbers & gherkins, fresh/chilled",8,Weight in kilograms,377218,,,,377218,,843896,,,0
+H3,2007,2007,2007,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70810,"Peas, shelled or unshelled, fresh or chilled",8,Weight in kilograms,2200,,,,2200,,991,,,0
+H3,2007,2007,2007,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70820,"Beans, shelled or unshelled, fresh or chilled",8,Weight in kilograms,1920,,,,1920,,1152,,,0
+H3,2007,2007,2007,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70890,"Legumes except peas & beans, fresh or chilled",8,Weight in kilograms,19700,,,,19700,,8865,,,0
+H3,2008,2008,2008,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70110,"Potatoes, fresh/chilled",8,Weight in kilograms,4122378,,,,4122378,,4593226,,,0
+H3,2008,2008,2008,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70190,"Potatoes, fresh/chilled",8,Weight in kilograms,146060,,,,146060,,49060,,,0
+H3,2008,2008,2008,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70200,"Tomatoes, fresh/chilled",8,Weight in kilograms,93793,,,,93793,,278907,,,0
+H3,2008,2008,2008,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70310,"Onions & shallots, fresh/chilled",8,Weight in kilograms,4554920,,,,4554920,,2413939,,,0
+H3,2008,2008,2008,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70320,"Garlic, fresh/chilled",8,Weight in kilograms,327220,,,,327220,,438549,,,0
+H3,2008,2008,2008,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70390,"Leeks, fresh/chilled",8,Weight in kilograms,26,,,,26,,30,,,0
+H3,2008,2008,2008,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70410,"Cauliflowers & headed broccoli, fresh/chilled",8,Weight in kilograms,120,,,,120,,690,,,0
+H3,2008,2008,2008,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70420,"Brussels sprouts, fresh/chilled",8,Weight in kilograms,20,,,,20,,21,,,0
+H3,2008,2008,2008,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70490,"Cabbages, kohlrabi, &  kale",8,Weight in kilograms,20500,,,,20500,,4273,,,0
+H3,2008,2008,2008,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70521,"Witloof chicory, fresh/chilled",8,Weight in kilograms,12,,,,12,,35,,,0
+H3,2008,2008,2008,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70610,"Carrots & turnips, fresh/chilled",8,Weight in kilograms,2650,,,,2650,,1325,,,0
+H3,2008,2008,2008,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70700,"Cucumbers & gherkins, fresh/chilled",8,Weight in kilograms,161150,,,,161150,,508446,,,0
+H3,2009,2009,2009,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70110,"Potatoes, fresh/chilled",8,Weight in kilograms,801300,,,,801300,,744347,,,0
+H3,2009,2009,2009,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70200,"Tomatoes, fresh/chilled",8,Weight in kilograms,138250,,,,138250,,344787,,,0
+H3,2009,2009,2009,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70310,"Onions & shallots, fresh/chilled",8,Weight in kilograms,5359706,,,,5359706,,2485727,,,0
+H3,2009,2009,2009,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70320,"Garlic, fresh/chilled",8,Weight in kilograms,106666,,,,106666,,114545,,,0
+H3,2009,2009,2009,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70410,"Cauliflowers & headed broccoli, fresh/chilled",8,Weight in kilograms,440,,,,440,,921,,,0
+H3,2009,2009,2009,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70490,"Cabbages, kohlrabi, &  kale",8,Weight in kilograms,207600,,,,207600,,41936,,,0
+H3,2009,2009,2009,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70519,Lettuce (Lactuca sativa) fresh/chilled,8,Weight in kilograms,4,,,,4,,31,,,0
+H3,2009,2009,2009,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70610,"Carrots & turnips, fresh/chilled",8,Weight in kilograms,27600,,,,27600,,13803,,,0
+H3,2009,2009,2009,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70700,"Cucumbers & gherkins, fresh/chilled",8,Weight in kilograms,129060,,,,129060,,332237,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70110,"Potatoes, fresh/chilled",8,Weight in kilograms,839345,,,,839345,,812402,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70190,"Potatoes, fresh/chilled",8,Weight in kilograms,729224,,,,729224,,169334,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70200,"Tomatoes, fresh/chilled",8,Weight in kilograms,230607,,,,230607,,578338,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70310,"Onions & shallots, fresh/chilled",8,Weight in kilograms,10271119,,,,10271119,,4362352,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70320,"Garlic, fresh/chilled",8,Weight in kilograms,84699,,,,84699,,105710,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70390,"Leeks, fresh/chilled",8,Weight in kilograms,600,,,,600,,961,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70410,"Cauliflowers & headed broccoli, fresh/chilled",8,Weight in kilograms,0,,,,0,,87,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70490,"Cabbages, kohlrabi, &  kale",8,Weight in kilograms,430,,,,430,,72,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70700,"Cucumbers & gherkins, fresh/chilled",8,Weight in kilograms,431310,,,,431310,,1124232,,,0
+H3,2010,2010,2010,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70820,"Beans, shelled or unshelled, fresh or chilled",8,Weight in kilograms,3121,,,,3121,,5334,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70110,"Potatoes, fresh/chilled",8,Weight in kilograms,3348775,,,,3348775,,3507556,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70190,"Potatoes, fresh/chilled",8,Weight in kilograms,6013760,,,,6013760,,1570792,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70200,"Tomatoes, fresh/chilled",8,Weight in kilograms,244382,,,,244382,,583230,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70310,"Onions & shallots, fresh/chilled",8,Weight in kilograms,10583434,,,,10583434,,4981336,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70320,"Garlic, fresh/chilled",8,Weight in kilograms,48000,,,,48000,,58395,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70410,"Cauliflowers & headed broccoli, fresh/chilled",8,Weight in kilograms,2100,,,,2100,,1190,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70420,"Brussels sprouts, fresh/chilled",8,Weight in kilograms,320,,,,320,,459,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70490,"Cabbages, kohlrabi, &  kale",8,Weight in kilograms,149620,,,,149620,,30262,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70610,"Carrots & turnips, fresh/chilled",8,Weight in kilograms,197097,,,,197097,,83884,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70690,"Salad beetroot, salsify, celeriac, & radishes",8,Weight in kilograms,2950,,,,2950,,1245,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70700,"Cucumbers & gherkins, fresh/chilled",8,Weight in kilograms,400846,,,,400846,,1116191,,,0
+H3,2011,2011,2011,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70820,"Beans, shelled or unshelled, fresh or chilled",8,Weight in kilograms,1230,,,,1230,,1553,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70110,"Potatoes, fresh/chilled",8,Weight in kilograms,3547560,,,,3547560,,3385809,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70190,"Potatoes, fresh/chilled",8,Weight in kilograms,1551271,,,,1551271,,411125,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70200,"Tomatoes, fresh/chilled",8,Weight in kilograms,237189,,,,237189,,596579,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70310,"Onions & shallots, fresh/chilled",8,Weight in kilograms,8068269,,,,8068269,,3471700,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70320,"Garlic, fresh/chilled",8,Weight in kilograms,200,,,,200,,200,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70390,"Leeks, fresh/chilled",8,Weight in kilograms,30,,,,30,,62,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70410,"Cauliflowers & headed broccoli, fresh/chilled",8,Weight in kilograms,3695,,,,3695,,1652,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70420,"Brussels sprouts, fresh/chilled",8,Weight in kilograms,320,,,,320,,621,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70490,"Cabbages, kohlrabi, &  kale",8,Weight in kilograms,77340,,,,77340,,14393,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70511,"Cabbage lettuce (head lettuce), fresh/chilled",8,Weight in kilograms,183,,,,183,,255,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70610,"Carrots & turnips, fresh/chilled",8,Weight in kilograms,12,,,,12,,234,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70700,"Cucumbers & gherkins, fresh/chilled",8,Weight in kilograms,339050,,,,339050,,890370,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70810,"Peas, shelled or unshelled, fresh or chilled",8,Weight in kilograms,6,,,,6,,77,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70820,"Beans, shelled or unshelled, fresh or chilled",8,Weight in kilograms,489,,,,489,,1344,,,0
+H3,2012,2012,2012,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70890,"Legumes except peas & beans, fresh or chilled",8,Weight in kilograms,24,,,,24,,260,,,0
+H2,2003,2003,2003,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70110,"Potatoes, fresh/chilled",8,Weight in kilograms,2831305,,,,2831305,,1838305,,,0
+H2,2003,2003,2003,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70190,"Potatoes, fresh/chilled",8,Weight in kilograms,21382,,,,21382,,5184,,,0
+H2,2003,2003,2003,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70200,"Tomatoes, fresh/chilled",8,Weight in kilograms,855,,,,855,,342,,,0
+H2,2003,2003,2003,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70310,"Onions & shallots, fresh/chilled",8,Weight in kilograms,102594,,,,102594,,10950,,,0
+H2,2003,2003,2003,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70320,"Garlic, fresh/chilled",8,Weight in kilograms,1830,,,,1830,,587,,,0
+H2,2003,2003,2003,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70700,"Cucumbers & gherkins, fresh/chilled",8,Weight in kilograms,5650,,,,5650,,2260,,,0
+H2,2004,2004,2004,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70110,"Potatoes, fresh/chilled",8,Weight in kilograms,1553326,,,,1553326,,1072145,,,0
+H2,2004,2004,2004,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70200,"Tomatoes, fresh/chilled",8,Weight in kilograms,93209,,,,93209,,36745,,,0
+H2,2004,2004,2004,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70310,"Onions & shallots, fresh/chilled",8,Weight in kilograms,3571884,,,,3571884,,349150,,,0
+H2,2004,2004,2004,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70320,"Garlic, fresh/chilled",8,Weight in kilograms,78639,,,,78639,,31476,,,0
+H2,2004,2004,2004,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70700,"Cucumbers & gherkins, fresh/chilled",8,Weight in kilograms,242782,,,,242782,,96973,,,0
+H2,2004,2004,2004,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70890,"Legumes except peas & beans, fresh or chilled",8,Weight in kilograms,108,,,,108,,32,,,0
+H2,2005,2005,2005,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70110,"Potatoes, fresh/chilled",8,Weight in kilograms,915128,,,,915128,,704133,,,0
+H2,2005,2005,2005,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70190,"Potatoes, fresh/chilled",8,Weight in kilograms,0,,,,0,,71,,,0
+H2,2005,2005,2005,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70200,"Tomatoes, fresh/chilled",8,Weight in kilograms,327278,,,,327278,,180790,,,0
+H2,2005,2005,2005,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70310,"Onions & shallots, fresh/chilled",8,Weight in kilograms,1243939,,,,1243939,,120785,,,0
+H2,2005,2005,2005,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70320,"Garlic, fresh/chilled",8,Weight in kilograms,33891,,,,33891,,17055,,,0
+H2,2005,2005,2005,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70700,"Cucumbers & gherkins, fresh/chilled",8,Weight in kilograms,310634,,,,310634,,154036,,,0
+H2,2005,2005,2005,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70810,"Peas, shelled or unshelled, fresh or chilled",8,Weight in kilograms,1848,,,,1848,,755,,,0
+H2,2005,2005,2005,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70820,"Beans, shelled or unshelled, fresh or chilled",8,Weight in kilograms,549,,,,549,,353,,,0
+H2,2006,2006,2006,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70110,"Potatoes, fresh/chilled",8,Weight in kilograms,1630970,,,,1630970,,1326597,,,0
+H2,2006,2006,2006,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70190,"Potatoes, fresh/chilled",8,Weight in kilograms,74000,,,,74000,,16783,,,0
+H2,2006,2006,2006,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70200,"Tomatoes, fresh/chilled",8,Weight in kilograms,509913,,,,509913,,536846,,,0
+H2,2006,2006,2006,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70310,"Onions & shallots, fresh/chilled",8,Weight in kilograms,5108438,,,,5108438,,1144731,,,0
+H2,2006,2006,2006,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70320,"Garlic, fresh/chilled",8,Weight in kilograms,61552,,,,61552,,39744,,,0
+H2,2006,2006,2006,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70700,"Cucumbers & gherkins, fresh/chilled",8,Weight in kilograms,152499,,,,152499,,151620,,,0
+H2,2006,2006,2006,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70820,"Beans, shelled or unshelled, fresh or chilled",8,Weight in kilograms,1,,,,1,,60,,,0
+H1,1997,1997,1997,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70110,"Potatoes, fresh/chilled",8,Weight in kilograms,524375,,,,524375,,360858,,,0
+H1,1997,1997,1997,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70190,"Potatoes, fresh/chilled",8,Weight in kilograms,266500,,,,266500,,55550,,,0
+H1,1997,1997,1997,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70200,"Tomatoes, fresh/chilled",8,Weight in kilograms,18199,,,,18199,,10523,,,0
+H1,1997,1997,1997,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70310,"Onions & shallots, fresh/chilled",8,Weight in kilograms,154398,,,,154398,,39980,,,0
+H1,1997,1997,1997,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70320,"Garlic, fresh/chilled",8,Weight in kilograms,105699,,,,105699,,52167,,,0
+H1,1997,1997,1997,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70700,"Cucumbers & gherkins, fresh/chilled",8,Weight in kilograms,699,,,,699,,1069,,,0
+H1,1997,1997,1997,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70810,"Peas, shelled or unshelled, fresh or chilled",8,Weight in kilograms,14875,,,,14875,,5959,,,0
+H1,1997,1997,1997,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70820,"Beans, shelled or unshelled, fresh or chilled",8,Weight in kilograms,19398,,,,19398,,7760,,,0
+H1,1999,1999,1999,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70110,"Potatoes, fresh/chilled",8,Weight in kilograms,437550,,,,437550,,279467,,,0
+H1,1999,1999,1999,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70200,"Tomatoes, fresh/chilled",8,Weight in kilograms,46503,,,,46503,,34574,,,0
+H1,1999,1999,1999,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70320,"Garlic, fresh/chilled",8,Weight in kilograms,84750,,,,84750,,33506,,,0
+H1,1999,1999,1999,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70700,"Cucumbers & gherkins, fresh/chilled",8,Weight in kilograms,67245,,,,67245,,49905,,,0
+H1,1999,1999,1999,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70810,"Peas, shelled or unshelled, fresh or chilled",8,Weight in kilograms,20000,,,,20000,,7000,,,0
+H1,1999,1999,1999,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70820,"Beans, shelled or unshelled, fresh or chilled",8,Weight in kilograms,68000,,,,68000,,26987,,,0
+H1,1999,1999,1999,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70890,"Legumes except peas & beans, fresh or chilled",8,Weight in kilograms,503,,,,503,,326,,,0
+H1,2000,2000,2000,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70110,"Potatoes, fresh/chilled",8,Weight in kilograms,390040,,,,390040,,294593,,,0
+H1,2000,2000,2000,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70310,"Onions & shallots, fresh/chilled",8,Weight in kilograms,16663,,,,16663,,3284,,,0
+H1,2000,2000,2000,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70490,"Cabbages, kohlrabi, &  kale",8,Weight in kilograms,6,,,,6,,14,,,0
+H1,2000,2000,2000,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70690,"Salad beetroot, salsify, celeriac, & radishes",8,Weight in kilograms,4272,,,,4272,,4272,,,0
+H1,2000,2000,2000,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70700,"Cucumbers & gherkins, fresh/chilled",8,Weight in kilograms,3593,,,,3593,,3598,,,0
+H1,2001,2001,2001,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70110,"Potatoes, fresh/chilled",8,Weight in kilograms,1789628,,,,1789628,,738566,,,0
+H1,2001,2001,2001,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70190,"Potatoes, fresh/chilled",8,Weight in kilograms,500000,,,,500000,,10870,,,0
+H1,2001,2001,2001,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70200,"Tomatoes, fresh/chilled",8,Weight in kilograms,7387,,,,7387,,3144,,,0
+H1,2001,2001,2001,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70310,"Onions & shallots, fresh/chilled",8,Weight in kilograms,4212,,,,4212,,912,,,0
+H1,2001,2001,2001,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70320,"Garlic, fresh/chilled",8,Weight in kilograms,21435,,,,21435,,9007,,,0
+H1,2001,2001,2001,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70700,"Cucumbers & gherkins, fresh/chilled",8,Weight in kilograms,4191,,,,4191,,1886,,,0
+H1,2001,2001,2001,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70810,"Peas, shelled or unshelled, fresh or chilled",8,Weight in kilograms,16575,,,,16575,,4973,,,0
+H1,2002,2002,2002,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70110,"Potatoes, fresh/chilled",8,Weight in kilograms,1914950,,,,1914950,,1000133,,,0
+H1,2002,2002,2002,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70190,"Potatoes, fresh/chilled",8,Weight in kilograms,2620,,,,2620,,262,,,0
+H1,2002,2002,2002,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70200,"Tomatoes, fresh/chilled",8,Weight in kilograms,3178,,,,3178,,1589,,,0
+H1,2002,2002,2002,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70310,"Onions & shallots, fresh/chilled",8,Weight in kilograms,98785,,,,98785,,11237,,,0
+H1,2002,2002,2002,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70320,"Garlic, fresh/chilled",8,Weight in kilograms,8697,,,,8697,,3309,,,0
+H1,2002,2002,2002,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,70700,"Cucumbers & gherkins, fresh/chilled",8,Weight in kilograms,8351,,,,8351,,3870,,,0
